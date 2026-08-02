@@ -265,7 +265,7 @@ def enrich_holdings(data: pd.DataFrame) -> pd.DataFrame:
     data["Coordination Priority"] = data.apply(priority, axis=1)
     data["Suggested Discussion"] = data.apply(suggested_discussion, axis=1)
     data["Technical Downloaded"] = False
-    data["Technical Status"] = "Not downloaded"
+    data["Technical Status"] = "Technical refresh pending"
     data["Technical Score"] = None
     data["Technical Note"] = "Technical refresh has not been run yet."
     data["Technical Error"] = ""
@@ -496,7 +496,13 @@ def dashboard_html(data: pd.DataFrame, meta: dict[str, str], source_name: str) -
     .technical-status-leader-hold {{ color: var(--green); border-color: #bbdacc; background: #eef9f4; }}
     .technical-status-constructive {{ color: var(--blue); border-color: #c5d9ea; background: #edf5fc; }}
     .technical-status-risk-review, .technical-status-loss-weak-structure {{ color: var(--red); border-color: #edc3c8; background: #fff3f4; }}
-    .technical-status-monitor, .technical-status-not-downloaded {{ color: var(--muted); }}
+    .technical-status-monitor, .technical-status-technical-refresh-pending,
+    .technical-status-technical-refresh-unavailable {{ color: var(--muted); }}
+    .technical-status-limited-price-history,
+    .technical-status-limited-post-demerger-history {{ color: var(--amber); border-color: #e8d7aa; background: #fff9ea; }}
+    .technical-status-price-history-unavailable,
+    .technical-status-ticker-review-required {{ color: var(--red); border-color: #edc3c8; background: #fff3f4; }}
+    .technical-context {{ margin-top: 6px; max-width: 230px; color: var(--muted); font-size: 12px; line-height: 1.35; }}
     .group-stack {{ padding: 4px 18px 18px; }}
     .group-row {{ display: grid; grid-template-columns: 210px 1fr 76px 92px; gap: 12px; align-items: center; padding: 10px 0; border-bottom: 1px solid #edf0ea; }}
     .group-row:last-child {{ border-bottom: 0; }}
@@ -784,6 +790,67 @@ def dashboard_html(data: pd.DataFrame, meta: dict[str, str], source_name: str) -
       return row['Technical Downloaded'] === true || row['Technical Downloaded'] === 'True';
     }}
 
+    function technicalAvailability(row) {{
+      if (technicalDownloaded(row)) {{
+        return {{
+          label: safe(row['Technical Status']),
+          short: '',
+          detail: safe(row['Technical Note'])
+        }};
+      }}
+
+      const ticker = String(row['Yahoo Ticker'] || '').trim().toUpperCase();
+      const error = String(row['Technical Error'] || '').trim().toLowerCase();
+      const storedStatus = String(row['Technical Status'] || '').trim();
+      const storedNote = String(row['Technical Note'] || '').trim();
+
+      if (ticker === 'TMCV.NS' && error.includes('not enough daily price history')) {{
+        return {{
+          label: 'Limited post-demerger history',
+          short: 'Standalone listing history is still building.',
+          detail: "Tata Motors' commercial-vehicle listing has a shorter standalone history after the demerger. Current price and daily movement are available, but the full long-term technical ranking will remain limited until enough trading history accumulates."
+        }};
+      }}
+      if (error.includes('not enough daily price history')) {{
+        return {{
+          label: 'Limited price history',
+          short: 'Not enough history for the complete indicator set.',
+          detail: 'The listing does not yet have enough daily trading history for the complete technical set. Current price and daily movement are still available; long-term indicators will appear as more history accumulates.'
+        }};
+      }}
+      if (!ticker || ticker === 'NAN' || ticker === 'NONE') {{
+        return {{
+          label: 'Ticker review required',
+          short: 'Ticker must be confirmed before analysis.',
+          detail: 'The market ticker has not been confirmed, so technical indicators are paused to avoid showing analysis for the wrong security. Current NSDL holding data remains available.'
+        }};
+      }}
+      if (['no price data', 'no data', 'possibly delisted', 'empty'].some(phrase => error.includes(phrase))) {{
+        return {{
+          label: 'Price history unavailable',
+          short: 'The provider returned no usable price history.',
+          detail: 'The data provider returned no usable daily price history in the latest refresh. Current NSDL holding data remains visible, and the technical layer will retry automatically.'
+        }};
+      }}
+      if (storedStatus && storedStatus !== 'Not downloaded') {{
+        return {{
+          label: storedStatus,
+          short: storedNote && storedNote !== 'Technical refresh has not been run yet.' ? storedNote : '',
+          detail: storedNote || 'The technical layer will retry during the next scheduled refresh.'
+        }};
+      }}
+      return {{
+        label: 'Technical refresh unavailable',
+        short: 'The latest indicator refresh could not be completed.',
+        detail: 'The technical layer could not be calculated in the latest refresh. Current holding value and daily movement remain available; the next refresh will retry the analysis.'
+      }};
+    }}
+
+    function technicalStatusCell(row) {{
+      const coverage = technicalAvailability(row);
+      return `${{pill('technical-status', coverage.label)}}${{coverage.short ? `<div class="technical-context">${{safe(coverage.short)}}</div>` : ''}}`;
+    }}
+
     function renderTechnicalTables() {{
       const downloaded = DATA.holdings.filter(technicalDownloaded);
       const leaders = [...downloaded].sort((a, b) => (Number(b['Technical Score']) || 0) - (Number(a['Technical Score']) || 0)).slice(0, 10);
@@ -794,7 +861,7 @@ def dashboard_html(data: pd.DataFrame, meta: dict[str, str], source_name: str) -
       document.querySelector('#technicalLeadersTable tbody').innerHTML = leaderRows.map(row => `
         <tr onclick="selectHolding('${{safe(row['Display Name']).replace(/'/g, "\\\\'")}}')">
           <td><strong>${{safe(row['Display Name'])}}</strong></td>
-          <td>${{pill('technical-status', row['Technical Status'])}}</td>
+          <td>${{technicalStatusCell(row)}}</td>
           <td class="num ${{tone(row['RS vs 50D %'])}}">${{pct(row['RS vs 50D %'])}}</td>
           <td class="num">${{num(row['RSI 14'])}}</td>
           <td>${{safe(row['P&F Signal'])}}</td>
@@ -807,7 +874,7 @@ def dashboard_html(data: pd.DataFrame, meta: dict[str, str], source_name: str) -
       document.querySelector('#technicalLaggardsTable tbody').innerHTML = laggardRows.map(row => `
         <tr onclick="selectHolding('${{safe(row['Display Name']).replace(/'/g, "\\\\'")}}')">
           <td><strong>${{safe(row['Display Name'])}}</strong></td>
-          <td>${{pill('technical-status', row['Technical Status'])}}</td>
+          <td>${{technicalStatusCell(row)}}</td>
           <td class="spark-cell">${{sparkline(row['RS Trend'])}}</td>
           <td class="num ${{tone(row['RS vs 50D %'])}}">${{pct(row['RS vs 50D %'])}}</td>
           <td class="num ${{tone(row['RS 3M %'])}}">${{pct(row['RS 3M %'])}}</td>
@@ -820,7 +887,7 @@ def dashboard_html(data: pd.DataFrame, meta: dict[str, str], source_name: str) -
 
     function populateFilters() {{
       const themes = [...new Set(DATA.holdings.map(row => row.Theme).filter(Boolean))].sort();
-      const statuses = [...new Set(DATA.holdings.map(row => row['Technical Status']).filter(Boolean))].sort();
+      const statuses = [...new Set(DATA.holdings.map(row => technicalAvailability(row).label).filter(Boolean))].sort();
       document.getElementById('theme').innerHTML += themes.map(value => `<option>${{safe(value)}}</option>`).join('');
       document.getElementById('technicalStatus').innerHTML += statuses.map(value => `<option>${{safe(value)}}</option>`).join('');
     }}
@@ -835,7 +902,7 @@ def dashboard_html(data: pd.DataFrame, meta: dict[str, str], source_name: str) -
         if (search && !text.includes(search)) return false;
         if (priority && row['Coordination Priority'] !== priority) return false;
         if (theme && row.Theme !== theme) return false;
-        if (status && row['Technical Status'] !== status) return false;
+        if (status && technicalAvailability(row).label !== status) return false;
         return true;
       }}).sort((a, b) => (Number(b['Weight %']) || 0) - (Number(a['Weight %']) || 0));
     }}
@@ -848,7 +915,7 @@ def dashboard_html(data: pd.DataFrame, meta: dict[str, str], source_name: str) -
           <td>${{pill('priority', row['Coordination Priority'])}}</td>
           <td>${{pill('bucket', row['Portfolio Bucket'])}}</td>
           <td>${{safe(row.Theme)}}</td>
-          <td>${{pill('technical-status', row['Technical Status'])}}</td>
+          <td>${{technicalStatusCell(row)}}</td>
           <td class="num">${{pct(row['Weight %'])}}</td>
           <td class="num">${{money(row['Current Value'])}}</td>
           <td class="num ${{tone(row['Day P&L'])}}">${{money(row['Day P&L'])}}</td>
@@ -869,6 +936,7 @@ def dashboard_html(data: pd.DataFrame, meta: dict[str, str], source_name: str) -
     function renderDetail() {{
       const row = selected || DATA.holdings[0];
       if (!row) return;
+      const coverage = technicalAvailability(row);
       document.getElementById('detail').innerHTML = `
         <div class="detail-title">
           <strong>${{safe(row['Display Name'])}}</strong>
@@ -876,7 +944,7 @@ def dashboard_html(data: pd.DataFrame, meta: dict[str, str], source_name: str) -
           <div style="margin-top:10px; display:flex; gap:8px; flex-wrap:wrap;">
             ${{pill('priority', row['Coordination Priority'])}}
             ${{pill('bucket', row['Portfolio Bucket'])}}
-            ${{pill('technical-status', row['Technical Status'])}}
+            ${{pill('technical-status', coverage.label)}}
           </div>
         </div>
         <div class="kv">
@@ -892,7 +960,7 @@ def dashboard_html(data: pd.DataFrame, meta: dict[str, str], source_name: str) -
           <div><span class="k">P&F</span><span class="v">${{safe(row['P&F Signal'])}}</span></div>
         </div>
         <div class="note"><strong>Discussion:</strong> ${{safe(row['Suggested Discussion'])}}</div>
-        <div class="note"><strong>Technical note:</strong> ${{safe(row['Technical Note'])}}</div>
+        <div class="note"><strong>Technical coverage:</strong> ${{safe(coverage.detail)}}</div>
         <div class="note"><strong>Data note:</strong> NSDL has provided current quantity, LTP, day movement, and market value. Buy price and total P&L are not present in this file.</div>
       `;
     }}

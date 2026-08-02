@@ -408,6 +408,46 @@ def clear_technical_columns(data: pd.DataFrame) -> pd.DataFrame:
     return data
 
 
+def unavailable_technical_details(symbol: str, error: str) -> tuple[str, str]:
+    normalized_symbol = symbol.strip().upper()
+    normalized_error = error.strip().lower()
+
+    if "not enough daily price history" in normalized_error:
+        if normalized_symbol == "TMCV.NS":
+            return (
+                "Limited post-demerger history",
+                "Tata Motors' commercial-vehicle listing has a shorter standalone history after the demerger. "
+                "Current price and daily movement are available, but the full long-term technical ranking "
+                "will remain limited until enough trading history accumulates.",
+            )
+        return (
+            "Limited price history",
+            "The listing does not yet have enough daily trading history for the complete technical set. "
+            "Current price and daily movement are still available; long-term indicators will appear as "
+            "more history accumulates.",
+        )
+
+    if not normalized_symbol or normalized_symbol in {"NAN", "NONE"}:
+        return (
+            "Ticker review required",
+            "The market ticker has not been confirmed, so technical indicators are paused to avoid showing "
+            "analysis for the wrong security. Current NSDL holding data remains available.",
+        )
+
+    if any(phrase in normalized_error for phrase in ("no price data", "no data", "possibly delisted", "empty")):
+        return (
+            "Price history unavailable",
+            "The data provider returned no usable daily price history in the latest refresh. Current NSDL "
+            "holding data remains visible, and the technical layer will retry automatically.",
+        )
+
+    return (
+        "Technical refresh unavailable",
+        "The technical layer could not be calculated in the latest refresh. Current holding value and daily "
+        "movement remain available; the next refresh will retry the analysis.",
+    )
+
+
 def refresh(input_path: Path, output_path: Path, period: str, benchmark: str) -> tuple[int, int]:
     data = pd.read_csv(input_path)
     holdings_mask = data["Name"].astype(str).str.strip().str.lower() != "total"
@@ -431,12 +471,14 @@ def refresh(input_path: Path, output_path: Path, period: str, benchmark: str) ->
             metrics = analyse_frame(frame, benchmark_close)
             downloaded_count += 1
         except Exception as exc:
+            error = str(exc)
+            status, note = unavailable_technical_details(symbol, error)
             metrics = {
                 "Technical Downloaded": False,
-                "Technical Status": "Not downloaded",
+                "Technical Status": status,
                 "Technical Score": None,
-                "Technical Note": "Technical data was not available for this stock in the latest refresh.",
-                "Technical Error": str(exc),
+                "Technical Note": note,
+                "Technical Error": error,
             }
             failed_count += 1
         for key, value in metrics.items():
