@@ -1,0 +1,41 @@
+name: Refresh NSDL client dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 3-11 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Refresh prices
+        run: python scripts/refresh_nsdl_prices.py --input data/holdings.csv --output data/holdings.csv
+
+      - name: Refresh technical indicators
+        run: python scripts/refresh_technical_indicators.py --input data/holdings.csv --output data/holdings.csv
+
+      - name: Rebuild dashboard
+        run: python scripts/build_nsdl_dashboard.py --input-csv data/holdings.csv --output-dir . --no-write-csv
+
+      - name: Commit updated dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/holdings.csv data/action_queue.csv index.html
+          git diff --cached --quiet || git commit -m "Refresh dashboard data"
+          git push
