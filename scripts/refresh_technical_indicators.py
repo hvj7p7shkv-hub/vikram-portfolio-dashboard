@@ -108,7 +108,10 @@ def rsi(series: pd.Series, length: int = 14) -> pd.Series:
     gain = delta.clip(lower=0).ewm(alpha=1 / length, adjust=False).mean()
     loss = (-delta.clip(upper=0)).ewm(alpha=1 / length, adjust=False).mean()
     rs = gain / loss.replace(0, math.nan)
-    return 100 - (100 / (1 + rs))
+    result = 100 - (100 / (1 + rs))
+    result = result.mask((loss == 0) & (gain > 0), 100)
+    result = result.mask((gain == 0) & (loss > 0), 0)
+    return result
 
 
 def pct_return(series: pd.Series, days: int) -> float | None:
@@ -202,6 +205,19 @@ def download_batch(tickers: list[str], period: str) -> pd.DataFrame:
         return pd.DataFrame()
 
 
+def download_history(ticker: str, period: str) -> pd.DataFrame | None:
+    if yf is None:
+        return None
+    try:
+        with contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()):
+            history = yf.Ticker(ticker).history(period=period, interval="1d", auto_adjust=False, timeout=45)
+    except Exception:
+        return None
+    if history is None or history.empty:
+        return None
+    return history.dropna(how="all")
+
+
 def extract_frame(downloaded: pd.DataFrame, ticker: str, batch_size: int) -> pd.DataFrame | None:
     if downloaded is None or downloaded.empty:
         return None
@@ -220,7 +236,10 @@ def extract_frame(downloaded: pd.DataFrame, ticker: str, batch_size: int) -> pd.
 
 def download_single(ticker: str, period: str) -> pd.DataFrame | None:
     downloaded = download_batch([ticker], period)
-    return extract_frame(downloaded, ticker, 1)
+    frame = extract_frame(downloaded, ticker, 1)
+    if frame is not None and not close_series(frame).empty:
+        return frame
+    return download_history(ticker, period)
 
 
 def download_frames(primary_symbols: list[str], period: str) -> dict[str, pd.DataFrame]:
@@ -280,8 +299,12 @@ def score_and_status(metrics: dict[str, object]) -> tuple[int, str, str]:
 
     rs_vs_50 = metrics.get("RS vs 50D %")
     rsi_14 = metrics.get("RSI 14")
-    above_50 = metrics.get("Above 50DMA") is True
-    above_200 = metrics.get("Above 200DMA") is True
+    above_50_value = metrics.get("Above 50DMA")
+    above_200_value = metrics.get("Above 200DMA")
+    above_50 = above_50_value is True
+    above_200 = above_200_value is True
+    has_50dma = isinstance(above_50_value, bool)
+    has_200dma = isinstance(above_200_value, bool)
     pnf = str(metrics.get("P&F Signal") or "")
 
     if above_50:
@@ -321,7 +344,7 @@ def score_and_status(metrics: dict[str, object]) -> tuple[int, str, str]:
         status = "Constructive"
     elif score <= 25 or "Bearish" in pnf:
         status = "Risk review"
-    elif not above_50 and not above_200:
+    elif has_50dma and has_200dma and not above_50 and not above_200:
         status = "Loss + weak structure"
     else:
         status = "Monitor"
@@ -332,14 +355,18 @@ def score_and_status(metrics: dict[str, object]) -> tuple[int, str, str]:
 
 def analyse_frame(frame: pd.DataFrame, benchmark_close: pd.Series) -> dict[str, object]:
     close = close_series(frame)
-    if len(close) < 220:
+    if len(close) < 30:
         raise ValueError("Not enough daily price history")
 
     latest = float(close.iloc[-1])
-    sma_50 = float(close.rolling(50).mean().iloc[-1])
-    sma_200 = float(close.rolling(200).mean().iloc[-1])
-    high_52w = float(close.tail(252).max())
-    rsi_14 = float(rsi(close).iloc[-1])
+    sma_50_value = close.rolling(50).mean().iloc[-1] if len(close) >= 50 else math.nan
+    sma_200_value = close.rolling(200).mean().iloc[-1] if len(close) >= 200 else math.nan
+    sma_50 = float(sma_50_value) if pd.notna(sma_50_value) else None
+    sma_200 = float(sma_200_value) if pd.notna(sma_200_value) else None
+    high_52w = float(close.tail(min(252, len(close))).max())
+    rsi_14_series = rsi(close)
+    rsi_14_value = rsi_14_series.iloc[-1] if not rsi_14_series.dropna().empty else math.nan
+    rsi_14 = float(rsi_14_value) if pd.notna(rsi_14_value) else None
     rs_vs_50, rs_3m, rs_leader = relative_strength(close, benchmark_close)
     rs_trend = relative_strength_trend(close, benchmark_close)
     box_size = max(latest * 0.02, 0.01)
@@ -350,15 +377,18 @@ def analyse_frame(frame: pd.DataFrame, benchmark_close: pd.Series) -> dict[str, 
         "RS vs 50D %": rs_vs_50,
         "RS 3M %": rs_3m,
         "RS Leader": rs_leader,
-        "RSI 14": round(rsi_14, 2),
+        "RSI 14": round(rsi_14, 2) if rsi_14 is not None else None,
         "P&F Signal": pnf,
-        "Above 50DMA": bool(latest > sma_50),
-        "Above 200DMA": bool(latest > sma_200),
+        "Above 50DMA": bool(latest > sma_50) if sma_50 else None,
+        "Above 200DMA": bool(latest > sma_200) if sma_200 else None,
         "50DMA Distance %": (latest / sma_50 - 1) * 100 if sma_50 else None,
         "200DMA Distance %": (latest / sma_200 - 1) * 100 if sma_200 else None,
         "52W High Distance %": (latest / high_52w - 1) * 100 if high_52w else None,
     }
     score, status, note = score_and_status(metrics)
+    if len(close) < 220:
+        status = f"Partial: {status}"
+        note = f"{note} History available for {len(close)} trading days, so long-term context is limited."
     metrics.update(
         {
             "Technical Downloaded": True,
