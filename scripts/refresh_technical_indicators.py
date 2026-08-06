@@ -9,23 +9,21 @@ refresh prices, update technicals, and rebuild the dashboard in one pass.
 from __future__ import annotations
 
 import argparse
-import contextlib
-import io
+import datetime as dt
 import json
 import math
 import re
 from dataclasses import dataclass
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import pandas as pd
 
-try:
-    import yfinance as yf
-except ImportError:  # pragma: no cover - handled at runtime
-    yf = None
+from yahoo_http import download_many, download_one
 
 
 TECHNICAL_COLUMNS = [
+    "Technical As Of",
     "Technical Downloaded",
     "Technical Status",
     "Technical Score",
@@ -43,6 +41,10 @@ TECHNICAL_COLUMNS = [
     "52W High Distance %",
     "Technical Error",
 ]
+
+MARKET_TIMEZONE = ZoneInfo("Asia/Kolkata")
+MAX_HISTORY_STALE_DAYS = 3
+MAX_DAILY_MOVE_PCT = 35.0
 
 
 def clean_number(value: object) -> float:
@@ -93,14 +95,64 @@ def numeric_series(frame: pd.DataFrame, column: str) -> pd.Series:
     return pd.to_numeric(values, errors="coerce").dropna().astype(float)
 
 
-def close_series(frame: pd.DataFrame | None) -> pd.Series:
+def completed_eod_series(series: pd.Series, now: dt.datetime | None = None) -> pd.Series:
+    """Return only completed Indian-market daily bars."""
+    clean = series.dropna().sort_index()
+    if clean.empty:
+        return clean
+
+    current = now or dt.datetime.now(MARKET_TIMEZONE)
+    if current.tzinfo is None:
+        current = current.replace(tzinfo=MARKET_TIMEZONE)
+    else:
+        current = current.astimezone(MARKET_TIMEZONE)
+    latest_date = market_timestamp(clean.index[-1]).date()
+    if latest_date == current.date() and current.time() < dt.time(15, 40):
+        clean = clean.iloc[:-1]
+    return clean
+
+
+def close_series(frame: pd.DataFrame | None, now: dt.datetime | None = None) -> pd.Series:
     if frame is None or frame.empty:
         return pd.Series(dtype=float)
+    # Technical indicators use adjusted history so corporate actions do not
+    # appear as false RS, RSI, moving-average, or P&F moves.
     for column in ("Adj Close", "Close"):
         series = numeric_series(frame, column)
         if not series.empty:
-            return series
+            return completed_eod_series(series, now=now)
     return pd.Series(dtype=float)
+
+
+def market_timestamp(value: object) -> pd.Timestamp:
+    timestamp = pd.Timestamp(value)
+    if timestamp.tzinfo is None:
+        return timestamp.tz_localize(MARKET_TIMEZONE)
+    return timestamp.tz_convert(MARKET_TIMEZONE)
+
+
+def validate_close_history(close: pd.Series, label: str) -> None:
+    clean = close.dropna().sort_index()
+    if clean.empty:
+        raise ValueError(f"No usable daily price history for {label}")
+
+    latest_date = market_timestamp(clean.index[-1]).date()
+    stale_days = (dt.datetime.now(MARKET_TIMEZONE).date() - latest_date).days
+    if stale_days > MAX_HISTORY_STALE_DAYS:
+        raise ValueError(
+            f"Stale daily price history for {label}: latest bar is {latest_date.isoformat()} "
+            f"({stale_days} calendar days old)"
+        )
+
+    if len(clean) >= 2:
+        previous = float(clean.iloc[-2])
+        latest = float(clean.iloc[-1])
+        if previous:
+            move_pct = (latest / previous - 1) * 100
+            if math.isfinite(move_pct) and abs(move_pct) > MAX_DAILY_MOVE_PCT:
+                raise ValueError(
+                    f"Outlier daily price move for {label}: latest bar implies {move_pct:.2f}%"
+                )
 
 
 def rsi(series: pd.Series, length: int = 14) -> pd.Series:
@@ -187,32 +239,24 @@ def pnf_signal(columns: list[PnfColumn]) -> str:
 
 
 def download_batch(tickers: list[str], period: str) -> pd.DataFrame:
-    if yf is None or not tickers:
+    if not tickers:
         return pd.DataFrame()
-    try:
-        with contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()):
-            return yf.download(
-                tickers=tickers,
-                period=period,
-                interval="1d",
-                group_by="ticker",
-                auto_adjust=False,
-                progress=False,
-                threads=True,
-                timeout=45,
-            )
-    except Exception:
+    frames = download_many(
+        tickers,
+        range_period=period,
+        interval="1d",
+        timeout=45,
+        max_workers=6,
+    )
+    if not frames:
         return pd.DataFrame()
+    if len(tickers) == 1:
+        return frames.get(tickers[0], pd.DataFrame())
+    return pd.concat(frames, axis=1)
 
 
 def download_history(ticker: str, period: str) -> pd.DataFrame | None:
-    if yf is None:
-        return None
-    try:
-        with contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()):
-            history = yf.Ticker(ticker).history(period=period, interval="1d", auto_adjust=False, timeout=45)
-    except Exception:
-        return None
+    history = download_one(ticker, range_period=period, interval="1d", timeout=45)
     if history is None or history.empty:
         return None
     return history.dropna(how="all")
@@ -353,8 +397,9 @@ def score_and_status(metrics: dict[str, object]) -> tuple[int, str, str]:
     return score, status, note.capitalize()
 
 
-def analyse_frame(frame: pd.DataFrame, benchmark_close: pd.Series) -> dict[str, object]:
+def analyse_frame(frame: pd.DataFrame, benchmark_close: pd.Series, symbol: str) -> dict[str, object]:
     close = close_series(frame)
+    validate_close_history(close, symbol)
     if len(close) < 30:
         raise ValueError("Not enough daily price history")
 
@@ -373,6 +418,7 @@ def analyse_frame(frame: pd.DataFrame, benchmark_close: pd.Series) -> dict[str, 
     pnf = pnf_signal(build_pnf(close, box_size=box_size, reversal=3))
 
     metrics: dict[str, object] = {
+        "Technical As Of": market_timestamp(close.index[-1]).date().isoformat(),
         "RS Trend": rs_trend,
         "RS vs 50D %": rs_vs_50,
         "RS 3M %": rs_3m,
@@ -448,7 +494,153 @@ def unavailable_technical_details(symbol: str, error: str) -> tuple[str, str]:
     )
 
 
-def refresh(input_path: Path, output_path: Path, period: str, benchmark: str) -> tuple[int, int]:
+def annualized_return(returns: pd.Series) -> float | None:
+    clean = returns.dropna()
+    if len(clean) < 20:
+        return None
+    compounded = float((1 + clean).prod())
+    if compounded <= 0:
+        return None
+    return (compounded ** (252 / len(clean)) - 1) * 100
+
+
+def trailing_return(returns: pd.Series, days: int) -> float | None:
+    clean = returns.dropna()
+    if len(clean) < min(days, 20):
+        return None
+    return float(((1 + clean.tail(days)).prod() - 1) * 100)
+
+
+def portfolio_risk_snapshot(
+    data: pd.DataFrame,
+    frames: dict[str, pd.DataFrame],
+    benchmark: str,
+    benchmark_close: pd.Series,
+) -> dict[str, object]:
+    total_value = float(pd.to_numeric(data.get("Current Value"), errors="coerce").fillna(0).sum())
+    if total_value <= 0 or benchmark_close.empty:
+        return {"available": False, "error": "Portfolio value or benchmark history is unavailable."}
+
+    weights: dict[str, float] = {}
+    return_series: dict[str, pd.Series] = {}
+    for _, row in data.iterrows():
+        symbol = str(row.get("Yahoo Ticker") or "").strip()
+        value = clean_number(row.get("Current Value"))
+        frame = frames.get(symbol)
+        close = close_series(frame)
+        try:
+            validate_close_history(close, symbol)
+        except Exception:
+            continue
+        if not symbol or not math.isfinite(value) or value <= 0 or len(close) < 60:
+            continue
+        weights[symbol] = weights.get(symbol, 0.0) + value / total_value
+        if symbol not in return_series:
+            return_series[symbol] = close.sort_index().pct_change(fill_method=None)
+
+    if not return_series:
+        return {"available": False, "error": "No holding had sufficient price history for portfolio risk estimates."}
+
+    returns = pd.DataFrame(return_series).sort_index()
+    benchmark_returns = benchmark_close.sort_index().pct_change(fill_method=None).rename("benchmark")
+    weight_series = pd.Series(weights, dtype=float)
+    available_weight = returns.notna().mul(weight_series, axis=1).sum(axis=1)
+    portfolio_returns = returns.mul(weight_series, axis=1).sum(axis=1) / available_weight.replace(0, math.nan)
+    portfolio_returns = portfolio_returns.where(available_weight >= 0.5)
+    aligned = pd.concat([portfolio_returns.rename("portfolio"), benchmark_returns], axis=1).dropna()
+    if len(aligned) < 60:
+        return {"available": False, "error": "Less than 60 overlapping sessions were available for risk estimates."}
+
+    window = aligned.tail(min(252, len(aligned))).copy()
+    benchmark_variance = float(window["benchmark"].var())
+    beta = float(window["portfolio"].cov(window["benchmark"]) / benchmark_variance) if benchmark_variance else None
+    correlation = float(window["portfolio"].corr(window["benchmark"]))
+    volatility = float(window["portfolio"].std() * math.sqrt(252) * 100)
+    benchmark_volatility = float(window["benchmark"].std() * math.sqrt(252) * 100)
+    active = window["portfolio"] - window["benchmark"]
+    tracking_error = float(active.std() * math.sqrt(252) * 100)
+    active_annualized = float(active.mean() * 252 * 100)
+    information_ratio = active_annualized / tracking_error if tracking_error else None
+
+    portfolio_curve = (1 + window["portfolio"]).cumprod()
+    benchmark_curve = (1 + window["benchmark"]).cumprod()
+    drawdown = portfolio_curve / portfolio_curve.cummax() - 1
+    max_drawdown = float(drawdown.min() * 100)
+    portfolio_annualized = annualized_return(window["portfolio"])
+    benchmark_annualized = annualized_return(window["benchmark"])
+    alpha = (
+        portfolio_annualized - beta * benchmark_annualized
+        if portfolio_annualized is not None and benchmark_annualized is not None and beta is not None
+        else None
+    )
+
+    up = window["benchmark"] > 0
+    down = window["benchmark"] < 0
+    up_benchmark_mean = float(window.loc[up, "benchmark"].mean()) if up.any() else None
+    down_benchmark_mean = float(window.loc[down, "benchmark"].mean()) if down.any() else None
+    upside_capture = (
+        float(window.loc[up, "portfolio"].mean()) / up_benchmark_mean * 100 if up_benchmark_mean else None
+    )
+    downside_capture = (
+        float(window.loc[down, "portfolio"].mean()) / down_benchmark_mean * 100 if down_benchmark_mean else None
+    )
+
+    normalized_portfolio = portfolio_curve / portfolio_curve.iloc[0] * 100
+    normalized_benchmark = benchmark_curve / benchmark_curve.iloc[0] * 100
+    relative_strength = normalized_portfolio / normalized_benchmark * 100
+    chart = pd.DataFrame(
+        {
+            "portfolio": normalized_portfolio,
+            "benchmark": normalized_benchmark,
+            "relativeStrength": relative_strength,
+        }
+    ).tail(180)
+
+    benchmark_label = "Nifty Midcap 50" if benchmark == "^NSEMDCP50" else benchmark
+    return {
+        "available": True,
+        "asOf": dt.datetime.now().astimezone().isoformat(timespec="minutes"),
+        "benchmark": benchmark,
+        "benchmarkLabel": benchmark_label,
+        "method": "Current-value-weighted daily return estimate; weights are re-normalized when a price is missing.",
+        "coveragePct": round(sum(weights.values()) * 100, 2),
+        "sessions": int(len(window)),
+        "beta": round(beta, 3) if beta is not None else None,
+        "alphaAnnualizedPct": round(alpha, 2) if alpha is not None else None,
+        "volatilityAnnualizedPct": round(volatility, 2),
+        "benchmarkVolatilityAnnualizedPct": round(benchmark_volatility, 2),
+        "correlation": round(correlation, 3),
+        "maxDrawdownPct": round(max_drawdown, 2),
+        "trackingErrorPct": round(tracking_error, 2),
+        "informationRatio": round(information_ratio, 2) if information_ratio is not None else None,
+        "upsideCapturePct": round(upside_capture, 2) if upside_capture is not None else None,
+        "downsideCapturePct": round(downside_capture, 2) if downside_capture is not None else None,
+        "portfolioReturn3mPct": round(trailing_return(window["portfolio"], 63), 2)
+        if trailing_return(window["portfolio"], 63) is not None
+        else None,
+        "benchmarkReturn3mPct": round(trailing_return(window["benchmark"], 63), 2)
+        if trailing_return(window["benchmark"], 63) is not None
+        else None,
+        "portfolioReturn6mPct": round(trailing_return(window["portfolio"], 126), 2)
+        if trailing_return(window["portfolio"], 126) is not None
+        else None,
+        "benchmarkReturn6mPct": round(trailing_return(window["benchmark"], 126), 2)
+        if trailing_return(window["benchmark"], 126) is not None
+        else None,
+        "dates": [timestamp.strftime("%Y-%m-%d") for timestamp in chart.index],
+        "portfolioPath": [round(float(value), 3) for value in chart["portfolio"]],
+        "benchmarkPath": [round(float(value), 3) for value in chart["benchmark"]],
+        "relativeStrengthPath": [round(float(value), 3) for value in chart["relativeStrength"]],
+    }
+
+
+def refresh(
+    input_path: Path,
+    output_path: Path,
+    period: str,
+    benchmark: str,
+    portfolio_output: Path | None = None,
+) -> tuple[int, int]:
     data = pd.read_csv(input_path)
     holdings_mask = data["Name"].astype(str).str.strip().str.lower() != "total"
     data = clear_technical_columns(data)
@@ -461,6 +653,10 @@ def refresh(input_path: Path, output_path: Path, period: str, benchmark: str) ->
     frames = download_frames(symbols + [benchmark], period)
     benchmark_frame = frames.get(benchmark)
     benchmark_close = close_series(benchmark_frame)
+    try:
+        validate_close_history(benchmark_close, benchmark)
+    except Exception:
+        benchmark_close = pd.Series(dtype=float)
 
     downloaded_count = 0
     failed_count = 0
@@ -468,23 +664,48 @@ def refresh(input_path: Path, output_path: Path, period: str, benchmark: str) ->
         symbol = str(row["Yahoo Ticker"])
         frame = frames.get(symbol)
         try:
-            metrics = analyse_frame(frame, benchmark_close)
+            metrics = analyse_frame(frame, benchmark_close, symbol)
             downloaded_count += 1
         except Exception as exc:
             error = str(exc)
-            status, note = unavailable_technical_details(symbol, error)
-            metrics = {
-                "Technical Downloaded": False,
-                "Technical Status": status,
-                "Technical Score": None,
-                "Technical Note": note,
-                "Technical Error": error,
-            }
+            previous_downloaded = row.get("Technical Downloaded") is True or str(
+                row.get("Technical Downloaded")
+            ).strip().lower() == "true"
+            previous_rsi = clean_number(row.get("RSI 14"))
+            if previous_downloaded and math.isfinite(previous_rsi):
+                metrics = {column: row.get(column) for column in TECHNICAL_COLUMNS}
+                previous_note = str(row.get("Technical Note") or "").strip()
+                stale_message = "Latest refresh unavailable; showing the previous successful technical snapshot."
+                if stale_message.lower() not in previous_note.lower():
+                    metrics["Technical Note"] = f"{previous_note} {stale_message}".strip()
+                metrics["Technical Error"] = f"{stale_message} {error}".strip()
+            else:
+                status, note = unavailable_technical_details(symbol, error)
+                metrics = {
+                    "Technical Downloaded": False,
+                    "Technical Status": status,
+                    "Technical Score": None,
+                    "Technical Note": note,
+                    "Technical Error": error,
+                }
             failed_count += 1
         for key, value in metrics.items():
             data.loc[index, key] = value
 
     data.to_csv(output_path, index=False)
+    if portfolio_output is not None:
+        portfolio_output.parent.mkdir(parents=True, exist_ok=True)
+        snapshot = portfolio_risk_snapshot(data.loc[holdings_mask], frames, benchmark, benchmark_close)
+        if not snapshot.get("available") and portfolio_output.exists():
+            try:
+                previous_snapshot = json.loads(portfolio_output.read_text(encoding="utf-8"))
+            except (json.JSONDecodeError, OSError):
+                previous_snapshot = {}
+            if previous_snapshot.get("available"):
+                previous_snapshot["latestRefreshError"] = snapshot.get("error")
+                previous_snapshot["dataFreshness"] = "Previous successful market-data snapshot"
+                snapshot = previous_snapshot
+        portfolio_output.write_text(json.dumps(snapshot, indent=2), encoding="utf-8")
     return downloaded_count, failed_count
 
 
@@ -494,9 +715,10 @@ def main() -> int:
     parser.add_argument("--output", type=Path, default=Path("data/holdings.csv"))
     parser.add_argument("--period", default="2y")
     parser.add_argument("--benchmark", default="^NSEMDCP50")
+    parser.add_argument("--portfolio-output", type=Path, default=Path("data/portfolio_risk.json"))
     args = parser.parse_args()
 
-    downloaded, failed = refresh(args.input, args.output, args.period, args.benchmark)
+    downloaded, failed = refresh(args.input, args.output, args.period, args.benchmark, args.portfolio_output)
     print(f"Technical indicators downloaded: {downloaded}")
     print(f"Technical fallbacks: {failed}")
     return 0
