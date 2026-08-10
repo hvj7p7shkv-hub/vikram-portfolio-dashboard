@@ -1,11 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.124529811800162,-2.485232990592867,-22720.0,891480.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Ramco Industries,RAMCOIND.NS,High,Positive momentum,Building Materials,3.2363989593317024,10.216403012098052,13984.104919433594,150863.0524597168,Strong daily move; watch whether it follows through or simply retraces.
-Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.0132152210663476,6.189171110980007,2752.8009033203125,47230.5,Strong daily move; watch whether it follows through or simply retraces.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.321587875513743,-1.0673287523157216,-3682.0068359375,341292.0068359375,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.97572952719417,4.5095570836795495,14030.9912109375,325170.0,Strong daily move; watch whether it follows through or simply retraces.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.972393079910148,0.5054129590196244,1399.993896484375,278399.9938964844,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.953085905207683,0.30905769240188175,854.99267578125,277500.0,Meaningful exposure; keep the thesis and technical structure under review.
-Inox Wind,INOXWIND.NS,Medium,Event watch,Renewables,1.5159221309027935,-4.435896262144434,-3280.079132080078,70663.92086791992,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.2482001189362477,4.085017686331294,2283.5513305664062,58184.198669433594,Strong daily move; watch whether it follows through or simply retraces.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5884866915741531,-2.578306150872145,-725.9994506835981,27432.00073242187,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.12192837700556,-2.9096477794793296,-26600.0,887600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Ramco Industries,RAMCOIND.NS,High,Positive momentum,Building Materials,3.2887389060640553,11.526569880762683,15777.447540283227,152656.39508056644,Strong daily move; watch whether it follows through or simply retraces.
+Inox Wind,INOXWIND.NS,High,Event watch,Renewables,1.497833759544343,-5.974363669370996,-4417.6834716796875,69526.31652832031,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.0136000623278318,5.781549073414105,2571.5,47049.19909667969,Strong daily move; watch whether it follows through or simply retraces.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.322130061067584,-1.4772186616524796,-5096.0205078125,339877.9931640625,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.981615206201957,4.15666156931056,12932.99560546875,324072.00439453125,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.958583404890351,-0.021689768664090447,-60.003662109375,276585.0036621094,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.910433942026209,-0.956676496925768,-2649.993896484375,274350.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.2398661806595581,2.9540850414886854,1651.3526611328125,57552.0,No urgent action; monitor with the rest of the portfolio.
