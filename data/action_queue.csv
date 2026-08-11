@@ -1,6 +1,7 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.531446922125557,2.349657904213176,20880.0,909520.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.394600257260868,1.2639547345230762,4298.02734375,344344.013671875,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.890851993788013,-0.8537080303328781,-2763.017578125,320885.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.911810431303485,-1.008627355548808,-2804.99267578125,275295.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.853936747055501,-0.38369735661896165,-1049.98779296875,272600.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.678545511231007,3.0563557796182916,27160.0,915800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.314367666300912,0.10292725515725909,350.0,340395.986328125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.970562652004071,0.23080015745138294,746.982421875,324395.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.9918785933683845,0.26968716289104133,750.0,278850.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.619064917216542,-4.439975942802487,-12149.993896484375,261500.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Positive momentum,Pharma,3.290214990914711,4.761904761904767,6960.0,153120.0,Strong daily move; watch whether it follows through or simply retraces.
