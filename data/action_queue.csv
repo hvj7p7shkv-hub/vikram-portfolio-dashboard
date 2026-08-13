@@ -1,10 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.680976441991625,1.9991115059973419,18000.0,918400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,3.760386691477726,14.591338986327562,22344.0087890625,175476.005859375,Strong daily move; watch whether it follows through or simply retraces.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.4364688027102845,1.7988439190442573,6132.0068359375,347017.9931640625,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.753034853311979,-0.7258320855188516,-2304.0087890625,315125.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.911043345982849,-1.027985768887918,-2864.996337890625,275835.0036621094,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.721712445570301,2.122772053486832,5549.98779296875,267000.0,Meaningful exposure; keep the thesis and technical structure under review.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.2684725476991736,3.290535005795303,1885.6986694335938,59192.448669433594,No urgent action; monitor with the rest of the portfolio.
-Tata Motors,TMCV.NS,Medium,Monitor,Auto,1.0112644449970276,3.249098895117397,1485.0006103515568,47189.99938964844,No urgent action; monitor with the rest of the portfolio.
-Easy Trip Planners,EASEMYTRIP.NS,Medium,Event watch,Travel,0.19929559590565069,-4.173106486584843,-404.9999713897705,9299.999713897705,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.78937974234927,3.0964015992892113,27880.0,928280.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Ingersoll-Rand India,INGERRAND.NS,High,Positive momentum,Industrials,3.928030202637181,7.3202481881992965,12567.98828125,184255.99609375,Strong daily move; watch whether it follows through or simply retraces.
+Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,3.831927314931373,7.476506916325287,12504.0087890625,179748.0029296875,Strong daily move; watch whether it follows through or simply retraces.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.356657072446258,-0.624899234407883,-2170.0,345085.986328125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.7206463884820735,-0.6861341415331679,-2177.99560546875,315252.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.921272703704136,0.09188925253378333,254.99267578125,277754.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.677071124895542,1.351089550130835,3549.98779296875,266299.98779296875,Meaningful exposure; keep the thesis and technical structure under review.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.2614194098649878,4.324012886646922,2452.5,59170.64733886719,Strong daily move; watch whether it follows through or simply retraces.
+Tata Motors,TMCV.NS,Medium,Monitor,Auto,1.012194301298946,3.8836014602499525,1775.0,47479.99877929688,No urgent action; monitor with the rest of the portfolio.
+Easy Trip Planners,EASEMYTRIP.NS,Medium,Event watch,Travel,0.1979406995801364,-4.327662164621149,-419.9995994567871,9285.000085830688,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
