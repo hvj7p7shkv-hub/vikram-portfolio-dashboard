@@ -1,11 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.02240248581669,4.069302532207897,36640.0,937040.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,3.999779662740584,11.92509715613037,19944.0087890625,187188.0029296875,Strong daily move; watch whether it follows through or simply retraces.
-Ingersoll-Rand India,INGERRAND.NS,High,Positive momentum,Industrials,3.9591811109632697,7.921345336392105,13600.0,185288.0078125,Strong daily move; watch whether it follows through or simply retraces.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.419468361514199,-0.008061247369262059,-27.9931640625,347227.9931640625,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.6154441748579,-1.792852802121403,-5652.00439453125,309600.0,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.8016547187017515,-2.1567580764358274,-5985.00366210941,271514.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.491502431971836,-2.1883920076117946,-5750.0,257000.0,Meaningful exposure; keep the thesis and technical structure under review.
-Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,4.254845999091018,2.9468786351299014,5700.0,199125.0,No urgent action; monitor with the rest of the portfolio.
-Tata Motors Passenger Vehicles,TMPV.NS,Medium,Event watch,Auto,0.711758557823848,-4.719679551468426,-1650.0,33310.00061035156,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Easy Trip Planners,EASEMYTRIP.NS,Medium,Monitor,Travel,0.20448902418929701,3.0694677780952473,285.0000858306885,9570.000171661377,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.979975024146857,0.48692204938165506,4520.0,932800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.420607569070814,0.3935330316365615,1358.02734375,346444.013671875,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.644926727852788,-1.5930126770094422,-5022.00439453125,310230.0,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.742422331085291,-3.4778800044247715,-9659.9853515625,268095.00732421875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.475858161422657,-3.999246858683314,-10649.993896484346,255649.9938964844,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,3.978216939574181,3.3279908387368717,5981.9970703125,185730.0,No urgent action; monitor with the rest of the portfolio.
+Ashok Leyland,ASHOKLEY.NS,Medium,Monitor,Auto,2.2058509225663108,-2.6045488561362795,-2753.997802734375,102983.99963378906,No urgent action; monitor with the rest of the portfolio.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.0352639010894373,2.503140599728826,1180.3009033203125,48333.101806640625,No urgent action; monitor with the rest of the portfolio.
+Tata Motors Passenger Vehicles,TMPV.NS,Medium,Event watch,Auto,0.7164774491399146,-4.319223638412795,-1510.0006103515625,33450.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Easy Trip Planners,EASEMYTRIP.NS,Medium,Monitor,Travel,0.20562581806385952,3.3925692440343935,315.000057220459,9600.000143051147,No urgent action; monitor with the rest of the portfolio.
