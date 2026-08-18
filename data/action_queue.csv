@@ -1,11 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.14768780237275,-1.441190144119009,-13640.0,932800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Ingersoll-Rand India,INGERRAND.NS,High,Positive momentum,Industrials,4.069279997820568,5.199673781200009,9311.9921875,188400.0,Strong daily move; watch whether it follows through or simply retraces.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.146942985556517,-0.6097560975609762,-2030.0,330890.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.42797196023788,-0.759305186918513,-2277.00439453125,297602.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.898511994175533,0.6023111404188208,1635.003662109341,273089.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.485104262357093,0.7138620247188143,1800.003051757784,253949.9969482422,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Event watch,Industrials,4.272312014696967,-3.9059463661096028,-8040.0,197800.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Strides Pharma Science,STAR.NS,Medium,Event watch,Pharma,4.101678723917866,-3.809135499534222,-7519.995117187523,189900.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,3.703563240913036,-3.059699836223706,-5411.9970703125,171468.0029296875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Inox Wind,INOXWIND.NS,Medium,Event watch,Renewables,1.5354948133215234,-4.018942147743476,-2976.7194213867188,71090.51797485352,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.19726095179461,-1.229871941169014,-11640.0,934800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.141032573563065,-0.7232948348139145,-2407.9931640625,330512.0068359375,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.432529450757693,-0.7202881152461038,-2160.0,297720.0,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.878984493991563,0.23761114793314775,645.00732421875,272100.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.5084420389632935,1.110451366065579,2800.0030517577843,254949.9969482422,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Event watch,Industrials,4.276037564152408,-3.852506801399147,-7930.0,197910.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Strides Pharma Science,STAR.NS,Medium,Event watch,Pharma,4.10124515966005,-3.8496607172382347,-7600.0,189819.99511718753,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ingersoll-Rand India,INGERRAND.NS,Medium,Positive momentum,Industrials,4.0541442501013485,4.775301424120859,8551.9921875,187640.0,Strong daily move; watch whether it follows through or simply retraces.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,3.7249555613926746,-2.530532484947423,-4476.005859375,172403.994140625,No urgent action; monitor with the rest of the portfolio.
+Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.52919481996936,-2.6689928402059304,-3209.99755859375,117059.99755859375,No urgent action; monitor with the rest of the portfolio.
+Inox Wind,INOXWIND.NS,Medium,Event watch,Renewables,1.5351602963965174,-4.070140044753002,-3014.6402893066406,71052.5971069336,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
