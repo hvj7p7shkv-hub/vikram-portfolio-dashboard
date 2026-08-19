@@ -1,8 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.0122790636384,-2.2188411309750244,-21000.0,925440.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.89270622065338,6.883703966201926,17550.003051757812,272500.0,Strong daily move; watch whether it follows through or simply retraces.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.15627557906582,-0.5971384008357838,-1987.9931640625,330932.0068359375,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.539282059176448,1.5719467956469169,4680.0,302400.0,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.833779158446846,-0.854465270121274,-2325.0,269775.0,Meaningful exposure; keep the thesis and technical structure under review.
-Ramco Industries,RAMCOIND.NS,Medium,Event watch,Building Materials,2.9638755849871816,-3.777056342466878,-5380.052459716797,137060.3024597168,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.1712818820929802,2.903138586876075,1528.101806640625,54164.30090332031,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.128141384730487,-0.3038083012409043,-2840.0,931960.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.8248851637051615,5.785454181348149,14750.015258789062,269700.01220703125,Strong daily move; watch whether it follows through or simply retraces.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.278277128841686,1.9612016210821315,6482.0068359375,336994.013671875,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.505858652004768,1.1789600967351932,3510.0,301230.0,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.8491822508687425,-0.4685777287761872,-1275.0,270825.0,Meaningful exposure; keep the thesis and technical structure under review.
+Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.9536650023608497,-2.593981911302068,-4875.0,183060.00366210938,No urgent action; monitor with the rest of the portfolio.
+Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.6284334161570237,3.963781426771096,4640.00244140625,121700.0,No urgent action; monitor with the rest of the portfolio.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.3745843435436798,3.253762053768794,2005.6026611328125,63645.10266113281,No urgent action; monitor with the rest of the portfolio.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.182607157267347,4.027839857407867,2120.101806640625,54756.30090332031,Strong daily move; watch whether it follows through or simply retraces.
