@@ -1,9 +1,8 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.04106871299227,-2.345632052745028,-22200.0,924240.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.150374773351611,-0.9503825759566875,-3164.013671875,329755.986328125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.595832739685058,2.1704972438973735,6462.00439453125,304182.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.842275812079477,-0.9812595825868242,-2670.00732421875,269429.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.635628880145541,1.9415559943101623,4949.9969482421875,259899.99389648438,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Monitor,Industrials,4.163296538663676,-2.9862058511444634,-5910.0,192000.0,No urgent action; monitor with the rest of the portfolio.
-Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.967166081970408,-2.649858136742711,-4980.010986328125,182954.99267578125,No urgent action; monitor with the rest of the portfolio.
-Ramco Industries,RAMCOIND.NS,Medium,Event watch,Building Materials,2.983353194761878,-3.4092567249619066,-4856.157379150391,137584.1975402832,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.0122790636384,-2.2188411309750244,-21000.0,925440.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.89270622065338,6.883703966201926,17550.003051757812,272500.0,Strong daily move; watch whether it follows through or simply retraces.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.15627557906582,-0.5971384008357838,-1987.9931640625,330932.0068359375,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.539282059176448,1.5719467956469169,4680.0,302400.0,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.833779158446846,-0.854465270121274,-2325.0,269775.0,Meaningful exposure; keep the thesis and technical structure under review.
+Ramco Industries,RAMCOIND.NS,Medium,Event watch,Building Materials,2.9638755849871816,-3.777056342466878,-5380.052459716797,137060.3024597168,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.1712818820929802,2.903138586876075,1528.101806640625,54164.30090332031,No urgent action; monitor with the rest of the portfolio.
