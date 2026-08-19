@@ -1,12 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.19726095179461,-1.229871941169014,-11640.0,934800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.141032573563065,-0.7232948348139145,-2407.9931640625,330512.0068359375,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.432529450757693,-0.7202881152461038,-2160.0,297720.0,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.878984493991563,0.23761114793314775,645.00732421875,272100.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.5084420389632935,1.110451366065579,2800.0030517577843,254949.9969482422,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Event watch,Industrials,4.276037564152408,-3.852506801399147,-7930.0,197910.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Strides Pharma Science,STAR.NS,Medium,Event watch,Pharma,4.10124515966005,-3.8496607172382347,-7600.0,189819.99511718753,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ingersoll-Rand India,INGERRAND.NS,Medium,Positive momentum,Industrials,4.0541442501013485,4.775301424120859,8551.9921875,187640.0,Strong daily move; watch whether it follows through or simply retraces.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,3.7249555613926746,-2.530532484947423,-4476.005859375,172403.994140625,No urgent action; monitor with the rest of the portfolio.
-Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.52919481996936,-2.6689928402059304,-3209.99755859375,117059.99755859375,No urgent action; monitor with the rest of the portfolio.
-Inox Wind,INOXWIND.NS,Medium,Event watch,Renewables,1.5351602963965174,-4.070140044753002,-3014.6402893066406,71052.5971069336,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.165198449301418,-1.5257174252990113,-14440.0,932000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.19946369032729,5.321248034677373,2800.9027099609375,55437.101806640625,Strong daily move; watch whether it follows through or simply retraces.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.166867311530687,-0.5046257359125339,-1680.0,331240.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.566238653856217,1.93470374848852,5760.0,303480.0,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.867813110998439,-0.3307607497243681,-900.0,271200.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.545429309440714,0.5295120066232561,1349.9908447265625,256299.98779296875,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Monitor,Industrials,4.159613092143989,-2.859885806679807,-5660.0,192250.0,No urgent action; monitor with the rest of the portfolio.
+Ramco Industries,RAMCOIND.NS,Medium,Event watch,Building Materials,2.966374362360138,-3.7487620716897596,-5339.75,137100.6049194336,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.4008754708138085,4.091820658364642,2545.1473388671875,64746.0,Strong daily move; watch whether it follows through or simply retraces.
