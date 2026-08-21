@@ -1,13 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.209387114301876,1.1936453413482262,11120.0,942720.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.4501357999426476,6.89862865129387,4365.448669433594,67645.39733886719,Strong daily move; watch whether it follows through or simply retraces.
-Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.2924086756673865,9.517406300495136,5239.1990966796875,60287.80090332031,Strong daily move; watch whether it follows through or simply retraces.
-Network18 Media & Investments,NETWORK18.NS,High,Positive momentum,Media,0.3810009281683081,8.977557838122575,1464.1202659606934,17772.790088653564,Strong daily move; watch whether it follows through or simply retraces.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.1357112490614325,-1.495623078506425,-5053.9794921875,332864.013671875,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.3497119308921715,-1.8168228622837068,-5480.9912109375,296199.0087890625,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.868465421906969,1.2875985427441838,3479.99267578125,273750.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.699110751533291,-2.0449476484091567,-5549.98779296875,265850.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Monitor,Pharma,4.257451078687577,3.707571801566578,7100.0,198600.0,No urgent action; monitor with the rest of the portfolio.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,3.7861732359490805,3.0672303100927945,5256.005859375,176616.005859375,No urgent action; monitor with the rest of the portfolio.
-Ramco Industries,RAMCOIND.NS,Medium,Positive momentum,Building Materials,3.0582904621738525,4.148280775730084,5682.302459716797,142662.0,Strong daily move; watch whether it follows through or simply retraces.
-Aster DM Quality Care,ASTERDM.NS,Medium,Event watch,Healthcare,2.9544267574067855,-4.317668990990942,-6218.997802734375,137817.00439453125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.14476175741821,0.6097037355087931,5680.0,937280.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.445103109005875,6.252689442121517,3956.6986694335938,67236.64733886719,Strong daily move; watch whether it follows through or simply retraces.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.206833517565289,-0.7705950984750465,-2603.9794921875,335314.013671875,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.275421602808839,-1.4250598612231435,-4221.01318359375,291977.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.8362596865000524,-0.805476776541092,-2204.99267578125,271545.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.803053169280168,1.5610283246969114,4149.993896484375,270000.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Monitor,Pharma,4.224622654763332,2.6422963752447792,5059.99755859375,196559.99755859375,No urgent action; monitor with the rest of the portfolio.
+Ramco Industries,RAMCOIND.NS,Medium,Monitor,Building Materials,3.0254947395562186,2.765517524353678,3788.197540283203,140767.8950805664,No urgent action; monitor with the rest of the portfolio.
