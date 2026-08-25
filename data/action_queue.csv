@@ -1,9 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.845240774494062,-1.351873310158358,-12600.0,919440.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.072446320127979,-1.3363102531139925,-4437.9931640625,327670.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.4151254106966915,-0.310926101969522,-927.00439453125,297215.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.021626827359771,3.2130979142098948,8685.003662109375,278985.0036621094,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.8708621450691565,-0.4392431015419862,-1200.01220703125,272000.0,Meaningful exposure; keep the thesis and technical structure under review.
-AstraZeneca Pharma India,ASTRAZEN.NS,Medium,Event watch,Pharma,4.0099499334462605,-3.641022183264786,-7020.0,185783.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.3705430262239782,-3.118243868392645,-2043.75,63497.948669433594,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Event watch,Sugar / Energy,1.2849633679500074,-3.328528214457671,-2049.8009033203125,59533.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.770816198446013,-1.489206471825244,-13880.0,918160.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.990930978247237,-2.2426419470076286,-7447.9931640625,324660.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.387186470004055,-0.5101549368445424,-1520.9912109375,296622.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.036800036196676,3.7180910099888997,10050.0,280350.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,6.003423493491089,2.049771352753038,5599.9755859375,278799.98779296875,Meaningful exposure; keep the thesis and technical structure under review.
+AstraZeneca Pharma India,ASTRAZEN.NS,Medium,Event watch,Pharma,3.999641112621064,-3.6612500842829188,-7059.0,185744.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.3682455479663145,-3.0517172723202313,-2000.1473388671875,63541.551330566406,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Event watch,Sugar / Energy,1.2808932961185213,-3.406637371454513,-2097.9027099609375,59484.898193359375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
