@@ -1,6 +1,8 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.008257765131265,1.8205631958087665,16680.0,932880.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.65579476128392,-5.263155586580515,-14649.993896484375,263700.01220703125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.915211461960405,-2.917121347114515,-9687.9931640625,322420.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.474823128236318,1.5531349932826233,4617.00439453125,301887.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.074992622019405,1.184229891463251,3315.0146484375,283245.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.10412835474656,2.113075747653359,19360.0,935560.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.651573129781462,-5.5146419137519604,-15350.006103515625,263000.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,3.9211172455518626,6.253930649628847,10740.0,182471.9970703125,Strong daily move; watch whether it follows through or simply retraces.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.914001189076521,-3.1194672254943656,-10360.0,321747.9931640625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.417200311199762,0.45716311402512755,1359.0087890625,298629.0087890625,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.101764981754548,1.4360759580609672,4020.00732421875,283950.0,Meaningful exposure; keep the thesis and technical structure under review.
+Ashok Leyland,ASHOKLEY.NS,Medium,Monitor,Auto,2.3113860208107564,2.6217881773691554,2748.0010986328125,107562.00256347656,No urgent action; monitor with the rest of the portfolio.
