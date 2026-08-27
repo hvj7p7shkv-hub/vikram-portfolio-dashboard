@@ -27,4 +27,13 @@ Open `index.html` after the build completes.
 
 ## Online refresh
 
-If this folder is pushed as a GitHub Pages repository, the workflow in `.github/workflows/refresh-dashboard.yml` can refresh prices, refresh technicals, rebuild the dashboard, and commit the updated static page.
+The workflow in `.github/workflows/refresh-dashboard.yml` refreshes prices,
+refreshes technicals, rebuilds the dashboard, and commits the updated static
+page.
+
+## Hosting
+
+Live site: https://vikram-portfolio-dashboard.netlify.app/ (Netlify, auto-deploys
+every push to `main`; see `netlify.toml`). The GitHub Pages URL
+https://hvj7p7shkv-hub.github.io/vikram-portfolio-dashboard/ is kept as a
+temporary fallback.
