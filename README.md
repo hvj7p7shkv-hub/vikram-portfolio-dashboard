@@ -27,15 +27,4 @@ Open `index.html` after the build completes.
 
 ## Online refresh
 
-The workflow in `.github/workflows/refresh-dashboard.yml` refreshes prices,
-refreshes technicals, rebuilds the dashboard, and commits the updated static
-page.
-
-## Hosting
-
-Primary host: **GitHub Pages** — https://hvj7p7shkv-hub.github.io/vikram-portfolio-dashboard/
-
-A Netlify migration is set up but paused (Netlify account is over its Free-plan
-build-credit limit, so production deploys are blocked). `netlify.toml` and the
-dormant Netlify site are left in place; re-point here once Netlify billing is
-resolved.
+If this folder is pushed as a GitHub Pages repository, the workflow in `.github/workflows/refresh-dashboard.yml` can refresh prices, refresh technicals, rebuild the dashboard, and commit the updated static page.
