@@ -11,9 +11,9 @@ on:
       - "requirements.txt"
       - ".refresh-dashboard"
   schedule:
-    # GitHub cron uses UTC. Offset from :00/:30 to reduce scheduler congestion.
-    # Runs every 30 minutes from 08:37 IST through 17:07 IST on weekdays.
-    - cron: "7,37 3-11 * * 1-5"
+    # GitHub cron uses UTC. Hourly at :47 past on weekdays, ~09:17 IST through
+    # 16:17 IST. Offset from :00 to reduce scheduler congestion.
+    - cron: "47 3-10 * * 1-5"
 
 permissions:
   contents: write
