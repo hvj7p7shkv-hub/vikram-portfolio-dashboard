@@ -20,7 +20,8 @@ permissions:
 
 concurrency:
   group: refresh-vikram-dashboard
-  cancel-in-progress: true
+  # Let an in-progress refresh finish and commit; a new run queues behind it.
+  cancel-in-progress: false
 
 jobs:
   refresh:
@@ -55,5 +56,7 @@ jobs:
             echo "No dashboard changes to commit."
           else
             git commit -m "Refresh Vikram dashboard data"
-            git push
+            # Rebase onto any commit that landed during this long refresh.
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
