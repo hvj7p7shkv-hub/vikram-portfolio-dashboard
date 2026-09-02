@@ -1,11 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.02377472746348,-0.10857763300760048,-1000.0,920000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.174387895014986,0.2768313458262339,910.0,329630.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.207587815238977,-2.251696483652066,-6570.0,285210.0,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.0443506009708,-0.5479131556533456,-1529.992675781216,277710.0036621094,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.664334100893881,-0.7815432285062762,-2049.98779296875,260250.0,Meaningful exposure; keep the thesis and technical structure under review.
-Voltas,VOLTAS.NS,Medium,Event watch,Consumer Durables,3.798531830772352,-3.4439834024896254,-6225.0,174525.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Eicher Motors,EICHERMOT.NS,Medium,Event watch,Auto,2.5009585809739234,-3.883312421580931,-4642.5,114907.5,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Motors,TMCV.NS,Medium,Event watch,Auto,0.9736560594071967,-3.661031501356382,-1700.0,44735.00061035156,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.541947815993305,-2.7305775003589883,-699.0005493164062,24900.0,No urgent action; monitor with the rest of the portfolio.
-Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.34484140110516714,-2.780744386853018,-453.1792907714844,15843.870265960693,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.012903272814818,-0.32573289902280145,-3000.0,918000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.190692827347755,0.34071550255536653,1120.0,329840.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.2106707907238174,-2.3627420621915474,-6894.0087890625,284885.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.070253810869067,-0.28469740155342427,-794.9890136718409,278445.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.646341990913984,-1.2580968153049987,-3299.98779296875,259000.0,Meaningful exposure; keep the thesis and technical structure under review.
+Voltas,VOLTAS.NS,Medium,Event watch,Consumer Durables,3.7690967032107987,-4.348549743905606,-7860.003662109375,172889.99633789062,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Eicher Motors,EICHERMOT.NS,Medium,Event watch,Auto,2.5109326434690944,-3.657465495608536,-4372.5,115177.5,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.4080211666396993,-2.515351765890095,-1666.4959716796875,64586.502685546875,No urgent action; monitor with the rest of the portfolio.
+Tata Motors,TMCV.NS,Medium,Event watch,Auto,0.9751384956026071,-3.6718031843303023,-1705.0018310546818,44729.99877929688,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5413948066973193,-2.9884014965880112,-765.0009155273438,24833.999633789062,No urgent action; monitor with the rest of the portfolio.
+Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.34464507333733213,-2.9946530318548326,-488.04008865356445,15809.009468078613,No urgent action; monitor with the rest of the portfolio.
