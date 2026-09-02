@@ -1,11 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.187784525263616,0.7600434310532034,7000.0,928000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.267646085960725,-3.145547465869314,-10850.0,334082.0068359375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.278879577076333,-1.0795805058605779,-3150.0,288630.0,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.937884242708599,-2.250753382228332,-6285.00366210934,272954.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.699568475882615,-0.11436820698806915,-299.98779296875,262000.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Monitor,Industrials,4.9316495171091175,2.514244370082297,5560.0,226700.0,No urgent action; monitor with the rest of the portfolio.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Positive momentum,Pharma,3.9287865142916045,4.015479618881446,6971.9970703125,180600.0,Strong daily move; watch whether it follows through or simply retraces.
-Eicher Motors,EICHERMOT.NS,Medium,Event watch,Auto,2.4979120238290893,-3.95232120451694,-4725.0,114825.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.3616584523016775,-3.487394957983192,-2261.75,62593.25,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Motors,TMCV.NS,Medium,Monitor,Auto,0.9829580345858645,-2.6919349274679316,-1250.0,45185.00061035156,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.021227377449954,-0.21715526601520097,-2000.0,919000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.1849408158480745,-4.387535332165715,-15134.013671875,329797.9931640625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.37021407010438,0.21282857321869297,620.9912109375,292400.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.924997856788086,-2.6052858098440157,-7275.0,271964.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.71552679507494,0.019069124237369728,50.018310546875,262350.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Positive momentum,Pharma,3.9428962985511675,4.236638725791475,7355.9912109375,180983.994140625,Strong daily move; watch whether it follows through or simply retraces.
+Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.8279977538755774,-2.7883797166753155,-5039.996337890625,175710.00366210938,No urgent action; monitor with the rest of the portfolio.
+Eicher Motors,EICHERMOT.NS,Medium,Event watch,Auto,2.5007471573330107,-3.9836888331242104,-4762.5,114787.5,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.3635305783394285,-3.495796267725837,-2267.1986694335938,62587.801330566406,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Motors,TMCV.NS,Medium,Monitor,Auto,0.9836326616886458,-2.767310419858382,-1285.0006103515625,45150.0,No urgent action; monitor with the rest of the portfolio.
