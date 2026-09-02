@@ -1,11 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.100273899546067,0.1737242128121652,1600.0,922600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.2501291440396045,-3.523015143595376,-12152.0068359375,332780.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.287664491544994,-1.088835559164869,-3177.00439453125,288602.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.998709453600273,-1.3966480630091649,-3900.0,275339.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.675397085228431,-0.6862325111465339,-1799.98779296875,260500.0,Meaningful exposure; keep the thesis and technical structure under review.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,3.9077231844170153,3.3036095066187876,5735.9912109375,179363.994140625,No urgent action; monitor with the rest of the portfolio.
-Eicher Motors,EICHERMOT.NS,Medium,Event watch,Auto,2.509810918304473,-3.638644918444167,-4350.0,115200.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.4146662238555288,3.190280637957965,2007.5,64932.99865722656,No urgent action; monitor with the rest of the portfolio.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.366540875605432,-3.2857122341123923,-2130.9486694335938,62724.051330566406,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5431387590662349,-2.613387213267371,-669.0010070800781,24929.999542236328,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.187784525263616,0.7600434310532034,7000.0,928000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.267646085960725,-3.145547465869314,-10850.0,334082.0068359375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.278879577076333,-1.0795805058605779,-3150.0,288630.0,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.937884242708599,-2.250753382228332,-6285.00366210934,272954.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.699568475882615,-0.11436820698806915,-299.98779296875,262000.0,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Monitor,Industrials,4.9316495171091175,2.514244370082297,5560.0,226700.0,No urgent action; monitor with the rest of the portfolio.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Positive momentum,Pharma,3.9287865142916045,4.015479618881446,6971.9970703125,180600.0,Strong daily move; watch whether it follows through or simply retraces.
+Eicher Motors,EICHERMOT.NS,Medium,Event watch,Auto,2.4979120238290893,-3.95232120451694,-4725.0,114825.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.3616584523016775,-3.487394957983192,-2261.75,62593.25,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Motors,TMCV.NS,Medium,Monitor,Auto,0.9829580345858645,-2.6919349274679316,-1250.0,45185.00061035156,No urgent action; monitor with the rest of the portfolio.
