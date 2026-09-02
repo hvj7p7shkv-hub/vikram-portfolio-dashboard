@@ -1,16 +1,16 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.107905004213936,-0.32573289902280145,-3000.0,918000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Eicher Motors,EICHERMOT.NS,High,Event watch,Auto,2.4868747218446936,-5.031367628607275,-6015.0,113535.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Magadh Sugar & Energy,MAGADSUGAR.NS,High,Event watch,Sugar / Energy,1.3423943193458627,-5.504201680672272,-3569.75,61285.25,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.219614207685515,-4.444354161454067,-15330.0,329602.0068359375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.213736918949247,-2.776064157927205,-8100.0,283680.0,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.018243237644994,-1.6061465839164124,-4485.00366210934,274754.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.669859839945195,-1.3152809187990333,-3449.981689453125,258850.00610351562,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.005072215101181,3.328208374785202,7360.0,228500.0,Meaningful exposure; keep the thesis and technical structure under review.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,3.914075928216905,2.916576851186692,5063.994140625,178691.9970703125,No urgent action; monitor with the rest of the portfolio.
-Voltas,VOLTAS.NS,Medium,Event watch,Consumer Durables,3.80440256459068,-3.9087116668827804,-7064.996337890625,173685.00366210938,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Mahindra & Mahindra,M&M.NS,Medium,Event watch,Auto,3.4434240788350565,-3.5256183597345836,-5744.9951171875,157205.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ashok Leyland,ASHOKLEY.NS,Medium,Event watch,Auto,2.1706023948583795,-3.149003199218603,-3221.9970703125,99096.00219726562,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.4155483234175659,2.7008150575510204,1699.5013427734375,64625.0,No urgent action; monitor with the rest of the portfolio.
-Tata Motors,TMCV.NS,Medium,Event watch,Auto,0.9772485506428251,-3.9194598832360095,-1820.001220703125,44614.99938964844,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5460676062640359,-2.613387213267371,-669.0010070800781,24929.999542236328,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.191904485462192,0.0,0.0,921000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Eicher Motors,EICHERMOT.NS,High,Event watch,Auto,2.4707130032455606,-5.734002509410285,-6855.0,112695.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Magadh Sugar & Energy,MAGADSUGAR.NS,High,Event watch,Sugar / Energy,1.3334549561506857,-6.218487394957983,-4033.0,60822.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.199148399447579,-4.801527984561604,-16562.0068359375,328370.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.206149657725446,-2.9827252057950338,-8702.99560546875,283077.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.020081410117371,-1.6652342289724564,-4650.0,274589.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.659652572942954,-1.5821555812499444,-4149.993896484375,258149.99389648438,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.008513115856501,3.3055982635434633,7310.0,228450.0,Meaningful exposure; keep the thesis and technical structure under review.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,3.910520823473279,2.729974382023803,4740.0,178368.0029296875,No urgent action; monitor with the rest of the portfolio.
+Voltas,VOLTAS.NS,Medium,Event watch,Consumer Durables,3.803247155934369,-4.024896265560162,-7275.0,173475.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Mahindra & Mahindra,M&M.NS,Medium,Event watch,Auto,3.45301298204158,-3.344584228290892,-5450.0,157500.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ashok Leyland,ASHOKLEY.NS,Medium,Event watch,Auto,2.1741485007875374,-3.0786372119750327,-3150.0,99167.99926757812,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.4156257031773005,2.613410108565861,1644.5013427734375,64570.0,No urgent action; monitor with the rest of the portfolio.
+Tata Motors,TMCV.NS,Medium,Event watch,Auto,0.9807653197408377,-3.661031501356382,-1700.0,44735.00061035156,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Network18 Media & Investments,NETWORK18.NS,Medium,Event watch,Media,0.3462128975186793,-3.101600554538686,-505.4693794250488,15791.580177307129,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
