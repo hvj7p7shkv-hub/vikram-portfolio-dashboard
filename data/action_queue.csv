@@ -1,9 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.859181907822983,-0.3474484256243193,-3200.0,917800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.050074638621514,-0.8815992832996167,-2897.9931640625,325822.0068359375,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.424092745967725,4.128789420079704,11772.00439453125,296892.00439453125,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.070704019160289,0.4727142750071911,1320.007324218784,280560.0036621094,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.658287283608314,0.9262809108254277,2399.993896484375,261500.0,Meaningful exposure; keep the thesis and technical structure under review.
-OneSource Specialty Pharma,ONESOURCE.NS,Medium,Monitor,Pharma,3.4369497741587858,3.9596831620708484,6050.0,158840.00244140625,No urgent action; monitor with the rest of the portfolio.
-Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,3.067354243228569,3.9258380152056294,5355.0,141758.99780273438,No urgent action; monitor with the rest of the portfolio.
-Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.5056280837387168,3.9807413709695094,2663.8849182128906,69583.2014465332,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.802832102045386,-0.28310104529616353,-2600.0,915800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.044514787294546,-1.4651124756722589,-4844.013671875,325780.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.420243371280078,4.135101010101017,11790.0,296910.0,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.049507807936874,0.05901156576917366,164.9963378905909,279764.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.640498880416504,0.6754148818123973,1750.0,260850.00610351562,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.133426884718907,4.512436715826551,10250.0,237400.0,Strong daily move; watch whether it follows through or simply retraces.
+OneSource Specialty Pharma,ONESOURCE.NS,Medium,Monitor,Pharma,3.435330682854809,2.868423080647098,4429.99267578125,158869.9951171875,No urgent action; monitor with the rest of the portfolio.
+Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,3.060659726136324,3.4807146100922726,4760.9912109375,141542.99560546875,No urgent action; monitor with the rest of the portfolio.
+Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.4913102441382007,3.059928848515825,2047.6834716796875,68967.0,No urgent action; monitor with the rest of the portfolio.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.3425187092024349,3.3633100138485306,2020.1990966796875,62086.0,No urgent action; monitor with the rest of the portfolio.
