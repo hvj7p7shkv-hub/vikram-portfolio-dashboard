@@ -1,8 +1,8 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.01181977047638,0.13029315960912946,1200.0,922200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.0196310781087385,-1.59284081532155,-5235.986328125,323484.013671875,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.277553018742537,1.4614914402817147,4167.00439453125,289287.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.060834159503418,0.02148820473295565,60.003662109409106,279300.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.647447511674775,0.44384170953084556,1149.993896484375,260250.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.018145003169228,1.8049746863306293,4100.0,231250.0,Meaningful exposure; keep the thesis and technical structure under review.
-OneSource Specialty Pharma,ONESOURCE.NS,Medium,Monitor,Pharma,3.4014885589049797,2.591791017290146,3959.99755859375,156750.0,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.92886023893315,-0.10857763300760048,-1000.0,920000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.002091396010107,-1.6652511778641355,-5474.013671875,323245.986328125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.3150224784322875,2.247473206182926,6407.99560546875,291527.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.048842239280463,0.0,0.0,279239.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.671060181826607,1.0420616078157918,2699.981689453125,261799.98779296875,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.030954120100244,2.2452124147039454,5100.0,232250.0,Meaningful exposure; keep the thesis and technical structure under review.
+OneSource Specialty Pharma,ONESOURCE.NS,Medium,Monitor,Pharma,3.4266809237513898,3.534262657054965,5400.0,158190.00244140625,No urgent action; monitor with the rest of the portfolio.
