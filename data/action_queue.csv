@@ -1,9 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.70884087489001,-0.7621951219512146,-7000.0,911400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.898094306211505,-2.1683125805066594,-7070.0,318990.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.63256322180838,3.0791507117303496,9161.982421875,306710.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.992123553411796,-1.1345973332552828,-3179.99267578125,277095.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.737058638931187,1.8621521822322906,4849.9755859375,265299.98779296875,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.143458198477716,-0.1469353484466862,-350.0,237850.0,Meaningful exposure; keep the thesis and technical structure under review.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.2938700302958475,-2.7132701787255686,-1668.6990966796875,59832.69909667969,No urgent action; monitor with the rest of the portfolio.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Positive momentum,Consumption / Apparel,0.562785367312939,4.795845952218136,1191.0003662109375,26025.0,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.627049372781855,-1.004805591961555,-9200.0,906400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.906755357690346,-2.1768978605356426,-7097.9931640625,318962.0068359375,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.645176800385838,3.136624666790633,9332.99560546875,306882.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,5.976462518631721,-1.52528766390152,-4275.0,276000.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.756676076288679,2.073332172544462,5399.993896484375,265850.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.1601123847461565,0.04198152812762146,100.0,238300.0,Meaningful exposure; keep the thesis and technical structure under review.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.3029868137307234,-2.5851463028926935,-1596.8526611328125,60173.448669433594,No urgent action; monitor with the rest of the portfolio.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.2971305588898407,-2.598962365593771,-1598.398193359375,59903.0,No urgent action; monitor with the rest of the portfolio.
+Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5591240512551746,3.0901927141793406,774.0005493164062,25820.999908447266,No urgent action; monitor with the rest of the portfolio.
+Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.35704555338359956,3.012703980730169,482.2299556732178,16488.779512405396,No urgent action; monitor with the rest of the portfolio.
