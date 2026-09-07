@@ -1,13 +1,14 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.60612586352796,0.5295675198587757,4800.0,911200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Strides Pharma Science,STAR.NS,High,Core exposure,Pharma,5.048706300649833,10.721024745505403,22719.9951171875,234639.990234375,Strong daily move; watch whether it follows through or simply retraces.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.792859893674032,-1.0226944796015602,-3262.0068359375,315700.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.682327897711921,1.1994809595303524,3680.9912109375,310562.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.029658150940393,1.5326060419497356,4229.99267578125,280229.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.65892350977596,-1.0720353726100362,-2850.006103515625,263000.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.112396296284288,-0.2937473772555599,-700.0,237600.0,Meaningful exposure; keep the thesis and technical structure under review.
-Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.566095832548098,2.819204283437604,3269.9951171875,119259.99755859375,No urgent action; monitor with the rest of the portfolio.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.341530657747192,3.6138053886730637,2174.5513305664062,62348.0,No urgent action; monitor with the rest of the portfolio.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.3265786587992747,2.921559532311613,1750.101806640625,61653.101806640625,No urgent action; monitor with the rest of the portfolio.
-Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.34566016846811043,-2.5722324306672095,-424.1297340393025,16064.649778366093,No urgent action; monitor with the rest of the portfolio.
-Ganges Securities,GANGESSECU.NS,Medium,Monitor,Financials,0.2281923279447048,2.687223035977171,277.53021240234375,10605.300132751465,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.656843101936452,0.9267431597528741,8400.0,914800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Strides Pharma Science,STAR.NS,High,Core exposure,Pharma,5.083962699954268,11.645906687174534,24680.0048828125,236600.0,Strong daily move; watch whether it follows through or simply retraces.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.804688536861867,-0.7154478549262655,-2282.0068359375,316680.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.670541635787558,1.1584256975295526,3555.0,310437.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.020499187255766,1.5163056746773096,4185.003662109375,280185.0036621094,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.663052863537007,-0.8651563880917479,-2300.018310546875,263549.98779296875,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.125863491437408,0.10490977759127773,250.0,238550.0,Meaningful exposure; keep the thesis and technical structure under review.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,3.693458138056472,-2.6041971870125247,-4595.9912109375,171888.0029296875,No urgent action; monitor with the rest of the portfolio.
+Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.5666920731594987,2.983013609592433,3459.99755859375,119450.0,No urgent action; monitor with the rest of the portfolio.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.3443922666328771,3.976091421500594,2392.5513305664062,62566.0,No urgent action; monitor with the rest of the portfolio.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.3352707866407785,3.73687461395924,2238.5,62141.5,No urgent action; monitor with the rest of the portfolio.
+Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.3446911745457272,-2.713173267036284,-447.36915779113974,16041.410354614256,No urgent action; monitor with the rest of the portfolio.
+Ganges Securities,GANGESSECU.NS,Medium,Monitor,Financials,0.22786359384748373,2.67879734622265,276.66002655029297,10604.429946899414,No urgent action; monitor with the rest of the portfolio.
