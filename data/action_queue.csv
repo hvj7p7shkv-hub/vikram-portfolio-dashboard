@@ -1,13 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.118212288979638,3.949691085613405,35800.0,942200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.91612153290527,1.5494029790449337,4942.0068359375,323904.013671875,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.574760838246505,0.3372631777617707,1035.0,307917.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.075819684598978,3.0978260869565233,8550.0,284550.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.602864340730667,-0.4741134189029328,-1250.0,262399.9938964844,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.089553468125773,1.1028163778007638,2600.0,238360.009765625,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.0872044978236035,-0.020981955518251105,-50.0,238250.0,Meaningful exposure; keep the thesis and technical structure under review.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,3.621534503130263,-3.8960990453664635,-6875.9912109375,169608.0029296875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-OneSource Specialty Pharma,ONESOURCE.NS,Medium,Monitor,Pharma,3.3728218680221764,2.7181639634922705,4179.99267578125,157959.99755859375,No urgent action; monitor with the rest of the portfolio.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.3242959503022778,3.0703763394317685,1847.5513305664062,62021.0,No urgent action; monitor with the rest of the portfolio.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.3132012151592791,2.6683107579910548,1598.398193359375,61501.398193359375,No urgent action; monitor with the rest of the portfolio.
-Ganges Securities,GANGESSECU.NS,Medium,Monitor,Financials,0.22642981625486683,2.67879734622265,276.66002655029297,10604.429946899414,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.25610122477489,4.523389232127095,41000.0,947400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.92949377976519,1.6108480176152407,5137.9931640625,324100.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.520950932829442,-0.6158718898258364,-1890.0,304992.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.072661125571763,2.907608695652164,8025.0,284025.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.589991463462376,-0.8344326722483753,-2199.981689453125,261450.01220703125,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.117477124920699,0.4406210658833398,1050.0,239350.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.059963176766639,0.38174413077718405,900.0,236660.009765625,Meaningful exposure; keep the thesis and technical structure under review.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,3.604277642765194,-4.480852963328108,-7907.98828125,168576.005859375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+OneSource Specialty Pharma,ONESOURCE.NS,Medium,Positive momentum,Pharma,3.4363104179217605,4.51293407076141,6939.990234375,160719.9951171875,Strong daily move; watch whether it follows through or simply retraces.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.31894610530048,2.5178923505882356,1515.1026611328125,61688.551330566406,No urgent action; monitor with the rest of the portfolio.
+Ganges Securities,GANGESSECU.NS,Medium,Monitor,Financials,0.22656302260555602,2.602985419186399,268.83034515380734,10596.600265502928,No urgent action; monitor with the rest of the portfolio.
