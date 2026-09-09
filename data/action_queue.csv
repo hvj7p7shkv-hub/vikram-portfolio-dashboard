@@ -1,8 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.256987265521353,-1.89622838091269,-18200.0,941600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.974590716898888,-2.1590373754450165,-7154.013671875,324197.9931640625,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.339903293500587,-3.523868522576601,-10764.0087890625,294695.9912109375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.231669649621854,-0.8115490590165475,-2370.007324218784,289664.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.533238500392702,-1.8133230687715551,-4750.0,257200.01220703125,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.116309061783366,0.14316583602176358,339.990234375,237819.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.081457510743568,-0.463548251158874,-1100.0,236200.0,Meaningful exposure; keep the thesis and technical structure under review.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.320080211975164,-1.3544488435090596,-13000.0,946800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.9449687351718605,-2.340719340098263,-7756.0205078125,323595.986328125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.365284253437274,-2.9051295714864422,-8874.0087890625,296585.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.247330032202676,-0.3235938542874739,-945.0073242187841,291089.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.524280230817998,-1.7369796138626548,-4550.018310546875,257399.99389648438,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.099335718594528,0.0505285138623357,119.9951171875,237600.0,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.070362220193422,-0.4424778761061954,-1050.0,236250.0,Meaningful exposure; keep the thesis and technical structure under review.
+Tata Steel,TATASTEEL.NS,Medium,Monitor,Metals,1.216564985437498,2.6065724739887886,1440.000915527335,56684.999084472656,No urgent action; monitor with the rest of the portfolio.
+Ganges Securities,GANGESSECU.NS,Medium,Monitor,Financials,0.21549136697932159,-2.7798799156042775,-287.09960174560547,10040.670318603516,No urgent action; monitor with the rest of the portfolio.
