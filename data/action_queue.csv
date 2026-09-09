@@ -1,9 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.220190458753997,-2.0629297770368815,-19800.0,940000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.878005044656212,-3.5026256875996475,-11606.0205078125,319745.986328125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.364520055301956,-3.13789039481438,-9585.0,295875.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.257396225102492,-0.39036290978653465,-1139.996337890625,290895.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.599271627218265,-0.6299004913801642,-1650.0244140625,260299.98779296875,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.173357239713123,1.2716839544776537,3019.9951171875,240500.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Event watch,Industrials,4.945342326029302,-3.118415507796035,-7400.0,229900.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Steel,TATASTEEL.NS,Medium,Monitor,Metals,1.2219233574827608,2.8237916803593555,1560.003662109358,56805.00183105468,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.208089959652355,-2.1254428005834547,-20400.0,939400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.881592482534371,-3.4561453076117132,-11452.0068359375,319900.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.376196439185172,-2.964057090637895,-9054.0087890625,296405.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.2573228224986215,-0.3955042963495248,-1155.010986328125,290879.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.598419642324384,-0.648983442569051,-1700.01220703125,260250.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.164958909210699,1.1032487212893516,2619.9951171875,240100.0,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Event watch,Industrials,4.938010485669787,-3.2659081331647744,-7750.0,229550.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Steel,TATASTEEL.NS,Medium,Monitor,Metals,1.22074591359551,2.720613593091503,1503.0029296874745,56748.0010986328,No urgent action; monitor with the rest of the portfolio.
