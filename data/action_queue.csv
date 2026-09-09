@@ -1,11 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.16979584417794,-2.4796832673473657,-23800.0,936000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.830751182879073,-4.334971080765793,-14364.013671875,316987.9931640625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.392273759847162,-2.8874484384207477,-8820.0,296640.0,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.252313635616458,-0.6471814385913155,-1889.996337890625,290145.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.604876092069814,-0.7062439462890646,-1850.006103515625,260100.00610351562,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.181223841670386,1.2464145573111152,2959.9853515625,240439.990234375,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Event watch,Industrials,4.93039453968794,-3.581963758954909,-8500.0,228800.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Positive momentum,Pharma,3.669092796888555,4.576943790617749,7451.9970703125,170268.0029296875,Strong daily move; watch whether it follows through or simply retraces.
-OneSource Specialty Pharma,ONESOURCE.NS,Medium,Monitor,Pharma,3.3064674397150946,-2.8553324207621134,-4509.99755859375,153440.00244140625,No urgent action; monitor with the rest of the portfolio.
-Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.4955812045636554,-2.590634047913698,-3080.0048828125,115809.99755859375,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.101785654820738,-2.8130860595957485,-27000.0,932800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,3.6878845666689886,5.107600550108127,8315.9912109375,171131.9970703125,Strong daily move; watch whether it follows through or simply retraces.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,6.9089113217576426,-3.244889608066004,-10752.0068359375,320600.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.381713357633087,-3.0524483693650573,-9324.0087890625,296135.9912109375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.232566321337951,-0.9656401762994093,-2820.007324218784,289214.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.643929610105047,-0.019094601342239947,-50.018310546875,261899.99389648438,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.172416911145823,1.0695596185575251,2539.990234375,240019.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Event watch,Industrials,4.923084190441464,-3.7294563843236372,-8850.0,228450.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+OneSource Specialty Pharma,ONESOURCE.NS,Medium,Event watch,Pharma,3.3012356277214985,-3.0136103568178196,-4759.99755859375,153190.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
