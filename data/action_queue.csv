@@ -1,8 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.385056298668054,2.3065315800819164,21400.0,949200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.184980537103683,4.908031679227554,15652.0068359375,334557.9931640625,Strong daily move; watch whether it follows through or simply retraces.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.317499037186776,-0.6474572470054007,-1917.00439453125,294165.0,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.245017326630189,0.08260070139067821,239.9963378905909,290789.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.524711054395656,-1.775484537934846,-4649.993896484375,257250.0,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.151672360367573,1.0106113991299237,2400.0,239880.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
-Ingersoll-Rand India,INGERRAND.NS,Medium,Event watch,Industrials,3.933551318651538,-3.431262808925384,-6508.0078125,183160.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.393667927878056,2.3280879499892215,21600.0,949400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,Medium,Core exposure,Textiles / Apparel,7.182893004427157,4.855353720435773,15484.013671875,334390.0,Strong daily move; watch whether it follows through or simply retraces.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.311489995736573,-0.762967271071413,-2259.0087890625,293822.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.24247304740308,0.02065175085506077,60.003662109375,290610.0036621094,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.552731366501451,-1.2982031216954626,-3399.993896484375,258500.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.151473923409794,0.985342001963363,2339.990234375,239819.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
+Ingersoll-Rand India,INGERRAND.NS,Medium,Event watch,Industrials,3.943663495775708,-3.2035005244566928,-6076.015625,183591.9921875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ganges Securities,GANGESSECU.NS,Medium,Monitor,Financials,0.2158476639701734,-2.6384534484407363,-272.30976104736203,10048.5,No urgent action; monitor with the rest of the portfolio.
+Easy Trip Planners,EASEMYTRIP.NS,Medium,Monitor,Travel,0.18720330128613302,-2.6800645399515655,-239.99977111816406,8714.999914169312,No urgent action; monitor with the rest of the portfolio.
