@@ -1,12 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.88927488136707,0.13277273733127704,1200.0,905000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Fredun Pharmaceuticals,FREDUN.NS,High,Event watch,Pharma,3.38364698586775,-8.00512439745078,-12756.005859375,146591.9970703125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.730732105421698,-2.114803625377648,-6300.0,291600.0,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.597433141399716,-1.1105933957611502,-3210.003662109375,285825.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.513152964544242,-3.260424460092881,-8049.987792968806,238850.0061035156,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.465373047965201,2.8941464918045945,6660.009765625,236780.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.193466130726619,-0.26595744680850686,-600.0,225000.0,Meaningful exposure; keep the thesis and technical structure under review.
-Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,3.8128351734280543,3.373050567417324,5390.0,165186.00341796875,No urgent action; monitor with the rest of the portfolio.
-Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.5944248581940976,-2.5236298848372307,-2909.99755859375,112400.0,No urgent action; monitor with the rest of the portfolio.
-Vardhman Textiles,VTL.NS,Medium,Positive momentum,Textiles,1.4516891938965506,4.524680073126142,2722.5,62892.5,Strong daily move; watch whether it follows through or simply retraces.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.2723138290749902,-2.7780470112077404,-1575.0513305664,55121.30133056641,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.938493916982544,1.2834697942022633,11600.0,915400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.781930859056069,1.6790093315972143,4895.9912109375,296495.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.610584751059025,1.1125663170755695,3179.99267578125,289004.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.5582849266187,-1.5795844442667462,-3899.993896484403,243000.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.433394844398683,0.3209668620197226,759.9853515625,237539.990234375,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.251778679636435,1.773049645390068,4000.0,229600.0,Meaningful exposure; keep the thesis and technical structure under review.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,3.511189040360499,-3.667450285926188,-5844.0087890625,153503.994140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Vardhman Textiles,VTL.NS,Medium,Positive momentum,Textiles,1.4325392288053689,4.085918754284745,2458.497314453125,62628.497314453125,Strong daily move; watch whether it follows through or simply retraces.
+Ganges Securities,GANGESSECU.NS,Medium,Monitor,Financials,0.2338054770430241,3.497182292196266,345.3901062011706,10221.629814147947,No urgent action; monitor with the rest of the portfolio.
