@@ -1,12 +1,13 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.802910949859243,0.17679558011050034,1600.0,906600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.730313049529246,0.5864197530864201,1710.0,293310.0,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.705187014152418,2.2356324107025705,6389.99633789059,292214.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.610315163512667,2.365498744863226,5649.993896484403,244500.0,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.507975448103668,1.3767992585252076,3259.9853515625,240039.990234375,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.20187504117923,0.7555555555555538,1700.0,226700.0,Meaningful exposure; keep the thesis and technical structure under review.
-Pearl Global Industries,PGIL.NS,Medium,Event watch,Textiles / Apparel,3.6721519742400996,-3.1189124558582693,-5152.0068359375,160033.99658203125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Positive momentum,Pharma,3.5195605242015815,4.633265939514231,6791.9970703125,153383.994140625,Strong daily move; watch whether it follows through or simply retraces.
-Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,3.141707754181469,2.6241246474235647,3501.002197265625,136917.00439453125,No urgent action; monitor with the rest of the portfolio.
-Tata Motors,TMCV.NS,Medium,Monitor,Auto,1.0006783137220943,2.793165846438561,1185.0006103515625,43610.00061035156,No urgent action; monitor with the rest of the portfolio.
-Tata Motors Passenger Vehicles,TMPV.NS,Medium,Positive momentum,Auto,0.7216540363700343,4.485049833887045,1350.0,31450.0,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.94173520036301,1.5911602209944808,14400.0,919400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,3.573533841056441,7.023579775938615,10296.005859375,156888.0029296875,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.728392454745574,3.3482051339871477,9570.00732421875,295395.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.68110616847237,0.003071422407185942,9.0087890625,293319.0087890625,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.669347143302312,4.207656494098311,10049.987792968806,248899.9938964844,Strong daily move; watch whether it follows through or simply retraces.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.4980597617121925,0.5582464184943126,1340.0146484375,241380.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.236572680621553,2.1777777777777674,4900.0,229900.0,Meaningful exposure; keep the thesis and technical structure under review.
+Ingersoll-Rand India,INGERRAND.NS,Medium,Monitor,Industrials,3.7848189793743443,-2.52938377619375,-4311.9921875,166164.00390625,No urgent action; monitor with the rest of the portfolio.
+Pearl Global Industries,PGIL.NS,Medium,Event watch,Textiles / Apparel,3.6483809249562196,-3.03415951244711,-5012.0068359375,160173.99658203125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,3.1301220785116817,3.001888779487105,4005.0,137421.00219726562,No urgent action; monitor with the rest of the portfolio.
+Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.622386421440461,2.8865101723078546,3230.0048828125,115130.0048828125,No urgent action; monitor with the rest of the portfolio.
+Tata Motors Passenger Vehicles,TMPV.NS,Medium,Event watch,Auto,0.6936921035059972,-3.1637558686903766,-995.001220703125,30454.998779296875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
