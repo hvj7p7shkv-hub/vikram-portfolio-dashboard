@@ -1,11 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.605730301029407,-1.2040280210157572,-11000.0,902600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.914539599661988,3.3367426392975963,9779.99267578125,302879.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.513611419761337,-2.9451369718339837,-8657.99560546875,285317.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.748418959320743,0.8612093762617512,2150.0091552734093,251800.0030517578,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.627423575452857,1.0411502429497288,2539.990234375,246500.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.093217848614736,-2.1705766279324745,-4950.0,223100.0,Meaningful exposure; keep the thesis and technical structure under review.
-Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.918536149391833,3.0065733801454497,5010.003662109375,171645.00732421875,No urgent action; monitor with the rest of the portfolio.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,3.6657470258459375,2.654390148518404,4151.9970703125,160571.9970703125,No urgent action; monitor with the rest of the portfolio.
-Vardhman Textiles,VTL.NS,Medium,Event watch,Textiles,1.3890833415679598,-4.307579604659429,-2738.9959716796875,60846.502685546875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.2168247626580637,-3.1203566121842496,-1716.75,53301.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.62851413575089,-1.0507880910682998,-9600.0,904000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.9056461176234665,3.2497441146366324,9525.0,302625.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.490588346693739,-3.245162967459725,-9540.0,284435.9912109375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.758413349627428,1.0815190358669735,2700.012207031193,252350.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.62537743807538,1.0493463063974806,2559.9853515625,246519.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.090952990803124,-2.1705766279324745,-4950.0,223100.0,Meaningful exposure; keep the thesis and technical structure under review.
+Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.916108825069706,2.9885633668417677,4979.99267578125,171614.99633789062,No urgent action; monitor with the rest of the portfolio.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,3.6991672897714665,3.636365509325845,5688.0029296875,162108.0029296875,No urgent action; monitor with the rest of the portfolio.
+Vardhman Textiles,VTL.NS,Medium,Event watch,Textiles,1.390724646638258,-4.151890062593633,-2640.0,60945.49865722656,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.2160349197143525,-3.14016960941369,-1727.6506652832031,53290.0993347168,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
