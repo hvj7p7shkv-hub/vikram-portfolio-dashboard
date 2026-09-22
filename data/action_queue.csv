@@ -1,11 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.692399599431514,-0.32837127845883884,-3000.0,910600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,3.7930763684791446,6.712696586114308,10500.0,166920.0,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.8734170534131875,3.1985670419651946,9375.0,302475.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.5782333604672,-1.5276727845829674,-4490.9912109375,289485.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.766194155892541,1.642301703886928,4100.006103515597,253750.0,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.565541850269778,0.39350111212275163,959.9853515625,244919.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.017441062546101,-3.179127384345537,-7250.0,220800.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Pearl Global Industries,PGIL.NS,Medium,Positive momentum,Textiles / Apparel,3.8271622452627456,4.964665005334523,7966.00341796875,168420.0,Strong daily move; watch whether it follows through or simply retraces.
-Ramco Industries,RAMCOIND.NS,Medium,Event watch,Building Materials,2.9391764104153486,-3.3574205635542587,-4493.447540283203,129342.8549194336,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Vardhman Textiles,VTL.NS,Medium,Event watch,Textiles,1.3885450005746351,-3.9010445928847837,-2480.4986572265625,61105.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.71630652641396,-0.372154115586687,-3400.0,910200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,3.7977619281448405,6.674338319907935,10440.0,166860.0,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.8932587346264365,3.3316261814706927,9764.99633789059,302864.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.586474289580221,-1.561351993777793,-4590.0,289385.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.752632909856216,1.2417409089947817,3100.006103515597,252750.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.533452363818855,-0.3443247314363185,-840.0146484375,243119.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.016341417734165,-3.3545275158956334,-7650.0,220400.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Pearl Global Industries,PGIL.NS,Medium,Positive momentum,Textiles / Apparel,3.812874603079855,4.406247367223104,7070.0,167523.99658203125,Strong daily move; watch whether it follows through or simply retraces.
+Ramco Industries,RAMCOIND.NS,Medium,Event watch,Building Materials,2.9447823476604067,-3.327316503301292,-4453.157379150391,129383.1450805664,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Vardhman Textiles,VTL.NS,Medium,Event watch,Textiles,1.3903845699892627,-3.926998129296966,-2497.0013427734375,61088.497314453125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Easy Trip Planners,EASEMYTRIP.NS,Medium,Monitor,Travel,0.20347591906343374,3.4722187728794873,299.9997138977051,8940.000057220459,No urgent action; monitor with the rest of the portfolio.
