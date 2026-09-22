@@ -1,11 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.58231508968522,-0.26536930561698036,-2400.0,902000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.85582768148107,-0.7187112763320957,-2175.0,300450.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.636633071888761,2.23347351016292,6354.0087890625,290844.0087890625,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.761679113243369,0.33777314688321347,850.0061035155966,252500.0,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.581412717225062,-0.9796758015639395,-2419.9951171875,244600.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.073700399325398,-0.29147982062780464,-650.0,222350.0,Meaningful exposure; keep the thesis and technical structure under review.
-Pearl Global Industries,PGIL.NS,Medium,Positive momentum,Textiles / Apparel,3.817220878539681,4.9631060074055044,7910.0,167286.00341796875,Strong daily move; watch whether it follows through or simply retraces.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,3.7869634282529487,2.5812231188612866,4176.005859375,165960.0,No urgent action; monitor with the rest of the portfolio.
-Voltas,VOLTAS.NS,Medium,Event watch,Consumer Durables,3.77053400226707,-3.546099366583222,-6075.0,165239.99633789062,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Easy Trip Planners,EASEMYTRIP.NS,Medium,Monitor,Travel,0.20502449447277674,3.454228162052164,299.9997138977051,8984.999656677246,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.593913307720886,-0.26536930561698036,-2400.0,902000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.871677447662189,-0.5452292441139983,-1650.0,300975.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.647359046056471,2.34103131920278,6660.0,291150.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.742094453316855,-0.05960417251037464,-149.99389648440342,251500.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.558986821197449,-1.433078416464062,-3539.990234375,243480.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.052586491129304,-0.7623318385650224,-1700.0,221300.0,Meaningful exposure; keep the thesis and technical structure under review.
+Pearl Global Industries,PGIL.NS,Medium,Positive momentum,Textiles / Apparel,3.819371897987526,4.9631060074055044,7910.0,167286.00341796875,Strong daily move; watch whether it follows through or simply retraces.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,3.788001423921128,2.551552118375433,4128.0029296875,165911.9970703125,No urgent action; monitor with the rest of the portfolio.
+Voltas,VOLTAS.NS,Medium,Event watch,Consumer Durables,3.769919197566739,-3.616139360884252,-6194.989013671875,165120.00732421875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Easy Trip Planners,EASEMYTRIP.NS,Medium,Monitor,Travel,0.20514002660699904,3.454228162052164,299.9997138977051,8984.999656677246,No urgent action; monitor with the rest of the portfolio.
