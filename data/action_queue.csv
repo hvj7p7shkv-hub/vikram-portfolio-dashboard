@@ -1,11 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.170089330579994,-2.556691863050242,-23000.0,876600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.989812444802013,-0.4326474350110576,-1320.00732421875,303779.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.593382489722624,-2.6538676773766756,-7812.00439453125,286550.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.660326232400957,-3.0541871921182295,-7750.0,246000.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.545278951254595,-1.4959575000144665,-3660.009765625,241000.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.032168077341826,-2.1695370163274386,-4850.0,218700.0,Meaningful exposure; keep the thesis and technical structure under review.
-Ashok Leyland,ASHOKLEY.NS,Medium,Event watch,Auto,2.1712183676907832,-3.4501781191268455,-3371.9970703125,94362.00256347656,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.5932189474411316,-2.6392906106882053,-1877.0359497070312,69241.92086791992,No urgent action; monitor with the rest of the portfolio.
-Tata Motors,TMCV.NS,Medium,Monitor,Auto,1.0058583650187758,-2.8987156723011553,-1305.0018310546932,43714.99938964844,No urgent action; monitor with the rest of the portfolio.
-Ganges Securities,GANGESSECU.NS,Medium,Event watch,Financials,0.22442434321595783,-3.044189852700474,-306.2397079467761,9753.570053100586,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.17348511428148,-2.6011560693641633,-23400.0,876200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.997634310692254,-0.3834832265548149,-1170.00732421875,303929.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.5972961199149225,-2.6569206482121466,-7820.9912109375,286542.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.663863659111213,-3.0541871921182295,-7750.0,246000.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.53861421604456,-1.6757949139001638,-4100.0,240560.009765625,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.02380101795962,-2.3932006262581074,-5350.0,218200.0,Meaningful exposure; keep the thesis and technical structure under review.
+Ashok Leyland,ASHOKLEY.NS,Medium,Event watch,Auto,2.172989685031546,-3.431761531608102,-3353.997802734375,94380.00183105469,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.5953058611764523,-2.5726478159662225,-1829.6402893066406,69289.31652832031,No urgent action; monitor with the rest of the portfolio.
+Tata Motors,TMCV.NS,Medium,Monitor,Auto,1.0064869772402383,-2.8987156723011553,-1305.0018310546932,43714.99938964844,No urgent action; monitor with the rest of the portfolio.
+Ganges Securities,GANGESSECU.NS,Medium,Event watch,Financials,0.22454456242409646,-3.05283997504594,-307.1098937988269,9752.699867248535,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
