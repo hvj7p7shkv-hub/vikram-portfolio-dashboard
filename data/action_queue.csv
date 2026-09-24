@@ -1,10 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.1965045674763,-1.7738359201773801,-16000.0,886000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,High,Positive momentum,Textiles / Apparel,4.170418782946916,9.364802253555427,15666.00341796875,182952.0068359375,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.006432192132718,0.7423843488815196,2265.0146484375,307365.0146484375,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.663478798154257,-0.6940395484379969,-2042.99560546875,292320.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.669154203494938,-1.9901489859144084,-5050.0030517578125,248699.9969482422,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.588003309751299,0.6817748144704705,1659.9853515625,245139.990234375,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.010374383669629,-0.677812923633081,-1500.0,219800.0,Meaningful exposure; keep the thesis and technical structure under review.
-Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.4268738990227232,3.2383844685462515,1963.497314453125,62595.49865722656,No urgent action; monitor with the rest of the portfolio.
-Easy Trip Planners,EASEMYTRIP.NS,Medium,Event watch,Travel,0.19831782789538388,-3.171946371340728,-284.9993705749512,8700.000286102295,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.27222939873883,-1.4412416851441234,-13000.0,889000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,High,Positive momentum,Textiles / Apparel,4.155328077239525,8.929613272390458,14937.9931640625,182223.99658203125,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.99631358387647,0.5604731766992277,1710.003662109375,306810.0036621094,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.63941756769549,-1.0884475508941116,-3203.98681640625,291159.0087890625,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.665506560462011,-2.0886711534020885,-5300.0030517578125,248449.9969482422,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.587746787284558,0.6407036800879506,1559.9853515625,245039.990234375,Meaningful exposure; keep the thesis and technical structure under review.
+Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.4252586154116822,3.084179902669293,1870.0,62502.00134277344,No urgent action; monitor with the rest of the portfolio.
+Easy Trip Planners,EASEMYTRIP.NS,Medium,Event watch,Travel,0.19770555148142874,-3.5058358820373337,-314.9993419647217,8670.000314712524,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
