@@ -1,12 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.16098456686974,0.38803926044281845,3400.0,879600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.3818364800112877,9.960233714898115,5460.8973388671875,60287.89733886719,Strong daily move; watch whether it follows through or simply retraces.
-Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.3509647468802515,9.998622684039837,5357.601806640625,58941.0,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.86037331121136,-1.5200832839818657,-4619.989013671875,299310.0036621094,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.591651580777226,0.36433988748427737,1043.98681640625,287585.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.641912492135178,0.060973128652186404,149.99389648440342,246149.9938964844,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.469320189750056,-0.8064576694720049,-1940.0146484375,238619.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.007011230823891,0.11457378551786856,250.0,218450.0,Meaningful exposure; keep the thesis and technical structure under review.
-Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,4.230918759889137,3.5254416830061253,6286.00341796875,184590.0,No urgent action; monitor with the rest of the portfolio.
-Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.630091167362497,2.640580656555924,1829.6402893066406,71118.95681762695,No urgent action; monitor with the rest of the portfolio.
-Ganges Securities,GANGESSECU.NS,Medium,Monitor,Financials,0.2322721519468422,3.907230100296255,381.0604248046875,10133.760292053223,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.100913830473832,-0.06847751654873724,-600.0,875600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.3798843767855338,9.63220918628851,5281.051330566406,60108.051330566406,Strong daily move; watch whether it follows through or simply retraces.
+Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.3530926931041094,9.998622684039837,5357.601806640625,58941.0,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.911123924924792,-0.9475842283369174,-2879.99267578125,301050.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.593976683526898,0.24184782504508284,692.99560546875,287235.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.609477406535544,-0.6707292262131737,-1649.9938964844034,244350.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.4402862696376,-1.4881961828570156,-3580.0048828125,236980.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.006863072665992,-0.04582951420715187,-100.0,218100.0,Meaningful exposure; keep the thesis and technical structure under review.
+Pearl Global Industries,PGIL.NS,Medium,Positive momentum,Textiles / Apparel,4.2716507210910155,4.357726214187974,7770.0,186073.99658203125,Strong daily move; watch whether it follows through or simply retraces.
