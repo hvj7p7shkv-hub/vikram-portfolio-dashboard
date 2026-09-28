@@ -1,8 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.076485665362885,-1.0735495660118777,-9400.0,866200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.955035137420651,-0.32386646736422,-975.0,300075.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.575246269192586,-1.234526158350302,-3545.9912109375,283689.0087890625,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.562637450573877,-1.7802357253360435,-4350.006103515597,240000.0,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.385096378932096,-1.9579772777589377,-4640.0146484375,232339.990234375,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.050411252000199,-0.09170105456213218,-200.0,217900.0,Meaningful exposure; keep the thesis and technical structure under review.
-Nippon Life India AMC,NAM-INDIA.NS,Medium,Event watch,Asset Management,2.5866264145168527,-3.5436473638720822,-4100.0,111600.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.086546619264915,-1.0507080858839668,-9200.0,866400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.980561982278198,0.014950116000256308,45.00732421875,301095.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.587872710020102,-1.0715948980690948,-3077.99560546875,284157.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.575732296783485,-1.5756112164304947,-3850.006103515597,240500.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.379596123472471,-2.0845702365819285,-4940.0146484375,232039.990234375,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.028591830238412,-0.5502063273727598,-1200.0,216900.0,Meaningful exposure; keep the thesis and technical structure under review.
+AstraZeneca Pharma India,ASTRAZEN.NS,Medium,Event watch,Pharma,3.8029508173412983,-3.0130668716372044,-5096.0,164034.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Nippon Life India AMC,NAM-INDIA.NS,Medium,Event watch,Asset Management,2.58454330008598,-3.6473596518474483,-4219.9951171875,111480.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
