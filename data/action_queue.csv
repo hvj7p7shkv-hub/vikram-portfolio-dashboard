@@ -1,10 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.04004743465871,-1.4618547281863847,-12800.0,862800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.994506039736066,0.02989414977265792,89.9963378905909,301139.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.586249284477878,-1.2783972686236877,-3672.00439453125,283562.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.61274610601592,-1.104977343805491,-2700.012207031193,241649.9938964844,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.376065803117401,-2.3293083819105997,-5519.9951171875,231460.009765625,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.036722631207397,-0.5731315910132984,-1250.0,216850.0,Meaningful exposure; keep the thesis and technical structure under review.
-AstraZeneca Pharma India,ASTRAZEN.NS,Medium,Monitor,Pharma,3.813903464201744,-2.9131437355880085,-4927.0,164203.0,No urgent action; monitor with the rest of the portfolio.
-Ramco Industries,RAMCOIND.NS,Medium,Event watch,Building Materials,2.890018488776893,-3.5005506421996957,-4513.604919433594,124426.25,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Nippon Life India AMC,NAM-INDIA.NS,Medium,Event watch,Asset Management,2.580260684332561,-3.984440413650603,-4609.99755859375,111090.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.05229573641363,-1.6674280493375937,-14600.0,861000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.008172471648323,-0.04484426577293643,-135.0036621094091,300914.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.542009287228494,-2.2058562539166493,-6335.9912109375,280899.0087890625,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.612779642828903,-1.370986707524946,-3350.006103515597,241000.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.3905976387613235,-2.3293083819105997,-5519.9951171875,231460.009765625,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.045679293024405,-0.6648326455754194,-1450.0,216650.0,Meaningful exposure; keep the thesis and technical structure under review.
+AstraZeneca Pharma India,ASTRAZEN.NS,Medium,Event watch,Pharma,3.8105882970970097,-3.2590315142198345,-5512.0,163618.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ramco Industries,RAMCOIND.NS,Medium,Event watch,Building Materials,2.9025232287617,-3.3442762302842377,-4312.104919433594,124627.75,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Nippon Life India AMC,NAM-INDIA.NS,Medium,Event watch,Asset Management,2.5711654463415385,-4.580812445980986,-5300.0,110400.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.6086384959990203,-2.5284272771216587,-1791.7194213867188,69071.28057861328,No urgent action; monitor with the rest of the portfolio.
+Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.6594433699623716,-2.5133475654128934,-730.0018310546875,28314.999389648438,No urgent action; monitor with the rest of the portfolio.
