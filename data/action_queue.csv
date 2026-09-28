@@ -1,12 +1,14 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.072388781921106,-1.5075376884422065,-13200.0,862400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.00240999532735,-0.06477572636397477,-195.00732421875,300854.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.541913630489987,-2.1463261789127386,-6165.0,281070.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.623248205269338,-1.1254347989805291,-2750.0,241600.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.3742052061057315,-2.5656193592447085,-6080.0048828125,230900.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.053009745541595,-0.4585052728106387,-1000.0,217100.0,Meaningful exposure; keep the thesis and technical structure under review.
-AstraZeneca Pharma India,ASTRAZEN.NS,Medium,Event watch,Pharma,3.8063989580187583,-3.305149884704073,-5590.0,163540.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ramco Industries,RAMCOIND.NS,Medium,Event watch,Building Materials,2.9077499194404033,-3.1098646124110396,-4009.8549194335938,124930.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Nippon Life India AMC,NAM-INDIA.NS,Medium,Event watch,Asset Management,2.5646759843283187,-4.762314225232278,-5509.99755859375,110190.00244140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.6049885322675934,-2.6889660685357475,-1905.4820251464844,68957.51797485352,No urgent action; monitor with the rest of the portfolio.
-Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.3522687835533058,-2.6168252820166438,-406.70044326782227,15135.049556732178,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.016078229060756,-2.192782092279577,-19200.0,856400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Nippon Life India AMC,NAM-INDIA.NS,High,Event watch,Asset Management,2.56090797970975,-5.298189181341828,-6130.0048828125,109569.9951171875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.014509043330045,-0.3089163513639748,-929.99267578125,300120.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.512891451649148,-2.9860582430871085,-8577.00439453125,278657.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.632735699677303,-1.370986707524946,-3350.006103515597,241000.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.384054152634224,-2.793482564261529,-6619.9951171875,230360.009765625,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.05777595605879,-0.7794589637780791,-1700.0,216400.0,Meaningful exposure; keep the thesis and technical structure under review.
+AstraZeneca Pharma India,ASTRAZEN.NS,Medium,Event watch,Pharma,3.814717664825025,-3.4973097617217563,-5915.0,163215.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ramco Industries,RAMCOIND.NS,Medium,Event watch,Building Materials,2.9123722185932728,-3.3598998561825244,-4332.25,124607.6049194336,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ashok Leyland,ASHOKLEY.NS,Medium,Monitor,Auto,2.174750197393701,-2.514458105329953,-2400.0,93048.00109863281,No urgent action; monitor with the rest of the portfolio.
+Inox Wind,INOXWIND.NS,Medium,Event watch,Renewables,1.6023931659312873,-3.250836528663248,-2303.6402893066406,68559.35971069336,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.3870319506114088,-2.6173285198555996,-1595.0,59345.0,No urgent action; monitor with the rest of the portfolio.
+Network18 Media & Investments,NETWORK18.NS,Medium,Event watch,Media,0.3517047397791239,-3.1775715195129672,-493.850221633907,15047.899778366093,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
