@@ -1,8 +1,8 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.984041602382,-0.13992537313433084,-1200.0,856400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.000131706298821,-0.5371227443218496,-1619.989013671875,299985.0036621094,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.613144790419979,1.6593995914043536,4625.9912109375,283400.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.601552134094178,-0.3941896050797422,-949.9969482421875,240050.0030517578,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.464576085969342,1.6935903757621773,3900.0,234180.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.246860992872014,3.689186073322581,8000.0,224850.0,Meaningful exposure; keep the thesis and technical structure under review.
-Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.8625157475879033,-2.818141787758699,-4800.0,165525.0,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.016224513302195,-0.11660447761193682,-1000.0,856600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,6.9918921847694255,-0.7907645461712631,-2384.9853515625,299220.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.650218743958504,2.0887796988498852,5822.99560546875,284597.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.549677004330226,-1.4522821576763434,-3500.0,237500.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.480043048242073,1.8412324754520926,4239.990234375,234519.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.2657672123192265,3.9197602029052314,8500.0,225350.0,Meaningful exposure; keep the thesis and technical structure under review.
+Voltas,VOLTAS.NS,Medium,Event watch,Consumer Durables,3.852060017531948,-3.2144429766622684,-5475.0,164850.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
