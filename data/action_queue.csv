@@ -1,13 +1,14 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.59182890613157,0.7259953161592447,6200.0,860200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.099297447265029,-0.1464658794981144,-435.0036621094091,296564.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.556015092446237,-1.5847347994825345,-4410.0,273870.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.5482077116390345,-1.7090749478965495,-4029.998779296903,231770.0042724609,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.259270879652529,-0.9914375844975232,-2200.0,219700.0,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.194637145583063,-3.125,-7000.0,217000.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,3.9010049273927,-3.310786756852968,-5580.0,162960.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Mahindra & Mahindra,M&M.NS,Medium,Event watch,Auto,3.414815616670156,-3.2881355932203427,-4850.0,142650.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Event watch,Sugar / Energy,1.3544453371756011,-4.448892286680339,-2634.4027099609375,56580.398193359375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.3379123106329538,-3.4823529411764698,-2016.5,55889.75,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Steel,TATASTEEL.NS,Medium,Event watch,Metals,1.2804661090924903,-3.2555615304656227,-1800.0,53490.000915527344,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Event watch,Consumption / Apparel,0.5330128690593798,-3.0057442802719825,-689.9986267089844,22266.000366210938,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.588727760187922,0.7259953161592447,6200.0,860200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.1230009084305115,0.20202020202020332,600.0,297600.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.561490151334477,-1.487710219922378,-4140.0,274140.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.547372147109148,-1.7090749478965495,-4029.998779296903,231770.0042724609,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.27164297742547,-0.7435781883731396,-1650.0,220250.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.1938548290639135,-3.125,-7000.0,217000.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,3.892375194879939,-3.51014943596476,-5916.005859375,162623.994140625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Mahindra & Mahindra,M&M.NS,Medium,Event watch,Auto,3.4226785279084777,-3.050847457627115,-4500.0,143000.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Eicher Motors,EICHERMOT.NS,Medium,Event watch,Auto,2.4844337845937066,-3.2167832167832144,-3450.0,103800.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Event watch,Sugar / Energy,1.3542413566218376,-4.448892286680339,-2634.4027099609375,56580.398193359375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.3377108199662437,-3.4823529411764698,-2016.5,55889.75,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Steel,TATASTEEL.NS,Medium,Event watch,Metals,1.2781191146175714,-3.4183412628531307,-1890.0009155273438,53400.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.534512303441236,-2.7182361381462905,-623.9982604980469,22332.000732421875,No urgent action; monitor with the rest of the portfolio.
