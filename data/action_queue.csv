@@ -1,12 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.81929661659443,1.8832829574517485,16200.0,876400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.478485986111508,9.998694042390621,5657.3009033203125,62237.69909667969,Strong daily move; watch whether it follows through or simply retraces.
-Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.3982471461122181,5.520273571079626,3079.25,58860.0,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.001569448350639,-0.962700382355719,-2864.996337890625,294735.0036621094,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.774870986046152,4.031518346294316,11052.00439453125,285192.00439453125,Strong daily move; watch whether it follows through or simply retraces.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.437627645444504,-1.2297760964468551,-2850.006103515597,228899.9938964844,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.358046955582923,2.4063564131668658,5300.0,225550.0,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.163014289522124,0.17513848250674258,379.98046875,217339.990234375,Meaningful exposure; keep the thesis and technical structure under review.
-Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,2.9549194900685074,-2.5179906906968474,-3213.006591796875,124388.99780273438,No urgent action; monitor with the rest of the portfolio.
-Tata Motors,TMCV.NS,Medium,Monitor,Auto,1.013883562508067,2.7196119838673427,1129.9987792968807,42679.99877929688,No urgent action; monitor with the rest of the portfolio.
-Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.6846327634692285,3.1496129215404345,880.0018310546875,28820.001220703125,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.775313826067027,1.7205301092769076,14800.0,875000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.476493200597595,9.907141305092292,5605.5,62185.898193359375,Strong daily move; watch whether it follows through or simply retraces.
+Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.3959729389302284,5.403033593368334,3013.8526611328125,58794.60266113281,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.021106431528859,-0.6350794146137817,-1889.996337890625,295710.0036621094,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.794453815220773,4.386083311104727,12024.0087890625,286164.0087890625,Strong daily move; watch whether it follows through or simply retraces.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.438858617485848,-1.1564153940803679,-2679.99267578125,229070.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.349346520014745,2.2928490351872943,5050.0,225300.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.160350290369696,0.17513848250674258,379.98046875,217339.990234375,Meaningful exposure; keep the thesis and technical structure under review.
+Tata Motors,TMCV.NS,Medium,Monitor,Auto,1.013360421412629,2.7196119838673427,1129.9987792968807,42679.99877929688,No urgent action; monitor with the rest of the portfolio.
+Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.6853479096104909,3.3106657845622722,925.0,28864.999389648438,No urgent action; monitor with the rest of the portfolio.
