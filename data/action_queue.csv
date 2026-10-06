@@ -1,10 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.381563787357795,0.04650081376424975,400.0,860600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.4368315033728525,8.764040173119202,4888.6473388671875,60669.39733886719,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.094943911384634,1.3087108876079334,3869.989013671875,299579.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.955191088359619,2.626116411983692,7515.0,293679.0087890625,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.461292974394492,0.6679175493853773,1529.9987792968466,230600.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.444714751003436,4.381384790011356,9650.0,229900.0,Strong daily move; watch whether it follows through or simply retraces.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.115521471147204,-0.44248235730726115,-960.009765625,216000.0,Meaningful exposure; keep the thesis and technical structure under review.
-Aster DM Quality Care,ASTERDM.NS,Medium,Event watch,Healthcare,2.922881184652284,-3.279729044898416,-4185.0,123417.00439453125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.5212045145126258,3.2902987109368897,2046.101806640625,64232.0,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.52179617175084,0.9765170890490671,8400.0,868600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.4266971950579626,8.255984367366874,4605.25,60386.0,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.127579229550621,2.018866098454164,5969.989013671875,301679.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.922172222898046,2.3839414504790657,6821.982421875,292985.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.485788513954488,1.3620268989521511,3119.9951171875,232190.00244140625,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.422233734074163,4.199772985244032,9250.0,229500.0,Strong daily move; watch whether it follows through or simply retraces.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.1344653970076095,0.16592244439488368,359.9853515625,217319.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
+Aster DM Quality Care,ASTERDM.NS,Medium,Event watch,Healthcare,2.917586970252708,-3.223308764868549,-4113.006591796875,123488.99780273438,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.507948009051344,2.635809490994312,1639.101806640625,63825.0,No urgent action; monitor with the rest of the portfolio.
