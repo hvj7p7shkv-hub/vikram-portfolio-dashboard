@@ -1,11 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.333594436394243,-0.8685714285714297,-7600.0,867400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-PTC Industries,PTCIL.NS,High,Core exposure,Industrials,5.604983202377062,6.125166444740349,13800.0,239100.0,Strong daily move; watch whether it follows through or simply retraces.
-Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,4.07890872945884,6.367374701965578,10416.005859375,174000.0,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.229514092902909,0.29268292682926855,900.0,308400.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.885901298468912,-1.2465945891641406,-3707.99560546875,293742.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.607093039985823,2.5554203245922613,5960.006713867216,239190.00244140625,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.0822265088889464,-0.2484541541539098,-539.990234375,216800.0,Meaningful exposure; keep the thesis and technical structure under review.
-OneSource Specialty Pharma,ONESOURCE.NS,Medium,Monitor,Pharma,3.5941279682993272,3.01685821881843,4489.990234375,153319.9951171875,No urgent action; monitor with the rest of the portfolio.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.5825743702468456,4.465819368503832,2886.0,67510.19909667969,Strong daily move; watch whether it follows through or simply retraces.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.4308999358975152,3.819053513821169,2245.3973388671875,61040.0,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.583773977718636,0.6857142857142895,6000.0,881000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+PTC Industries,PTCIL.NS,High,Core exposure,Industrials,5.622571177909182,6.813138038171318,15350.0,240650.0,Strong daily move; watch whether it follows through or simply retraces.
+Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,4.0880636096769125,6.961563073156052,11388.0029296875,174971.9970703125,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.145209884933005,-0.5463390815548808,-1679.99267578125,305820.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,6.855027565337853,-1.3615733736762503,-4050.0,293400.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.590328816790134,2.5897220149923905,6040.008544921875,239270.0042724609,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.084028623781584,0.11963273088611004,260.009765625,217600.0,Meaningful exposure; keep the thesis and technical structure under review.
+OneSource Specialty Pharma,ONESOURCE.NS,Medium,Monitor,Pharma,3.598071728227775,3.47375861558179,5169.9951171875,154000.0,No urgent action; monitor with the rest of the portfolio.
+Ashok Leyland,ASHOKLEY.NS,Medium,Monitor,Auto,2.0989841473828204,-2.5829546516126567,-2382.000732421875,89837.99743652344,No urgent action; monitor with the rest of the portfolio.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.5688434264855187,3.904733436132557,2523.4027099609293,67147.60180664061,No urgent action; monitor with the rest of the portfolio.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.435312805598917,4.486457188829918,2637.794677734375,61432.39733886719,Strong daily move; watch whether it follows through or simply retraces.
