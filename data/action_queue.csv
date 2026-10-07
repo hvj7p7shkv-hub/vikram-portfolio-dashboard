@@ -1,12 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.414422037284112,0.0,0.0,875000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-PTC Industries,PTCIL.NS,High,Core exposure,Industrials,5.607550099041413,6.679982245894367,15050.0,240350.0,Strong daily move; watch whether it follows through or simply retraces.
-Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,4.230614762350772,10.849474010538241,17748.0029296875,181331.9970703125,Strong daily move; watch whether it follows through or simply retraces.
-Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.5973363889588703,5.942977801388261,3840.601806640625,68464.80090332031,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.15916265683557,-0.20975847942072967,-645.00732421875,306854.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.00965936862596,1.0075657739220922,2997.00439453125,300447.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.585385727001227,2.6454565373114303,6169.998168945369,239399.9938964844,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.1570327402990745,1.7024018433100974,3700.0,221039.990234375,Meaningful exposure; keep the thesis and technical structure under review.
-Ashok Leyland,ASHOKLEY.NS,Medium,Monitor,Auto,2.093889795920147,-2.6805433955700675,-2471.9970703125,89748.00109863281,No urgent action; monitor with the rest of the portfolio.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.4187697306022584,3.429736589295884,2016.5,60811.10266113281,No urgent action; monitor with the rest of the portfolio.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5324314553644166,3.6799738955549666,809.9990844726562,22820.999908447266,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,20.429212048695835,0.20571428571427575,1800.0,876800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+PTC Industries,PTCIL.NS,High,Core exposure,Industrials,5.597762539574789,6.63559698180205,14950.0,240250.0,Strong daily move; watch whether it follows through or simply retraces.
+Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,4.192275690407107,9.99120291378408,16344.0087890625,179928.0029296875,Strong daily move; watch whether it follows through or simply retraces.
+Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.5965913850648192,6.034582954732004,3899.8009033203125,68524.0,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.176203597817167,0.16097799161585158,495.00732421875,307995.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.0489868466608065,1.7095310136157282,5085.0,302535.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.564909820821744,2.4053512468890315,5610.000610351619,238839.99633789065,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.146446689174211,1.6287912061742515,3540.0146484375,220880.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.4305970162453086,4.430842101808996,2605.0960083007812,61399.698669433594,Strong daily move; watch whether it follows through or simply retraces.
+Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5285080071182345,3.0530159191985096,671.9993591308594,22683.00018310547,No urgent action; monitor with the rest of the portfolio.
