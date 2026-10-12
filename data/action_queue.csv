@@ -1,11 +1,8 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.80818893794391,-0.5948132286462071,-5000.0,835600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Inox Wind,INOXWIND.NS,High,Positive momentum,Renewables,1.4978034946697445,6.759572641477729,4000.5611572265625,63184.2014465332,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.241746728234477,1.937031417937174,5804.992675781215,305489.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.01317974373519,-1.4273748638386041,-4284.0087890625,295847.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.816107175591837,0.26563138536983555,650.0,245350.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.548473736782329,-0.7631658810734798,-1800.0030517578978,234059.9975585937,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.120355206553237,-1.3968819634852303,-3060.009765625,216000.0,Meaningful exposure; keep the thesis and technical structure under review.
-Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,2.987514019064101,3.3965885211186153,4140.0,126027.00439453125,No urgent action; monitor with the rest of the portfolio.
-Eicher Motors,EICHERMOT.NS,Medium,Positive momentum,Auto,2.5068405698750222,4.174362763206507,4237.5,105750.0,Strong daily move; watch whether it follows through or simply retraces.
-Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.6635126810472607,2.5274702917525094,689.9993896484375,27989.999389648438,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.615247581602365,-0.3111536620392541,-2600.0,833000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.268120166426308,1.0360392732434942,3164.996337890659,308654.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.044746910132095,1.1225403696912384,3321.01318359375,299169.0087890625,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.816285897545959,0.6725086610963826,1650.0,247000.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.672644685097287,2.9223260741846335,6839.9963378907105,240899.9938964844,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.124924720413909,0.2671982136996265,579.98046875,217639.990234375,Meaningful exposure; keep the thesis and technical structure under review.
+Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,4.354914631142306,3.1145129322021514,5586.00341796875,184940.0,No urgent action; monitor with the rest of the portfolio.
