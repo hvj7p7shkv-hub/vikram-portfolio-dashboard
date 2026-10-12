@@ -1,11 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.46008259823695,-1.292484442316899,-10800.0,824800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.4753918635223848,6.457596254668241,3793.1986694335938,62533.301330566406,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.258247120573255,0.7021470553488784,2144.989013671909,307634.9853515625,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.086532631518668,1.524096446837353,4509.0087890625,300357.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,6.068299277723744,4.829834929692267,11850.0,257200.0,Strong daily move; watch whether it follows through or simply retraces.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.62119868941556,1.7901403422673212,4190.002441406306,238250.0,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.170795213711784,0.9674743875057956,2100.0,219160.009765625,Meaningful exposure; keep the thesis and technical structure under review.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,4.1987346013363815,-4.464346237729078,-8316.005859375,177960.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,2.895513014096825,-2.5791224437575644,-3248.997802734375,122723.99780273438,No urgent action; monitor with the rest of the portfolio.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.7251570421631324,4.477924989261184,3133.898193359383,73119.39819335939,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.430007294918035,-1.483963618956441,-12400.0,823200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.4844648309029154,7.06995246982276,4152.8973388671875,62893.0,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.232083628388892,0.299517610677702,914.9963378906591,306404.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.085296403134982,1.4662920384472367,4337.99560546875,300185.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,6.075417732886178,4.911351131037289,12050.0,257400.0,Strong daily move; watch whether it follows through or simply retraces.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.605953505689706,1.4739797420439738,3449.996948242301,237509.994506836,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.171893954797567,0.9490395553684916,2059.9853515625,219119.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
+Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,4.389265244654839,3.684339563007133,6608.01025390625,185962.0068359375,No urgent action; monitor with the rest of the portfolio.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,4.245711506571739,-3.4336176738745006,-6396.005859375,179880.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,2.895595022157875,-2.6148443854195125,-3293.997802734375,122678.99780273438,No urgent action; monitor with the rest of the portfolio.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.7233062083580237,4.324612679255879,3026.601806640617,73012.10180664061,Strong daily move; watch whether it follows through or simply retraces.
