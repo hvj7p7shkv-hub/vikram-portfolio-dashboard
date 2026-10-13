@@ -1,10 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.142532880661598,-3.877453326950697,-32400.0,803200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.515024738115802,8.220446425315231,4828.698669433594,63568.801330566406,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.24673081456215,-0.4664637196249988,-1425.0,304064.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.140984509268443,1.2776831535613598,3780.0,299627.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,6.0869059981585805,4.096189117587112,10050.0,255400.0,Strong daily move; watch whether it follows through or simply retraces.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.5578169937150275,-0.3674274200298644,-860.0006103515057,233199.9969482422,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.175061507430356,0.03684716905538732,79.98046875,217139.990234375,Meaningful exposure; keep the thesis and technical structure under review.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,4.235857318057903,-4.58674682745378,-8544.0087890625,177731.9970703125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.7376162332292282,4.1765794343114,2923.0,72908.5,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.084897668119883,-3.6859741503111554,-30800.0,804800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.5534698823817912,11.523468690404659,6768.8973388671875,65509.0,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.289870915249506,0.6284948890923125,1919.989013671909,307409.9853515625,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.12923350846736,1.6183971757759874,4787.99560546875,300635.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,6.049400341870505,3.9739148155695903,9750.0,255100.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.559472484975166,0.16235362162533296,380.00488281255684,234440.00244140625,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.233170117530657,1.6677393137023655,3619.9951171875,220680.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,4.251701561629925,-3.749279869321942,-6984.0087890625,179291.9970703125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,4.129670296401577,-2.903750829818008,-5207.9931640625,174146.00341796875,No urgent action; monitor with the rest of the portfolio.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.7320113765956016,4.361617763679626,3052.5,73038.0,Strong daily move; watch whether it follows through or simply retraces.
+Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.54667356471553,3.2258086671522523,2038.2014465332031,65222.402893066406,No urgent action; monitor with the rest of the portfolio.
