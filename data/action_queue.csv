@@ -1,13 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.182287974812407,-2.5370990904739155,-21200.0,814400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.739850499392956,5.545864362361219,3881.3009033203125,73866.80090332031,Strong daily move; watch whether it follows through or simply retraces.
-Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.5619904070101738,12.896640722101704,7575.5,66315.60266113281,Strong daily move; watch whether it follows through or simply retraces.
-Network18 Media & Investments,NETWORK18.NS,High,Positive momentum,Media,0.35895256162555966,6.237338901853895,894.739423751831,15239.629734039307,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.276031799249452,1.1195093308028259,3419.989013671909,308909.9853515625,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.155341805159668,2.6831331370771094,7937.99560546875,303785.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,6.00624193710359,3.9331567148970903,9650.0,255000.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.535635316547135,0.41015411598768203,960.0067138672159,235020.0042724609,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.160657287919202,0.9398277631046392,2039.990234375,219100.0,Meaningful exposure; keep the thesis and technical structure under review.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,4.17327822123927,-4.883079716794992,-9096.005859375,177180.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ramco Industries,RAMCOIND.NS,Medium,Monitor,Building Materials,2.840071636637687,2.535992023177469,2982.2098388671875,120577.6049194336,No urgent action; monitor with the rest of the portfolio.
-Inox Wind,INOXWIND.NS,Medium,Positive momentum,Renewables,1.5616964462979497,4.936235319139337,3118.920867919922,66303.12231445312,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.182287974812407,-0.9968392900559175,-8200.0,814400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.5619904070101738,5.02331041503381,3171.9039916992188,66315.60266113281,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.276031799249452,-0.4736153614625205,-1470.00732421875,308909.9853515625,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.155341805159668,1.357274392967578,4067.99560546875,303785.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,6.00624193710359,-0.8360878864476007,-2150.0,255000.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.535635316547135,-0.3645924167158032,-860.0006103515909,235020.0042724609,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.160657287919202,-0.0638525089448061,-139.990234375,219100.0,Meaningful exposure; keep the thesis and technical structure under review.
+Pearl Global Industries,PGIL.NS,Medium,Event watch,Textiles / Apparel,4.245588663384008,-3.297282830784276,-6146.00341796875,180250.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Inox Wind,INOXWIND.NS,Medium,Positive momentum,Renewables,1.5616964462979497,4.123871293689563,2625.9640502929688,66303.12231445312,Strong daily move; watch whether it follows through or simply retraces.
+Tata Motors,TMCV.NS,Medium,Monitor,Auto,0.9820794701936176,3.077876936225299,1245.0012207031307,41695.00122070313,No urgent action; monitor with the rest of the portfolio.
+Network18 Media & Investments,NETWORK18.NS,Medium,Positive momentum,Media,0.35895256162555966,4.836127347460528,703.0094680786133,15239.629734039307,Strong daily move; watch whether it follows through or simply retraces.
