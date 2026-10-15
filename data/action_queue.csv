@@ -1,10 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.951040985948367,-2.23477406679764,-18200.0,796200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.274157756289496,1.7285785252209473,5192.99560546875,305612.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.235170414096527,-0.5105809951106544,-1560.003662109375,303975.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.951655109942715,-1.941176470588235,-4950.0,250050.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.462764773403459,-2.3444854333493748,-5510.0097656249145,229509.994506836,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.132156951589811,-1.588318066094252,-3480.0048828125,215619.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
-Ashok Leyland,ASHOKLEY.NS,Medium,Monitor,Auto,2.1380259783278843,3.2482804923221975,2826.0040283203125,89826.00402832031,No urgent action; monitor with the rest of the portfolio.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.5213578344067953,-3.6160419324749005,-2398.0,63917.60266113281,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.407939527658014,3.254610715115702,1864.5013427734375,59152.5,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.922500147847433,-1.534653465346536,-12400.0,795600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.3602960133906565,3.010784901138397,9045.0,309465.0,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.2300788721064295,-0.505672772579413,-1545.007324218784,303989.99633789057,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.94717340619564,0.1201201201201263,300.0,250050.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.439386282134013,-1.837067069183973,-4279.998779296847,228699.9969482422,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.146368369012378,-0.2673326220067329,-580.0048828125,216380.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
+Pearl Global Industries,PGIL.NS,Medium,Event watch,Textiles / Apparel,4.1958193519429905,-3.2627054196652017,-5950.0,176413.99658203125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,4.1187118403293415,-4.9090670267858965,-8940.0,173171.9970703125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ashok Leyland,ASHOKLEY.NS,Medium,Monitor,Auto,2.140554315367357,3.4482758620689724,3000.0,90000.0,No urgent action; monitor with the rest of the portfolio.
+Ganges Securities,GANGESSECU.NS,Medium,Event watch,Financials,0.23725476678433297,-3.1669621518641833,-326.25,9975.420318603516,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
