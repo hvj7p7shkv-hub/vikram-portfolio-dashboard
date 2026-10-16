@@ -1,9 +1,8 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.907809591597637,-1.6336633663366351,-13200.0,794800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.402307191182252,2.7693783672900762,8384.9853515625,311159.9853515625,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.235020423229047,-1.4235720194902268,-4392.00439453125,304127.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.90690629289594,-0.5805805805805808,-1450.0,248300.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.388535287781935,-2.7770629836689764,-6470.0012207030395,226509.994506836,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.038117775077802,-2.3875390162492627,-5180.0048828125,211780.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.20929520525577,-2.8400089799221817,-5171.9970703125,176940.0,No urgent action; monitor with the rest of the portfolio.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.7602390867474382,3.055915940640297,2194.101806640617,73992.60180664061,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.805574603973422,-1.4031571034828327,-11200.0,787000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.383996075881997,2.0609411769259456,6240.0146484375,309015.0146484375,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.232380260971584,-1.8961493582263733,-5850.0,302670.0,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.8973517309538,-1.4573767219005829,-3650.0,246800.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.40033019122998,0.030986290660051097,70.00732421875,226000.0,Meaningful exposure; keep the thesis and technical structure under review.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.7601158031432727,2.5921179504315717,1861.1018066406166,73659.60180664061,No urgent action; monitor with the rest of the portfolio.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.5683503374236782,3.6135247557071093,2289.0,65634.35266113281,No urgent action; monitor with the rest of the portfolio.
