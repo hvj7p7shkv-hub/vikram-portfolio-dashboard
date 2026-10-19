@@ -1,11 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.688210475302817,-1.5501905972045704,-12200.0,774800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.48927381592866,0.4805544330109601,1484.9853515625,310500.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.2511367226184635,-0.6749911142395204,-2042.99560546875,300627.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,6.0770452107028206,2.0867098865478217,5150.0,251950.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.349343438822796,-1.8672571773022728,-4220.001220703125,221779.99877929688,Meaningful exposure; keep the thesis and technical structure under review.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.1494194240277205,-2.98436604474166,-5291.9970703125,172031.9970703125,No urgent action; monitor with the rest of the portfolio.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.5059397700073844,-4.874206664635372,-3199.1539916992188,62435.198669433594,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Inox Wind,INOXWIND.NS,Medium,Event watch,Renewables,1.4910789393517203,-3.578291094523156,-2294.1582641601562,61819.07913208008,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.6743964588227224,-2.5274533190644877,-725.0,27960.000610351562,No urgent action; monitor with the rest of the portfolio.
-Ganges Securities,GANGESSECU.NS,Medium,Event watch,Financials,0.23089177657883153,-3.4146764854047107,-338.4299468994153,9572.609893798828,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.6104638869944,-1.8551461245235101,-14600.0,772400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.479121986726716,0.4514248942602439,1394.970703125,310409.9853515625,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.23755275478956,-0.7552751217291154,-2285.9912109375,300384.0087890625,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,6.103094902350701,2.633711507293346,6500.0,253300.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.3412318722964915,-1.9115076655835228,-4320.00732421875,221679.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.162344384882461,-2.578329623393616,-4571.9970703125,172751.9970703125,No urgent action; monitor with the rest of the portfolio.
+Ramco Industries,RAMCOIND.NS,Medium,Monitor,Building Materials,2.9877722759946876,2.875294526252614,3465.802459716797,124003.1049194336,No urgent action; monitor with the rest of the portfolio.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.507486125781579,-4.674918753254986,-3068.3526611328125,62566.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Inox Wind,INOXWIND.NS,Medium,Event watch,Renewables,1.4920021357550786,-3.4156404737647805,-2189.877685546875,61923.35971069336,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.6737980466608917,-2.510026862064274,-720.001220703125,27964.999389648438,No urgent action; monitor with the rest of the portfolio.
+Ganges Securities,GANGESSECU.NS,Medium,Event watch,Financials,0.23064566381774781,-3.4146764854047107,-338.4299468994153,9572.609893798828,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
