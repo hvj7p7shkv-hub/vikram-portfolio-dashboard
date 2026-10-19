@@ -1,9 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.715542636841807,-1.2198221092757255,-9600.0,777400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.490309549168848,0.6844256515334379,2114.97802734375,311129.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.265405324210416,-0.2914079342291154,-882.00439453125,301787.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,6.055948997038277,1.9246353322528442,4750.0,251550.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.327694420695131,-2.0796446673638003,-4699.9969482421875,221300.0030517578,Meaningful exposure; keep the thesis and technical structure under review.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.5121515660513634,-4.301257720493357,-2823.1026611328125,62811.25,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Inox Wind,INOXWIND.NS,Medium,Event watch,Renewables,1.495112381962912,-3.1346964413492717,-2009.75537109375,62103.482025146484,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ganges Securities,GANGESSECU.NS,Medium,Event watch,Financials,0.23045612119017966,-3.4146764854047107,-338.4299468994153,9572.609893798828,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.688210475302817,-1.5501905972045704,-12200.0,774800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.48927381592866,0.4805544330109601,1484.9853515625,310500.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.2511367226184635,-0.6749911142395204,-2042.99560546875,300627.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,6.0770452107028206,2.0867098865478217,5150.0,251950.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.349343438822796,-1.8672571773022728,-4220.001220703125,221779.99877929688,Meaningful exposure; keep the thesis and technical structure under review.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.1494194240277205,-2.98436604474166,-5291.9970703125,172031.9970703125,No urgent action; monitor with the rest of the portfolio.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Event watch,Sugar / Energy,1.5059397700073844,-4.874206664635372,-3199.1539916992188,62435.198669433594,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Inox Wind,INOXWIND.NS,Medium,Event watch,Renewables,1.4910789393517203,-3.578291094523156,-2294.1582641601562,61819.07913208008,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.6743964588227224,-2.5274533190644877,-725.0,27960.000610351562,No urgent action; monitor with the rest of the portfolio.
+Ganges Securities,GANGESSECU.NS,Medium,Event watch,Financials,0.23089177657883153,-3.4146764854047107,-338.4299468994153,9572.609893798828,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
