@@ -1,9 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.163223986108633,1.4842300556586308,11200.0,765800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Avadh Sugar & Energy,AVADHSUGAR.NS,High,Event watch,Sugar / Energy,1.5053891287987053,-5.613604582746079,-3577.898193359375,60158.30090332031,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.701574283834289,4.15228674254442,12270.00732421875,307770.00732421875,Strong daily move; watch whether it follows through or simply retraces.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.58521344302592,4.246624647094466,12347.99560546875,303120.0,Strong daily move; watch whether it follows through or simply retraces.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.836800724418699,-0.5542528245576661,-1300.0,233250.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.210955690955858,1.9884479199829164,4060.0128173828407,208240.0054931641,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.181427717033838,2.0201085220488357,4100.01220703125,207060.009765625,Meaningful exposure; keep the thesis and technical structure under review.
-OneSource Specialty Pharma,ONESOURCE.NS,Medium,Positive momentum,Pharma,3.4803098531710877,4.25006178545837,5670.00732421875,139080.0048828125,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.13385030327325,1.298701298701288,9800.0,764400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.71023579234137,4.238578680203053,12525.0,308025.0,Strong daily move; watch whether it follows through or simply retraces.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.60097459849811,4.432337161311373,12887.99560546875,303660.0,Strong daily move; watch whether it follows through or simply retraces.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.834773032042118,-0.6182050735450861,-1450.0,233100.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.2017338890760225,1.777845534834821,3630.004882812443,207809.9975585937,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.161433716032109,1.5963748917916076,3240.00244140625,206200.0,Meaningful exposure; keep the thesis and technical structure under review.
+OneSource Specialty Pharma,ONESOURCE.NS,Medium,Positive momentum,Pharma,3.4968588270110845,4.714790912610334,6290.00244140625,139700.0,Strong daily move; watch whether it follows through or simply retraces.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Event watch,Sugar / Energy,1.5178745499467208,-4.858931403583977,-3096.898193359375,60639.30090332031,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
