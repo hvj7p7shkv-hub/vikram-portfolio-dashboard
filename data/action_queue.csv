@@ -1,10 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.993369791528867,0.6559958016268741,5000.0,767200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-OneSource Specialty Pharma,ONESOURCE.NS,High,Positive momentum,Pharma,3.5132287027441733,6.371336598118749,8500.0,141909.99755859375,Strong daily move; watch whether it follows through or simply retraces.
-Network18 Media & Investments,NETWORK18.NS,High,Positive momentum,Media,0.3506737425633311,5.131516167760819,691.3892021179199,14164.779512405396,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.794659122605401,1.9476467802345354,6015.0146484375,314850.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.5797951714132825,1.2771629158603748,3860.9912109375,306170.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.889628093593219,2.5873221216041298,6000.0,237900.0,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.257341233591236,4.631460544000787,9400.01220703125,212360.009765625,Strong daily move; watch whether it follows through or simply retraces.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.223671827440811,3.3401937353618516,6820.00732421875,211000.0,Meaningful exposure; keep the thesis and technical structure under review.
-Tata Motors,TMCV.NS,Medium,Monitor,Auto,0.9747965791729003,2.525716056593197,970.0012207031193,39375.0,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.961510025797523,1.180792442928369,9000.0,771200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Strides Pharma Science,STAR.NS,High,Core exposure,Pharma,5.273424225776129,5.675998946981142,11520.00732421875,214480.0048828125,Strong daily move; watch whether it follows through or simply retraces.
+OneSource Specialty Pharma,ONESOURCE.NS,High,Positive momentum,Pharma,3.6683834230407033,11.835696522272453,15790.00244140625,149200.0,Strong daily move; watch whether it follows through or simply retraces.
+Network18 Media & Investments,NETWORK18.NS,High,Positive momentum,Media,0.34798404040552156,5.04527834993207,679.7700443267802,14153.160354614256,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.786586561849318,2.545055562182763,7860.02197265625,316695.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.528496322033456,1.286095599043624,3887.99560546875,306197.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.891050054695392,3.320396722725305,7700.0,239600.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.243673916252785,4.4519599974292,9090.011596679658,213270.0042724609,Strong daily move; watch whether it follows through or simply retraces.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.188448003583196,3.741592389535242,6143.994140625,170351.9970703125,No urgent action; monitor with the rest of the portfolio.
+Tata Motors,TMCV.NS,Medium,Monitor,Auto,0.9761047043881764,3.3719600621396673,1295.0012207031193,39700.0,No urgent action; monitor with the rest of the portfolio.
