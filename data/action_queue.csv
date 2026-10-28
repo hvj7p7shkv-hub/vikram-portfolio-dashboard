@@ -1,16 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.042263707485972,2.4851151954439654,19200.0,791800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.482286641330806,6.092061197069687,13090.011596679688,227960.0067138672,Strong daily move; watch whether it follows through or simply retraces.
-OneSource Specialty Pharma,ONESOURCE.NS,High,Positive momentum,Pharma,3.7973900472493503,13.003645947358367,18169.9951171875,157900.0,Strong daily move; watch whether it follows through or simply retraces.
-Voltas,VOLTAS.NS,High,Positive momentum,Consumer Durables,3.657903902385219,7.007178780582457,9960.003662109359,152100.0,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.829141043348353,1.3211974242822055,4245.00732421875,325545.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.586362827136209,1.8569614521609656,5750.9912109375,315450.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.799497212756053,0.24942839326542732,600.0,241150.0,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.2158199619340255,-0.8140514055224091,-1780.0048828125,216880.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
-AstraZeneca Pharma India,ASTRAZEN.NS,Medium,Monitor,Pharma,3.900513597107521,3.0818805254895443,4849.0,162188.0,No urgent action; monitor with the rest of the portfolio.
-Ingersoll-Rand India,INGERRAND.NS,Medium,Monitor,Industrials,3.7404412681796284,3.5857979968332065,5384.00390625,155532.001953125,No urgent action; monitor with the rest of the portfolio.
-Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,2.8923415167845903,3.268937312838105,3807.00439453125,120267.00439453125,No urgent action; monitor with the rest of the portfolio.
-Ramco Industries,RAMCOIND.NS,Medium,Monitor,Building Materials,2.7713938146765145,3.1379665309400284,3506.1049194335938,115237.8549194336,No urgent action; monitor with the rest of the portfolio.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.4958854698016661,3.4013977793685424,2046.0972900390625,62200.69909667969,No urgent action; monitor with the rest of the portfolio.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Event watch,Consumption / Apparel,0.5205478740406548,-3.7486627440151854,-842.999267578125,21645.000457763672,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Network18 Media & Investments,NETWORK18.NS,Medium,Positive momentum,Media,0.33897682751336716,4.6140563612872,621.6698226928731,14095.060132980348,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.04622136044008,2.355682112347912,18200.0,790800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.530822283240476,6.873925912459566,14770.004272460938,229639.99938964844,Strong daily move; watch whether it follows through or simply retraces.
+Voltas,VOLTAS.NS,High,Positive momentum,Consumer Durables,3.6585941965507374,7.028112359128746,9975.0,151905.0018310547,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.865237174468256,1.6386600213001978,5265.0146484375,326565.0146484375,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.548329769360975,1.1972901107973222,3707.99560546875,313407.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.799608122905881,0.10392849719393915,250.0,240800.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.217238717879871,-0.9329619305441961,-2040.0146484375,216619.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
+AstraZeneca Pharma India,ASTRAZEN.NS,Medium,Monitor,Pharma,3.9125196858381006,2.8816071134529997,4550.0,162448.0,No urgent action; monitor with the rest of the portfolio.
+Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Event watch,Consumption / Apparel,0.5206641368489182,-3.868732072169434,-870.0004577636719,21617.999267578125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
