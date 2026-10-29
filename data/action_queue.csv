@@ -1,10 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.042835283255226,2.7439813616360276,21200.0,793800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.5749111613162725,8.153769567922108,17520.004272460938,232389.99938964844,Strong daily move; watch whether it follows through or simply retraces.
-Ganges Securities,GANGESSECU.NS,High,Positive momentum,Financials,0.24001457169182225,5.446545547752191,516.7802124023425,10005.0,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.880538410870925,0.37124057100643704,1215.0146484375,328500.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.582373171384596,0.7718766813127775,2420.9912109375,316070.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.8054499099871055,0.6027852837247938,1450.0,242000.0,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.260409440532627,0.28354298431252367,619.9951171875,219280.0048828125,Meaningful exposure; keep the thesis and technical structure under review.
-AstraZeneca Pharma India,ASTRAZEN.NS,Medium,Monitor,Pharma,3.9353993445605564,3.8942861847521826,6149.0,164047.0,No urgent action; monitor with the rest of the portfolio.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.4844391699764088,2.695733768134012,1624.3009033203125,61878.80090332031,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.943213165500975,1.9932694796790162,15400.0,788000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.509157520877918,6.655188428686265,14300.003051757812,229169.9981689453,Strong daily move; watch whether it follows through or simply retraces.
+Ganges Securities,GANGESSECU.NS,High,Positive momentum,Financials,0.2405163042142605,5.446545547752191,516.7802124023425,10005.0,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.888718245660832,0.2658256147266336,870.00732421875,328154.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.613801646011914,0.978481998744618,3069.0087890625,316719.0087890625,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.8043639832616885,0.374142589898141,900.0,241450.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.2805411026983,0.45733099576454883,1000.0,219660.009765625,Meaningful exposure; keep the thesis and technical structure under review.
+AstraZeneca Pharma India,ASTRAZEN.NS,Medium,Monitor,Pharma,3.92862528571785,3.4990943520500473,5525.0,163423.0,No urgent action; monitor with the rest of the portfolio.
