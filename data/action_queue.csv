@@ -1,17 +1,18 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.6599526756297,-0.9441624365482237,-7440.0,780560.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Pearl Global Industries,PGIL.NS,High,Positive momentum,Textiles / Apparel,4.2169924822961455,5.651519855259779,9436.00341796875,176400.0,Strong daily move; watch whether it follows through or simply retraces.
-Nippon Life India AMC,NAM-INDIA.NS,High,Positive momentum,Asset Management,2.294961895127154,6.077348066298338,5500.0,96000.0,Strong daily move; watch whether it follows through or simply retraces.
-Inox Wind,INOXWIND.NS,High,Positive momentum,Renewables,1.3597649228628388,8.69565067159057,4550.399276733398,56880.0,Strong daily move; watch whether it follows through or simply retraces.
-Tata Steel,TATASTEEL.NS,High,Positive momentum,Metals,1.2652411666754118,5.262524907058874,2645.9976196289062,52925.999450683594,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.42681320867002,-2.307212637705258,-8325.0,352500.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.495919289959066,-0.7520482873225931,-2375.9912109375,313560.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.834223442768562,1.9210691167258265,4600.0,244050.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.278173139760989,1.0989486254827652,2399.993896484375,220789.9932861328,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Event watch,Pharma,4.907393635808029,-3.967067971277849,-8480.0048828125,205280.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.0216339210101255,2.553037630875088,4188.0029296875,168228.0029296875,No urgent action; monitor with the rest of the portfolio.
-Ingersoll-Rand India,INGERRAND.NS,Medium,Positive momentum,Industrials,4.018000067923923,4.3095065266085975,6943.994140625,168075.99609375,Strong daily move; watch whether it follows through or simply retraces.
-Ramco Industries,RAMCOIND.NS,Medium,Positive momentum,Building Materials,2.8430108074116838,4.000002151018722,4574.052459716797,118925.3024597168,Strong daily move; watch whether it follows through or simply retraces.
-Ashok Leyland,ASHOKLEY.NS,Medium,Monitor,Auto,2.1400519234331465,3.024436819850207,2627.9937744140625,89519.99816894531,No urgent action; monitor with the rest of the portfolio.
-Network18 Media & Investments,NETWORK18.NS,Medium,Positive momentum,Media,0.34501022992091085,4.589474326685861,633.2900886535645,14432.040088653564,Strong daily move; watch whether it follows through or simply retraces.
-Easy Trip Planners,EASEMYTRIP.NS,Medium,Monitor,Travel,0.22053149802963465,3.7099540201916748,330.0004005432129,9225.000143051147,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.688059051231217,-0.6345177664974666,-5000.0,783000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Pearl Global Industries,PGIL.NS,High,Positive momentum,Textiles / Apparel,4.190803045896787,5.165183368016812,8623.99658203125,175587.9931640625,Strong daily move; watch whether it follows through or simply retraces.
+Nippon Life India AMC,NAM-INDIA.NS,High,Positive momentum,Asset Management,2.285886150232018,5.828729281767964,5275.0,95775.0,Strong daily move; watch whether it follows through or simply retraces.
+Inox Wind,INOXWIND.NS,High,Positive momentum,Renewables,1.3525915652771248,8.297097741042748,4341.838119506842,56671.438842773445,Strong daily move; watch whether it follows through or simply retraces.
+Tata Steel,TATASTEEL.NS,High,Positive momentum,Metals,1.27000036117494,5.829348841215198,2930.9967041015625,53210.99853515625,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.4060464851132,-2.3903554354604006,-8625.0,352200.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.496704148137582,-0.5811275897691814,-1835.9912109375,314100.0,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.82002962917335,1.83754437252035,4400.0,243850.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.258194436719801,0.8791602977751944,1919.9981689452557,220309.9975585937,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Monitor,Pharma,4.94959103102761,-2.984657836518534,-6380.0048828125,207380.0048828125,No urgent action; monitor with the rest of the portfolio.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.033183730795543,3.0138954770940085,4943.994140625,168983.994140625,No urgent action; monitor with the rest of the portfolio.
+Ingersoll-Rand India,INGERRAND.NS,Medium,Positive momentum,Industrials,4.032611056572192,4.858127468156348,7827.998046875,168960.0,Strong daily move; watch whether it follows through or simply retraces.
+Ramco Industries,RAMCOIND.NS,Medium,Positive momentum,Building Materials,2.8485195853200302,4.370041901844712,4997.197540283203,119348.4475402832,Strong daily move; watch whether it follows through or simply retraces.
+Ashok Leyland,ASHOKLEY.NS,Medium,Monitor,Auto,2.136596439396374,3.024436819850207,2627.9937744140625,89519.99816894531,No urgent action; monitor with the rest of the portfolio.
+Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.6501439554907438,2.6375283198877053,700.0,27239.999389648438,No urgent action; monitor with the rest of the portfolio.
+Network18 Media & Investments,NETWORK18.NS,Medium,Positive momentum,Media,0.34528515625331974,4.8421036569695985,668.149778366093,14466.899778366093,Strong daily move; watch whether it follows through or simply retraces.
+Easy Trip Planners,EASEMYTRIP.NS,Medium,Monitor,Travel,0.2201754117764448,3.7099540201916748,330.0004005432129,9225.000143051147,No urgent action; monitor with the rest of the portfolio.
