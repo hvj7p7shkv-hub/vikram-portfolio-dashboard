@@ -1,16 +1,17 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.68071599999718,-0.842639593908634,-6640.0,781360.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Inox Wind,INOXWIND.NS,High,Positive momentum,Renewables,1.3555779408134132,8.351450265643212,4370.280578613281,56699.88130187988,Strong daily move; watch whether it follows through or simply retraces.
-Network18 Media & Investments,NETWORK18.NS,High,Positive momentum,Media,0.34642955351770166,5.010528564453121,691.3903102874756,14490.140310287476,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.512545047810672,-1.3219725141602523,-4770.00732421875,356054.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.537889710394852,-0.20510344610789044,-647.99560546875,315287.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.807241113442351,1.440801837544381,3450.0,242900.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.251381124425795,0.5769469803367233,1259.994506835966,219649.9938964844,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Event watch,Pharma,4.92886325507869,-3.555389059128944,-7600.0,206160.009765625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ramco Industries,RAMCOIND.NS,Medium,Monitor,Building Materials,2.8133919525131414,2.907488986784146,3324.75,117676.0,No urgent action; monitor with the rest of the portfolio.
-Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.228699150613476,3.0055262107216763,2720.001220703125,93220.00122070312,No urgent action; monitor with the rest of the portfolio.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.3530178781874855,2.8118836053527163,1547.8013305664062,56592.801330566406,No urgent action; monitor with the rest of the portfolio.
-Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.3278236323613428,3.856834358819805,2062.5,55538.99932861328,No urgent action; monitor with the rest of the portfolio.
-Tata Steel,TATASTEEL.NS,Medium,Positive momentum,Metals,1.2573191250416684,4.5942700882041665,2309.9990844726562,52590.000915527344,Strong daily move; watch whether it follows through or simply retraces.
-Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.65077443473371,2.5621772671174714,680.0018310546875,27220.001220703125,No urgent action; monitor with the rest of the portfolio.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5212889492349355,3.0775749584473377,650.9994506835938,21804.000091552734,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.62484584394863,-1.1421319796954266,-9000.0,779000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Inox Wind,INOXWIND.NS,High,Positive momentum,Renewables,1.3730705380903523,9.746378611877304,5100.241012573242,57429.841735839844,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.521763373229994,-1.2180440169663243,-4395.00732421875,356429.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.549517904896586,-0.054122105646181584,-170.9912109375,315765.0,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.821758617460195,1.6913760701607883,4050.0,243500.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.252254170200501,0.5906833141343659,1289.9932861328125,219679.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Event watch,Pharma,4.918489340276614,-3.761234225827781,-8040.0146484375,205719.9951171875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ingersoll-Rand India,INGERRAND.NS,Medium,Monitor,Industrials,3.9540141279489402,2.6363465949555964,4247.998046875,165380.0,No urgent action; monitor with the rest of the portfolio.
+Ramco Industries,RAMCOIND.NS,Medium,Monitor,Building Materials,2.8134754294383817,2.907488986784146,3324.75,117676.0,No urgent action; monitor with the rest of the portfolio.
+Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.23844825691873,3.4530386740331487,3125.0,93625.0,No urgent action; monitor with the rest of the portfolio.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.3629609589550447,3.5643564356435675,1962.0,57007.0,No urgent action; monitor with the rest of the portfolio.
+Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.3251016124987949,3.640854145685757,1947.0013427734375,55423.50067138672,No urgent action; monitor with the rest of the portfolio.
+Tata Steel,TATASTEEL.NS,Medium,Monitor,Metals,1.249466529850064,3.937941888051122,1979.9972534179688,52259.999084472656,No urgent action; monitor with the rest of the portfolio.
+Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.6531846100026755,2.9389670271014356,780.0018310546875,27320.001220703125,No urgent action; monitor with the rest of the portfolio.
+Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.342133624763679,3.7052596242804325,511.2795124053955,14310.029512405396,No urgent action; monitor with the rest of the portfolio.
+Easy Trip Planners,EASEMYTRIP.NS,Medium,Monitor,Travel,0.2191228702051566,3.035418387629374,270.0004577636719,9165.000200271606,No urgent action; monitor with the rest of the portfolio.
