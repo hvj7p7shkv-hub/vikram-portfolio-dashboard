@@ -1,10 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.935859561007042,2.178423236514515,16800.0,788000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,High,Core exposure,Pharma,8.670725286929398,7.196969696969702,24225.0,360825.0,Strong daily move; watch whether it follows through or simply retraces.
-Fredun Pharmaceuticals,FREDUN.NS,High,Event watch,Pharma,3.9419269065832423,-5.951152390780878,-10380.0,164040.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avadh Sugar & Energy,AVADHSUGAR.NS,High,Event watch,Sugar / Energy,1.4279272167946198,-6.600756033730737,-4199.5,59422.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Inox Wind,INOXWIND.NS,High,Event watch,Renewables,1.2574948860144022,-6.725244207016745,-3773.039566040039,52329.6007232666,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.592029898271406,0.23986014688035517,755.9912109375,315935.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.78889412214035,-2.4696356275303644,-6100.0,240900.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.241003916029125,-2.8724100915534234,-6449.996948242216,218100.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
-Strides Pharma Science,STAR.NS,Medium,Core exposure,Pharma,5.136712594773311,-2.615029719533024,-5739.990234375,213760.009765625,Meaningful exposure; keep the thesis and technical structure under review.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.720495484751236,-0.8527918781725874,-6720.0,781280.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Inox Wind,INOXWIND.NS,High,Positive momentum,Renewables,1.3320266894354684,6.231881483991852,3261.118698120117,55590.71942138672,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.57000325216327,-0.8771605760236945,-3165.0146484375,357659.9853515625,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.5767110776106446,0.08546034877670028,270.0,316205.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.832183853405247,1.64961369805805,3950.0,243400.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.249924066877217,0.3251095360829126,710.0067138671591,219100.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Event watch,Pharma,4.964784282767325,-3.0688667037476525,-6560.009765625,207200.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Vardhman Textiles,VTL.NS,Medium,Positive momentum,Textiles,1.3384310511594442,4.453356817504006,2381.4993286132876,55857.99865722657,Strong daily move; watch whether it follows through or simply retraces.
+Tata Steel,TATASTEEL.NS,Medium,Positive momentum,Metals,1.2537997087492547,4.069207528081731,2045.9976196289062,52325.999450683594,Strong daily move; watch whether it follows through or simply retraces.
+Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5252559643243386,3.6306871096779325,767.999267578125,21920.999908447266,No urgent action; monitor with the rest of the portfolio.
+Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.34177339119564076,3.3684178402549447,464.79955673217773,14263.549556732178,No urgent action; monitor with the rest of the portfolio.
