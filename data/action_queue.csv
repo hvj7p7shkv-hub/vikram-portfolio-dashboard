@@ -1,14 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.55602283975217,-0.19923371647510013,-1560.0,781440.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Nippon Life India AMC,NAM-INDIA.NS,High,Positive momentum,Asset Management,2.329713548711732,8.408837081319076,7609.997558593761,98109.99755859376,Strong daily move; watch whether it follows through or simply retraces.
-Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.3914736888217807,6.455440710086635,3553.3973388671875,58598.39733886719,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.171688170474436,-2.291313834247233,-8070.00732421875,344129.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.814644686112107,4.773641766654735,14994.0087890625,329094.0087890625,Strong daily move; watch whether it follows through or simply retraces.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.722770147906779,0.6473167675923985,1550.0,241000.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.207483447719772,-0.4584424302248258,-1009.9945068358807,219300.0030517578,Meaningful exposure; keep the thesis and technical structure under review.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.128943042813405,2.8973192900746847,4896.005859375,173880.0,No urgent action; monitor with the rest of the portfolio.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.4742900722113703,4.3986778463313,2615.898193359375,62086.0,Strong daily move; watch whether it follows through or simply retraces.
-Vardhman Textiles,VTL.NS,Medium,Positive momentum,Textiles,1.3243107516546102,4.288801062487568,2293.5006713867188,55770.0,Strong daily move; watch whether it follows through or simply retraces.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Positive momentum,Consumption / Apparel,0.5253787946989107,4.5950897257237555,971.9993591308594,22125.0,Strong daily move; watch whether it follows through or simply retraces.
-Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.3541532754667785,3.09237136369529,447.3702659606892,14914.270044326782,No urgent action; monitor with the rest of the portfolio.
-Ganges Securities,GANGESSECU.NS,Medium,Monitor,Financials,0.22993426198592679,-2.820218075583314,-281.0096282958997,9683.100265502928,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.4910085696152,-0.4086845466155786,-3200.0,779800.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+BSE,BSE.NS,High,Core exposure,Market Infrastructure,7.834373328180515,5.186246418338114,16290.0,330390.0,Strong daily move; watch whether it follows through or simply retraces.
+Nippon Life India AMC,NAM-INDIA.NS,High,Positive momentum,Asset Management,2.3275005431886995,8.458562187068374,7654.998779296875,98154.99877929688,Strong daily move; watch whether it follows through or simply retraces.
+Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.3905485054364894,6.5346534653465405,3597.0,58642.0,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.220294635355266,-1.5715460964118355,-5534.9853515625,346665.0146484375,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.71826970577418,0.7099603257465059,1700.0,241150.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.209636478987406,-0.27688285466449525,-610.0006103515057,219699.9969482422,Meaningful exposure; keep the thesis and technical structure under review.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Positive momentum,Sugar / Energy,1.4772152838597765,4.753306789199252,2826.79638671875,62296.898193359375,Strong daily move; watch whether it follows through or simply retraces.
+Vardhman Textiles,VTL.NS,Medium,Positive momentum,Textiles,1.322967908367795,4.329943139941528,2315.5020141601626,55792.001342773445,Strong daily move; watch whether it follows through or simply retraces.
+Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Positive momentum,Consumption / Apparel,0.525065900504963,4.680180573512738,989.9986267089844,22142.999267578125,Strong daily move; watch whether it follows through or simply retraces.
+Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.3524147200843842,2.7309249622225806,395.0801773071227,14861.979955673216,No urgent action; monitor with the rest of the portfolio.
