@@ -1,20 +1,19 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.027897670750654,0.839168039538718,6520.0,783480.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-BSE,BSE.NS,High,Core exposure,Market Infrastructure,7.917888902643341,6.161318959981954,19970.9912109375,344105.9912109375,Strong daily move; watch whether it follows through or simply retraces.
-Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.346150098026847,5.8737751510147485,12889.999389648467,232339.99633789065,Strong daily move; watch whether it follows through or simply retraces.
-Pearl Global Industries,PGIL.NS,High,Positive momentum,Textiles / Apparel,4.3459961748182065,6.4714704111710875,11480.0,188873.99658203125,Strong daily move; watch whether it follows through or simply retraces.
-Ramco Industries,RAMCOIND.NS,High,Positive momentum,Building Materials,2.9112715750256664,7.997935680663737,9369.75,126521.8549194336,Strong daily move; watch whether it follows through or simply retraces.
-Nippon Life India AMC,NAM-INDIA.NS,High,Positive momentum,Asset Management,2.4566658227792866,8.50101874126652,8365.00244140625,106765.00244140625,Strong daily move; watch whether it follows through or simply retraces.
-Ashok Leyland,ASHOKLEY.NS,High,Positive momentum,Auto,2.3517169729020777,10.58884482753497,9785.99853515625,102203.99780273438,Strong daily move; watch whether it follows through or simply retraces.
-Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.42572559983609,6.093696371392676,3558.8526611328125,61961.051330566406,Strong daily move; watch whether it follows through or simply retraces.
-Tata Motors,TMCV.NS,High,Positive momentum,Auto,0.994263375397574,7.274086196250451,2930.001831054682,43210.00061035156,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.9902326366571765,-0.3786921698604284,-1320.00732421875,347250.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.630554143095784,2.2993311036789255,5500.0,244700.0,Meaningful exposure; keep the thesis and technical structure under review.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.2994699070288895,3.2080616411810814,5808.0029296875,186851.9970703125,No urgent action; monitor with the rest of the portfolio.
-Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.776290856454677,2.7516834536266854,4394.989013671875,164114.99633789062,No urgent action; monitor with the rest of the portfolio.
-Mahindra & Mahindra,M&M.NS,Medium,Monitor,Auto,3.539057652111922,3.855639929699639,5710.009765625,153805.0048828125,No urgent action; monitor with the rest of the portfolio.
-Aster DM Quality Care,ASTERDM.NS,Medium,Positive momentum,Healthcare,2.9607693850057935,4.91670965001374,6030.0,128672.99560546875,Strong daily move; watch whether it follows through or simply retraces.
-Eicher Motors,EICHERMOT.NS,Medium,Monitor,Auto,2.649029610641202,3.4366576819407024,3825.0,115125.0,No urgent action; monitor with the rest of the portfolio.
-Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.4394733247619271,3.921256478377222,2360.5179748535156,62558.517974853516,No urgent action; monitor with the rest of the portfolio.
-Tata Motors Passenger Vehicles,TMPV.NS,Medium,Positive momentum,Auto,0.6724681031139121,4.937163375224407,1375.0,29225.0,Strong daily move; watch whether it follows through or simply retraces.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Positive momentum,Consumption / Apparel,0.528977542117676,4.7430199803362605,1040.9980773925781,22988.99917602539,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,17.99885409371269,0.597199341021426,4640.0,781600.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+BSE,BSE.NS,High,Core exposure,Market Infrastructure,7.9191734062012,6.094682771067617,19755.0,343890.0,Strong daily move; watch whether it follows through or simply retraces.
+Pearl Global Industries,PGIL.NS,High,Positive momentum,Textiles / Apparel,4.37135432281554,7.008132786606813,12432.0068359375,189826.00341796875,Strong daily move; watch whether it follows through or simply retraces.
+Aster DM Quality Care,ASTERDM.NS,High,Positive momentum,Healthcare,2.975959509893613,5.371694126739923,6588.006591796875,129231.00219726562,Strong daily move; watch whether it follows through or simply retraces.
+Ramco Industries,RAMCOIND.NS,High,Positive momentum,Building Materials,2.904756213570656,7.671134109580668,8986.895080566406,126139.0,Strong daily move; watch whether it follows through or simply retraces.
+Nippon Life India AMC,NAM-INDIA.NS,High,Positive momentum,Asset Management,2.4711578670084364,9.054875567676568,8909.99755859375,107309.99755859375,Strong daily move; watch whether it follows through or simply retraces.
+Ashok Leyland,ASHOKLEY.NS,High,Positive momentum,Auto,2.3613132457209915,10.952408784576972,10121.9970703125,102539.99633789062,Strong daily move; watch whether it follows through or simply retraces.
+Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.4463055967087655,7.540131641375281,4403.6026611328125,62805.801330566406,Strong daily move; watch whether it follows through or simply retraces.
+Tata Motors,TMCV.NS,High,Positive momentum,Auto,0.9991943041716541,7.720955075971947,3110.000610351557,43389.99938964844,Strong daily move; watch whether it follows through or simply retraces.
+Tata Motors Passenger Vehicles,TMPV.NS,High,Positive momentum,Auto,0.6758781571781826,5.385996409335725,1500.0,29350.0,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.001038884874042,-0.32274721759224523,-1125.0,347445.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.629247547604999,2.1948160535117056,5250.0,244450.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.299483598350987,4.866715918473763,10680.007934570312,230130.0048828125,Strong daily move; watch whether it follows through or simply retraces.
+Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.77927568279924,2.7516834536266854,4394.989013671875,164114.99633789062,No urgent action; monitor with the rest of the portfolio.
+Mahindra & Mahindra,M&M.NS,Medium,Positive momentum,Auto,3.558089690477268,4.331680781197278,6415.00244140625,154509.99755859375,Strong daily move; watch whether it follows through or simply retraces.
+Eicher Motors,EICHERMOT.NS,Medium,Monitor,Auto,2.6485327615828185,3.3355795148247935,3712.5,115012.5,No urgent action; monitor with the rest of the portfolio.
+Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.436026664658238,3.5905492587352317,2161.4388427734375,62359.43884277344,No urgent action; monitor with the rest of the portfolio.
+Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Positive momentum,Consumption / Apparel,0.5284975709451206,4.565331015176621,1001.9989013671875,22950.0,Strong daily move; watch whether it follows through or simply retraces.
