@@ -1,13 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.568933408993818,3.913705583756344,30840.0,818840.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Voltas,VOLTAS.NS,High,Event watch,Consumer Durables,3.4954512818875996,-6.496817508103958,-10710.003662109375,154139.99633789062,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.211725848033385,3.166670840010677,11115.0146484375,362115.0146484375,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.772923232785119,0.22368421052632037,765.0,342765.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.60238263725749,1.5204438052188296,3700.0,247050.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.416203394317106,4.078787164291531,9360.000610351619,238839.99633789065,Strong daily move; watch whether it follows through or simply retraces.
-Strides Pharma Science,STAR.NS,Medium,Monitor,Pharma,4.653345141328626,2.6410589294570075,5280.004882812477,205200.0,No urgent action; monitor with the rest of the portfolio.
-Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,4.359630920663592,2.569457804685693,4815.986328125,192247.9931640625,No urgent action; monitor with the rest of the portfolio.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.146919751156579,3.4836377616883407,6156.005859375,182868.0029296875,No urgent action; monitor with the rest of the portfolio.
-OneSource Specialty Pharma,ONESOURCE.NS,Medium,Monitor,Pharma,3.7204083456416592,2.550314133800602,4079.99267578125,164059.99755859375,No urgent action; monitor with the rest of the portfolio.
-Aster DM Quality Care,ASTERDM.NS,Medium,Positive momentum,Healthcare,3.036919986972366,4.325874574748068,5552.99560546875,133920.0,Strong daily move; watch whether it follows through or simply retraces.
-Ganges Securities,GANGESSECU.NS,Medium,Event watch,Financials,0.22195231759626668,-4.157435140232857,-424.55976104736203,9787.5,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.78069713961547,5.147208121827407,40560.0,828560.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Voltas,VOLTAS.NS,High,Event watch,Consumer Durables,3.4751406212986136,-6.997272467157634,-11535.003662109359,153314.99633789065,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.259961342014343,3.8205086471688077,13409.9853515625,364409.9853515625,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.756897372870916,0.06315532483551767,215.9912109375,342215.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.616801138356562,1.8286418738442611,4450.0,247800.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.401921260822502,3.852192679651023,8840.011596679717,238320.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Positive momentum,Pharma,4.179280847014459,4.339265616831023,7668.0029296875,184380.0,Strong daily move; watch whether it follows through or simply retraces.
+Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,2.993904556969669,2.8955987761302593,3716.993408203125,132083.99780273438,No urgent action; monitor with the rest of the portfolio.
