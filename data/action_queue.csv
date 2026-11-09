@@ -1,9 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.754130264040366,4.994923857868017,39360.0,827360.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.311582279258124,4.465811965811972,15675.0,366675.0,Strong daily move; watch whether it follows through or simply retraces.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.731658384573306,-0.2657920435855221,-909.0087890625,341090.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.6181241369445045,1.8491884117526114,4500.0,247850.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.4111704693542615,4.02649715234209,9240.005493164092,238720.00122070312,Strong daily move; watch whether it follows through or simply retraces.
-Voltas,VOLTAS.NS,Medium,Event watch,Consumer Durables,3.558220844853192,-4.777070063694266,-7875.0,156975.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,2.983805286657421,2.5450414018871603,3266.993408203125,131633.99780273438,No urgent action; monitor with the rest of the portfolio.
-Vardhman Textiles,VTL.NS,Medium,Positive momentum,Textiles,1.3195168440737597,4.00943885681917,2244.0026855468686,58212.00134277344,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.738466528071378,5.030456852791887,39640.0,827640.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.29911369792733,4.431621844951916,15554.99267578125,366554.99267578125,Strong daily move; watch whether it follows through or simply retraces.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.703025873318009,-0.5184197676809221,-1772.99560546875,340227.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.621721085157947,2.0341072529278748,4950.0,248300.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.406633154618803,4.061359376738172,9320.00732421878,238800.0030517578,Strong daily move; watch whether it follows through or simply retraces.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.121538889819383,3.015077084759299,5328.0029296875,182040.0,No urgent action; monitor with the rest of the portfolio.
+Voltas,VOLTAS.NS,Medium,Event watch,Consumer Durables,3.589026450237425,-3.8398499701433164,-6329.99267578125,158520.00732421875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.4305435260605837,2.8549357824002586,1753.7985534667969,63184.2014465332,No urgent action; monitor with the rest of the portfolio.
+Vardhman Textiles,VTL.NS,Medium,Positive momentum,Textiles,1.31996109248775,4.166669165813253,2332.001342773431,58300.0,Strong daily move; watch whether it follows through or simply retraces.
