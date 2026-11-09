@@ -1,10 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.779850597831874,5.3096446700507505,41840.0,829840.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,High,Core exposure,Pharma,8.391459319478525,5.641025641025643,19800.0,370800.0,Strong daily move; watch whether it follows through or simply retraces.
-Voltas,VOLTAS.NS,High,Event watch,Consumer Durables,3.5378553774357986,-5.1683392928230205,-8520.00732421875,156329.99267578125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.718105613046959,-0.27894993832237036,-954.0087890625,341045.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.615805367121348,1.9724676392028018,4800.0,248150.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.427744262279633,4.514554995308617,10360.000610351619,239839.99633789065,Strong daily move; watch whether it follows through or simply retraces.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.108284811730206,2.7298705628588715,4824.0087890625,181536.005859375,No urgent action; monitor with the rest of the portfolio.
-Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,3.0040202803807015,3.407415965937055,4373.997802734375,132741.00219726562,No urgent action; monitor with the rest of the portfolio.
-Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.3114031105105526,3.5377359339332726,1979.9999999999936,57947.99865722656,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.789578665008648,5.4670050761421285,43080.0,831080.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.234062364388686,3.7606837606837695,13200.0,364200.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.756974994267394,0.32105134662829826,1097.99560546875,343097.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.618244089924736,2.1162934045613424,5150.0,248500.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.388088421167452,3.852192679651023,8840.011596679717,238320.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.107535558380386,2.811355772132873,4968.0029296875,181680.0,No urgent action; monitor with the rest of the portfolio.
+Voltas,VOLTAS.NS,Medium,Event watch,Consumer Durables,3.5601808369806713,-4.476792645302552,-7379.99267578125,157470.00732421875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,2.9874588042854144,2.937663949333502,3770.9912109375,132137.99560546875,No urgent action; monitor with the rest of the portfolio.
+Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.4435111343167804,3.935177935603673,2417.3956604003906,63847.7985534668,No urgent action; monitor with the rest of the portfolio.
+Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.3138551760714978,3.8325472617610323,2144.9999999999936,58112.99865722656,No urgent action; monitor with the rest of the portfolio.
