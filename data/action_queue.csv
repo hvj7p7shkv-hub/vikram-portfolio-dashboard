@@ -1,9 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.592060013032274,4.233502538071066,33360.0,821360.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.312169560278411,4.619662293002147,16215.0146484375,367215.0146484375,Strong daily move; watch whether it follows through or simply retraces.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.706777384626837,-0.44736842105262964,-1530.0,340470.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.639685098187142,2.383398397370051,5800.0,249150.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.387523256029728,3.717099066632623,8529.99877929696,238009.994506836,Meaningful exposure; keep the thesis and technical structure under review.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.111367719170829,2.784191272561065,4920.0,181631.9970703125,No urgent action; monitor with the rest of the portfolio.
-Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,2.993684738754728,3.028812290048566,3887.99560546875,132255.0,No urgent action; monitor with the rest of the portfolio.
-Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.3128141139157488,3.626181731462319,2029.5013427734311,57997.5,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.57201160080441,4.187817258883242,33000.0,821000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.297006429863051,4.49572440905448,15779.99267578125,366779.99267578125,Strong daily move; watch whether it follows through or simply retraces.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.729938257916396,-0.08420924136512964,-287.99560546875,341712.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.636073922460924,2.383398397370051,5800.0,249150.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.376382415538142,3.5689395999162654,8190.002441406278,237669.9981689453,Meaningful exposure; keep the thesis and technical structure under review.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.101406009413929,2.6008454069738507,4596.005859375,181308.0029296875,No urgent action; monitor with the rest of the portfolio.
+Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,2.9899354695701335,2.9657102509788924,3806.993408203125,132173.99780273438,No urgent action; monitor with the rest of the portfolio.
+Vardhman Textiles,VTL.NS,Medium,Monitor,Textiles,1.3124711961155606,3.6654923076867574,2051.5026855468686,58019.50134277344,No urgent action; monitor with the rest of the portfolio.
