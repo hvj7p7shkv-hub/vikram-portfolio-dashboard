@@ -1,11 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.211678960854876,-0.6003346127349651,-4880.0,808000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.739383563708612,7.212330124625299,17130.00488281244,254639.99938964844,Strong daily move; watch whether it follows through or simply retraces.
-Aditya Birla Lifestyle Brands,ABLBL.NS,High,Positive momentum,Consumption / Apparel,0.5504074363375261,7.23224555251849,1646.9993591308594,24420.000457763672,Strong daily move; watch whether it follows through or simply retraces.
-Ganges Securities,GANGESSECU.NS,High,Positive momentum,Financials,0.22746567335760817,5.4449575015477425,521.129814147948,10092.0,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.188493770394278,-1.3039934800325947,-4800.0,363300.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.8930047714130795,1.949376419851756,6695.9912109375,350190.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.431948798967853,-2.6065871893311776,-6450.0,241000.0,Meaningful exposure; keep the thesis and technical structure under review.
-Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,4.401591583906503,3.8181043286900307,7182.0068359375,195286.00341796875,No urgent action; monitor with the rest of the portfolio.
-Mahindra & Mahindra,M&M.NS,Medium,Monitor,Auto,3.853640854371488,3.917215660315576,6444.9951171875,170975.0,No urgent action; monitor with the rest of the portfolio.
-Ingersoll-Rand India,INGERRAND.NS,Medium,Positive momentum,Industrials,3.7245589940619905,4.254784573289938,6744.00390625,165248.0078125,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.184408024945604,-0.5806515106780874,-4720.0,808160.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.729654583712714,7.212330124625299,17130.00488281244,254639.99938964844,Strong daily move; watch whether it follows through or simply retraces.
+Mahindra & Mahindra,M&M.NS,High,Positive momentum,Auto,3.8982982210475963,5.2999421737076835,8719.9951171875,173250.0,Strong daily move; watch whether it follows through or simply retraces.
+Aditya Birla Lifestyle Brands,ABLBL.NS,High,Positive momentum,Consumption / Apparel,0.5512969845453852,7.5879254761662684,1727.9983520507812,24500.999450683594,Strong daily move; watch whether it follows through or simply retraces.
+Ganges Securities,GANGESSECU.NS,High,Positive momentum,Financials,0.22676686922691974,5.299512851968302,507.20949554443234,10078.079681396484,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.198239289112218,-1.0187449062754705,-3750.0,364350.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.910001481252942,2.342396375209699,8045.9912109375,351540.0,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.4272411596922385,-2.525762780359664,-6250.0,241200.0,Meaningful exposure; keep the thesis and technical structure under review.
+Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,4.3843649732530405,3.587382711968834,6748.01025390625,194852.0068359375,No urgent action; monitor with the rest of the portfolio.
+Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.789280712055016,2.990549152926514,4889.996337890625,168404.99267578125,No urgent action; monitor with the rest of the portfolio.
+Ingersoll-Rand India,INGERRAND.NS,Medium,Positive momentum,Industrials,3.7182453961739,4.254784573289938,6744.00390625,165248.0078125,Strong daily move; watch whether it follows through or simply retraces.
