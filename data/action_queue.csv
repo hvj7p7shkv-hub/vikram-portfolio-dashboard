@@ -1,14 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.041614661034235,-1.3728963684676687,-11160.0,801720.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Aditya Birla Lifestyle Brands,ABLBL.NS,High,Positive momentum,Consumption / Apparel,0.5452855693785486,6.402308979709481,1457.9978942871094,24230.998992919922,Strong daily move; watch whether it follows through or simply retraces.
-Ganges Securities,GANGESSECU.NS,High,Positive momentum,Financials,0.2271066895663792,5.4449575015477425,521.129814147948,10092.0,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.212701779354942,-0.8557457212713948,-3150.0,364950.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.904852045578877,2.263792384138119,7775.9912109375,351270.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.586527515344197,4.521917284139754,10740.005493164006,248250.0,Strong daily move; watch whether it follows through or simply retraces.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.529143244793834,-0.7072135785007094,-1750.0,245700.0,Meaningful exposure; keep the thesis and technical structure under review.
-Mahindra & Mahindra,M&M.NS,Medium,Positive momentum,Auto,3.878276598724681,4.746853052217714,7809.99755859375,172340.00244140625,Strong daily move; watch whether it follows through or simply retraces.
-Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.790737401650473,3.018074043748009,4935.003662109375,168450.0,No urgent action; monitor with the rest of the portfolio.
-Ingersoll-Rand India,INGERRAND.NS,Medium,Monitor,Industrials,3.6693527038049956,2.871846814792356,4551.9921875,163055.99609375,No urgent action; monitor with the rest of the portfolio.
-Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.5061174235056987,3.7401047428097245,4015.00244140625,111365.00244140625,No urgent action; monitor with the rest of the portfolio.
-Tata Motors,TMCV.NS,Medium,Monitor,Auto,1.0122134977671315,3.0115639712116504,1314.9993896484432,44979.99877929688,No urgent action; monitor with the rest of the portfolio.
-Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.36608914247580826,2.9790343877625025,470.6096897125244,16268.0,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.0607119925014,-1.318767837811241,-10720.0,802160.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.682585879081535,6.265001569179929,14880.004882812444,252389.99938964844,Strong daily move; watch whether it follows through or simply retraces.
+Aditya Birla Lifestyle Brands,ABLBL.NS,High,Positive momentum,Consumption / Apparel,0.5475221664076849,6.78434152026659,1544.9981689453125,24317.999267578125,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.24593026914197,-0.5052934940403375,-1859.9853515625,366240.0146484375,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.880307045166495,1.894351067377964,6506.982421875,350000.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.535337143907037,-0.6465952717720769,-1600.0,245850.0,Meaningful exposure; keep the thesis and technical structure under review.
+Mahindra & Mahindra,M&M.NS,Medium,Positive momentum,Auto,3.85481008295431,4.060045266843049,6679.99267578125,171209.99755859375,Strong daily move; watch whether it follows through or simply retraces.
+Ingersoll-Rand India,INGERRAND.NS,Medium,Monitor,Industrials,3.6654581534596935,2.7103391636030594,4295.99609375,162800.0,No urgent action; monitor with the rest of the portfolio.
+Tata Motors,TMCV.NS,Medium,Monitor,Auto,1.0108154070885085,2.816905641240619,1230.0018310546932,44895.00122070313,No urgent action; monitor with the rest of the portfolio.
+Ganges Securities,GANGESSECU.NS,Medium,Positive momentum,Financials,0.22536151438281113,4.581402434013282,438.4800796508764,10009.350265502928,Strong daily move; watch whether it follows through or simply retraces.
