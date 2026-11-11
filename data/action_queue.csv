@@ -1,12 +1,13 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.085684248986837,-1.057966735557525,-8600.0,804280.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Nippon Life India AMC,NAM-INDIA.NS,High,Positive momentum,Asset Management,2.5370733145073108,5.100139729855613,5475.0,112825.0,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.180248276263145,-1.1735961217654856,-4320.00732421875,363779.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.882748064706738,2.0541817412805363,7055.9912109375,350550.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.587970030180072,0.4243281471004279,1050.0,248500.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.55941169692972,4.092459873482612,9720.00122070304,247229.99572753903,Strong daily move; watch whether it follows through or simply retraces.
-Mahindra & Mahindra,M&M.NS,Medium,Positive momentum,Auto,3.856486358856669,4.236306394175293,6969.9951171875,171500.0,Strong daily move; watch whether it follows through or simply retraces.
-Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.794647656309405,3.2015434543334775,5235.003662109375,168750.0,No urgent action; monitor with the rest of the portfolio.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Positive momentum,Consumption / Apparel,0.5365800498790289,4.781974810034018,1088.9991760253906,23862.000274658203,Strong daily move; watch whether it follows through or simply retraces.
-Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.3672524168900284,3.3835971247649255,534.5200443267802,16331.910354614256,No urgent action; monitor with the rest of the portfolio.
-Ganges Securities,GANGESSECU.NS,Medium,Positive momentum,Financials,0.22498044326741096,4.535949247224069,434.12981414794797,10005.0,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.038291727912295,-1.3728963684676687,-11160.0,801720.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Aditya Birla Lifestyle Brands,ABLBL.NS,High,Positive momentum,Consumption / Apparel,0.5452526507114789,6.415485288164158,1460.99853515625,24233.999633789062,Strong daily move; watch whether it follows through or simply retraces.
+Ganges Securities,GANGESSECU.NS,High,Positive momentum,Financials,0.23090147206851355,7.226612847800262,691.6497344970691,10262.519920349121,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.174064991207077,-1.3039934800325947,-4800.0,363300.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.887601376042659,2.0594207279901466,7073.98681640625,350567.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.589323452101573,4.593492448502112,10910.003662109319,248419.9981689453,Strong daily move; watch whether it follows through or simply retraces.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.588873503484276,0.38391594261466544,950.0,248400.0,Meaningful exposure; keep the thesis and technical structure under review.
+Mahindra & Mahindra,M&M.NS,Medium,Positive momentum,Auto,3.860237518934686,4.278848857622819,7039.990234375,171569.9951171875,Strong daily move; watch whether it follows through or simply retraces.
+Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.790376627606331,3.0272452746604506,4950.0,168464.99633789062,No urgent action; monitor with the rest of the portfolio.
+Ingersoll-Rand India,INGERRAND.NS,Medium,Monitor,Industrials,3.6754267238471834,3.061116481555759,4851.9921875,163355.99609375,No urgent action; monitor with the rest of the portfolio.
+Nippon Life India AMC,NAM-INDIA.NS,Medium,Positive momentum,Asset Management,2.533442658986834,4.890544946436881,5250.0,112600.0,Strong daily move; watch whether it follows through or simply retraces.
+Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.36785181619791224,3.493927314936518,551.9493350982686,16349.339645385744,No urgent action; monitor with the rest of the portfolio.
