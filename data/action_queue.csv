@@ -1,10 +1,8 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.62298235744555,2.6430409819837575,21360.0,829520.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.058539296466728,-1.4820913956360648,-5400.0,358950.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.886120904498865,-0.07680491551459445,-270.0,351270.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.623578639472989,-1.6297494134588253,-4149.993896484347,250490.0054931641,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.427362794040484,0.2280265339966725,550.0,241750.0,Meaningful exposure; keep the thesis and technical structure under review.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.1299592951052215,2.569250972923931,4608.0029296875,183960.0,No urgent action; monitor with the rest of the portfolio.
-Ingersoll-Rand India,INGERRAND.NS,Medium,Event watch,Industrials,3.5921397216061615,-3.1734142974964907,-5244.00390625,160004.00390625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.5052303099788005,2.5643404792336844,2790.00244140625,111590.00244140625,No urgent action; monitor with the rest of the portfolio.
-Ganges Securities,GANGESSECU.NS,Medium,Event watch,Financials,0.2187558348092264,-3.3149140705165725,-334.0796813964844,9744.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.693611515483134,3.1231439318946785,25240.0,833400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.056152193506986,-1.4244585284582167,-5190.0146484375,359159.9853515625,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.881194314950987,-0.051203277009725934,-180.0,351360.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.616382740523334,-1.669022938339193,-4250.0,250389.99938964844,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.427069001885221,0.3109452736318463,750.0,241950.0,Meaningful exposure; keep the thesis and technical structure under review.
+Ingersoll-Rand India,INGERRAND.NS,Medium,Monitor,Industrials,3.6001015697564704,-2.8732617568905106,-4748.0078125,160500.0,No urgent action; monitor with the rest of the portfolio.
+Nippon Life India AMC,NAM-INDIA.NS,Medium,Monitor,Asset Management,2.5063885245725763,2.7022081262925157,2940.00244140625,111740.00244140625,No urgent action; monitor with the rest of the portfolio.
