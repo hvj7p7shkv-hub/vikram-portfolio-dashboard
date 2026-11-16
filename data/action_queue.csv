@@ -1,10 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.662525345680002,2.595122876933287,21880.0,865000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,High,Core exposure,Pharma,7.641107393006166,-7.549504950495045,-27450.0,336150.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.3634367575814235,-7.586561891085763,-19370.010375976562,235949.9969482422,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Inox Wind,INOXWIND.NS,High,Event watch,Renewables,1.2735587821905763,-8.30100655926721,-5071.798553466803,56026.79855346679,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Motors Passenger Vehicles,TMPV.NS,High,Event watch,Auto,0.5980590217871607,-8.45511075470694,-2429.998779296875,26310.000610351562,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.984189946341155,-0.88884375229209,-3150.0,351242.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.332749648666508,-3.7143443463985237,-9050.0,234600.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Aster DM Quality Care,ASTERDM.NS,Medium,Positive momentum,Healthcare,3.088766884889332,4.484432444852948,5832.00439453125,135882.00439453125,Strong daily move; watch whether it follows through or simply retraces.
-Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.34667987246046494,-2.597405354815674,-406.70044326782227,15251.25,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.721801961449835,2.6378214251826515,22240.0,865360.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,High,Core exposure,Pharma,7.5645519223112005,-8.71286927276712,-31679.99267578125,331920.00732421875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.387623490009262,-7.4103136789075545,-18920.013427734346,236399.9938964844,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Inox Wind,INOXWIND.NS,High,Event watch,Renewables,1.2731939241879664,-8.564774095333693,-5232.956817626953,55865.64028930664,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Motors Passenger Vehicles,TMPV.NS,High,Event watch,Auto,0.5974473356547272,-8.785664765565215,-2525.0,26214.999389648438,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.964521276079173,-1.3891345671372513,-4922.99560546875,349470.0,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.33178742821622,-3.9811204596757688,-9700.0,233950.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Aster DM Quality Care,ASTERDM.NS,Medium,Positive momentum,Healthcare,3.0906363759177795,4.27681998810554,5562.00439453125,135612.00439453125,Strong daily move; watch whether it follows through or simply retraces.
+Network18 Media & Investments,NETWORK18.NS,Medium,Event watch,Media,0.3447997198827003,-3.376622714844235,-528.7099113464355,15129.240531921387,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
