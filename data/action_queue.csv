@@ -1,12 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.71089372723693,2.595122876933287,21880.0,865000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,High,Core exposure,Pharma,7.514977954958684,-9.298675839263614,-33809.9853515625,329790.0146484375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.342677775288199,-8.170139437550006,-20860.000610351562,234460.0067138672,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Inox Wind,INOXWIND.NS,High,Event watch,Renewables,1.280580051760467,-8.021719804109795,-4901.15826416015,56197.438842773445,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Motors Passenger Vehicles,TMPV.NS,High,Event watch,Auto,0.5989605244520201,-8.54209753456403,-2454.998779296875,26285.000610351562,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.968145979744701,-1.3307235948273655,-4715.9912109375,349677.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.356122046921433,-3.5296531910527396,-8600.0,235050.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Strides Pharma Science,STAR.NS,Medium,Monitor,Pharma,4.489526226468927,-2.907549843273316,-5900.0,197019.99511718753,No urgent action; monitor with the rest of the portfolio.
-Aster DM Quality Care,ASTERDM.NS,Medium,Positive momentum,Healthcare,3.0838546753387477,4.062280357915227,5282.99560546875,135332.99560546875,Strong daily move; watch whether it follows through or simply retraces.
-Tata Steel,TATASTEEL.NS,Medium,Monitor,Metals,1.2439738805571514,-2.523029590674053,-1412.9974365234375,54591.00036621094,No urgent action; monitor with the rest of the portfolio.
-Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.3464735335153765,-2.8942510744494387,-453.18039894104004,15204.770044326782,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.68342974697718,2.6378214251826515,22240.0,865360.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,High,Core exposure,Pharma,7.522879320785576,-9.038782906610976,-32865.0146484375,330734.9853515625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Viyash Scientific,VIYASH.NS,High,Core exposure,Pharma,5.399204519424837,-7.030397811416867,-17950.01220703125,237369.9951171875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Inox Wind,INOXWIND.NS,High,Event watch,Renewables,1.277616905632293,-8.068265623686754,-4929.597106933594,56169.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Motors Passenger Vehicles,TMPV.NS,High,Event watch,Auto,0.5958300201646614,-8.855247818348833,-2544.9981689453125,26195.001220703125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.922207239767882,-1.7218185658850804,-6102.00439453125,348290.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.446516193160864,-1.723784116560645,-4200.0,239450.0,Meaningful exposure; keep the thesis and technical structure under review.
+Strides Pharma Science,STAR.NS,Medium,Monitor,Pharma,4.48277067422201,-2.8779767272330226,-5839.9902343750455,197080.00488281247,No urgent action; monitor with the rest of the portfolio.
+Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,3.0676316825668826,3.702422145328721,4815.0,134865.0,No urgent action; monitor with the rest of the portfolio.
+Tata Steel,TATASTEEL.NS,Medium,Monitor,Metals,1.2386531334131394,-2.7640821757916045,-1547.9965209961024,54456.001281738274,No urgent action; monitor with the rest of the portfolio.
