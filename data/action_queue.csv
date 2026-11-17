@@ -1,9 +1,10 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.219526790658893,0.8824366638201075,7440.0,850560.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,8.106610830396907,2.541545796936351,8892.00439453125,358757.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.666931715658581,1.8918918918918948,6300.0,339300.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.393741822952265,-2.031602708803615,-4950.0,238700.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.3858332485188924,0.8334043404727653,1970.0012207030966,238350.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
-Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,4.336821581682352,2.8354999265160608,5292.0068359375,191926.00341796875,No urgent action; monitor with the rest of the portfolio.
-Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.941928198634364,2.6387807835403843,4485.003662109375,174450.0,No urgent action; monitor with the rest of the portfolio.
-Tata Motors,TMCV.NS,Medium,Monitor,Auto,1.0062141465936612,3.9813164723803363,1704.9987792968807,44529.99877929688,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.160617743497273,0.41749691621595364,3520.0,846640.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,8.055226635737036,1.7338104691451584,6066.01318359375,355932.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.650645482071972,1.5180158185529313,5054.99267578125,338054.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.414553759722813,-1.8058690744920947,-4400.0,239250.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.3862645551265596,0.6853350891462329,1619.9951171875,238000.0,Meaningful exposure; keep the thesis and technical structure under review.
+Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,4.35241844492715,3.0455311926693707,5683.99658203125,192317.9931640625,No urgent action; monitor with the rest of the portfolio.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.178202362048174,3.379925445402443,6036.005859375,184620.0,No urgent action; monitor with the rest of the portfolio.
+Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,3.9775751572944897,3.4065816271840577,5789.996337890625,175754.99267578125,No urgent action; monitor with the rest of the portfolio.
+Tata Motors,TMCV.NS,Medium,Monitor,Auto,1.0051720039009713,3.712783163218769,1589.9993896484375,44414.99938964844,No urgent action; monitor with the rest of the portfolio.
