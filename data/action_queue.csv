@@ -1,10 +1,13 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.206145286903258,-2.4399260628465758,-21120.0,844480.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,4.390976831327968,8.110474210615504,14484.0087890625,193068.0029296875,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.981485539415792,0.06843873636654951,240.0146484375,350940.0146484375,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.937818335585183,0.33895050291743445,1179.0087890625,349020.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.460633151034331,0.6708595387840743,1600.0,240100.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.290059576258414,-2.0218988695769657,-4799.987792968806,232600.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
-Pearl Global Industries,PGIL.NS,Medium,Event watch,Textiles / Apparel,4.221403905699005,-3.0989551130618076,-5935.986328125,185612.0068359375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Event watch,Sugar / Energy,1.3957910113142948,-3.0000028554459046,-1898.101806640625,61371.898193359375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Ganges Securities,GANGESSECU.NS,Medium,Monitor,Financials,0.22554688807266648,3.4110445362691033,327.1195220947253,9917.129814147947,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.25926170075002,-2.35674676524954,-20400.0,845200.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,4.398002412165142,8.07687657478664,14424.0087890625,193008.0029296875,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.960852160672766,-0.38066306004063133,-1334.9853515625,349365.0146484375,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.927150197297996,0.012936945655361853,45.0,347885.9912109375,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.449423137404598,0.2725366876310309,650.0,239150.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.258243166434917,-2.796966958871827,-6639.999389648409,230759.994506836,Meaningful exposure; keep the thesis and technical structure under review.
+Pearl Global Industries,PGIL.NS,Medium,Event watch,Textiles / Apparel,4.233300566452128,-3.0112522030560585,-5767.9931640625,185780.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+AstraZeneca Pharma India,ASTRAZEN.NS,Medium,Monitor,Pharma,3.675871178158886,2.8426984916293696,4459.0,161317.0,No urgent action; monitor with the rest of the portfolio.
+Aster DM Quality Care,ASTERDM.NS,Medium,Monitor,Healthcare,2.9966243529422694,-2.5866699218749956,-3492.00439453125,131507.99560546875,No urgent action; monitor with the rest of the portfolio.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Event watch,Sugar / Energy,1.3928101185478516,-3.391812865497079,-2146.0,61124.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ganges Securities,GANGESSECU.NS,Medium,Monitor,Financials,0.22597799149430398,3.4110445362691033,327.1195220947253,9917.129814147947,No urgent action; monitor with the rest of the portfolio.
+Easy Trip Planners,EASEMYTRIP.NS,Medium,Monitor,Travel,0.21020668710894272,3.36134945400941,300.0004291534424,9225.000143051147,No urgent action; monitor with the rest of the portfolio.
