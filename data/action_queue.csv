@@ -1,12 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.17257812909589,-1.3476334809979007,-11560.0,846240.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Voltas,VOLTAS.NS,High,Positive momentum,Consumer Durables,4.113458776860853,6.6807730001033905,11370.00732421875,181560.00366210938,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.82046509049107,-1.5739969558650535,-5520.00732421875,345179.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.687858648924909,0.3887450500856593,1314.0087890625,339327.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.412564892986633,-0.25052192066805645,-600.0,238900.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.346635491117717,0.16128554892751445,380.0048828125,235990.0054931641,Meaningful exposure; keep the thesis and technical structure under review.
-Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,4.459645347574251,2.762757650718295,5292.0068359375,196840.0,No urgent action; monitor with the rest of the portfolio.
-Mahindra & Mahindra,M&M.NS,Medium,Positive momentum,Auto,3.9693652961542822,4.313652410800484,7244.9951171875,175200.0,Strong daily move; watch whether it follows through or simply retraces.
-Eicher Motors,EICHERMOT.NS,Medium,Monitor,Auto,2.7313175415404083,2.669902912621369,3135.0,120555.0,No urgent action; monitor with the rest of the portfolio.
-Ashok Leyland,ASHOKLEY.NS,Medium,Monitor,Auto,2.2701507001978256,2.8008637348312604,2730.0018310546875,100200.0,No urgent action; monitor with the rest of the portfolio.
-Tata Motors Passenger Vehicles,TMPV.NS,Medium,Positive momentum,Auto,0.5951782601335024,4.019009713966737,1015.0009155273438,26270.001220703125,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,19.153471076151288,-1.3289811144788999,-11400.0,846400.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Voltas,VOLTAS.NS,High,Positive momentum,Consumer Durables,4.171718328081864,8.320115145896413,14160.003662109375,184350.0,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.79591967486447,-1.7664691543252786,-6195.00732421875,344504.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.681189100582954,0.42069518421445906,1422.00439453125,339435.0,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.408411610586198,-0.20876826722338038,-500.0,239000.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.340523598737835,0.16552751947629396,389.9993896484091,236000.0,Meaningful exposure; keep the thesis and technical structure under review.
+Mahindra & Mahindra,M&M.NS,Medium,Positive momentum,Auto,3.968167549718002,4.405941939725588,7400.0,175355.0048828125,Strong daily move; watch whether it follows through or simply retraces.
+Eicher Motors,EICHERMOT.NS,Medium,Monitor,Auto,2.730625556570753,2.765712825753708,3247.5,120667.5,No urgent action; monitor with the rest of the portfolio.
+Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.3165465564409697,-2.5025138188964458,-1493.3013305664062,58178.75,No urgent action; monitor with the rest of the portfolio.
+Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.5928886368090308,3.741832046743432,944.9996948242188,26200.0,No urgent action; monitor with the rest of the portfolio.
