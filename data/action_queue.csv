@@ -1,14 +1,13 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.613169868384148,-0.41662629590155653,-3440.0,822240.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Tata Steel,TATASTEEL.NS,High,Event watch,Metals,1.1062774583895227,-8.48314949635709,-4530.0018310546875,48869.99816894531,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.074671254199048,3.634616002541624,12509.9853515625,356700.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.644112669240075,-0.7669928590320008,-2610.0,337680.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.529123784239185,1.2645107794361454,3050.0,244250.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.318371976941624,0.677066261108239,1580.001831054659,234940.00244140625,Meaningful exposure; keep the thesis and technical structure under review.
-Ingersoll-Rand India,INGERRAND.NS,Medium,Monitor,Industrials,3.5133762514112523,3.8181676845181034,5708.0078125,155204.00390625,No urgent action; monitor with the rest of the portfolio.
-Ashok Leyland,ASHOKLEY.NS,Medium,Monitor,Auto,2.159584069668038,-2.662997209047546,-2610.003662109375,95400.0,No urgent action; monitor with the rest of the portfolio.
-Magadh Sugar & Energy,MAGADSUGAR.NS,Medium,Monitor,Sugar / Energy,1.2756712901258171,-2.709827578562951,-1569.6026611328125,56353.0,No urgent action; monitor with the rest of the portfolio.
-Inox Wind,INOXWIND.NS,Medium,Event watch,Renewables,1.1504715673141777,-3.335734772197363,-1753.7985534667969,50822.28057861328,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.587434031529199,-2.5718062498761185,-685.0006103515625,25950.0,No urgent action; monitor with the rest of the portfolio.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5332406726438806,3.8899110092422973,881.9984436035156,23555.998992919922,No urgent action; monitor with the rest of the portfolio.
-Easy Trip Planners,EASEMYTRIP.NS,Medium,Event watch,Travel,0.20271566733992796,-3.241495682807616,-300.0004291534424,8954.999685287476,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.609920994886338,-0.4456932467784114,-3680.0,822000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Tata Steel,TATASTEEL.NS,High,Event watch,Metals,1.107086540936669,-8.42696629213483,-4500.0,48900.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.050828247060126,3.316475650522066,11414.97802734375,355604.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.6551977931884645,-0.6347527109230366,-2160.0,338130.0,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.529772753042565,1.2645107794361454,3050.0,244250.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.318996209212864,0.677066261108239,1580.001831054659,234940.00244140625,Meaningful exposure; keep the thesis and technical structure under review.
+Ingersoll-Rand India,INGERRAND.NS,Medium,Monitor,Industrials,3.510437758014711,3.7191631517096146,5560.0,155055.99609375,No urgent action; monitor with the rest of the portfolio.
+Ashok Leyland,ASHOKLEY.NS,Medium,Monitor,Auto,2.1557623394857592,-2.846653799527077,-2790.0054931640625,95219.99816894531,No urgent action; monitor with the rest of the portfolio.
+Inox Wind,INOXWIND.NS,Medium,Event watch,Renewables,1.152538232967409,-3.1734553743004934,-1668.4784088134766,50907.6007232666,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Motors Passenger Vehicles,TMPV.NS,Medium,Monitor,Auto,0.5863709899848616,-2.7595291665430177,-735.0006103515625,25900.0,No urgent action; monitor with the rest of the portfolio.
+Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5333032606008052,3.8899110092422973,881.9984436035156,23555.998992919922,No urgent action; monitor with the rest of the portfolio.
+Easy Trip Planners,EASEMYTRIP.NS,Medium,Event watch,Travel,0.2023998719697714,-3.40356621637371,-315.000057220459,8940.000057220459,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
