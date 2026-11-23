@@ -1,11 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.72094181048257,0.03391144268967139,280.0,825960.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Tata Steel,TATASTEEL.NS,High,Event watch,Metals,1.1173272175703797,-7.68538914369733,-4103.997802734375,49296.002197265625,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.860116145473936,0.7539354986156654,2594.970703125,346784.9853515625,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.64252598717561,-0.9124570219518624,-3105.0,337185.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.459028082539986,-0.14510779436152088,-350.0,240850.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.317820809923692,0.5399359374101742,1259.994506835909,234619.9951171875,Meaningful exposure; keep the thesis and technical structure under review.
-Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,4.6858563853459705,2.870076709987801,5767.9931640625,206737.9931640625,No urgent action; monitor with the rest of the portfolio.
-Fredun Pharmaceuticals,FREDUN.NS,Medium,Monitor,Pharma,4.483452119345302,-2.6861089405638916,-5460.0,197808.0029296875,No urgent action; monitor with the rest of the portfolio.
-Ingersoll-Rand India,INGERRAND.NS,Medium,Monitor,Industrials,3.477640055729456,2.6328503519965185,3936.005859375,153432.001953125,No urgent action; monitor with the rest of the portfolio.
-Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5318727630643103,3.4929866706667756,791.9998168945312,23466.000366210938,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.72681761097347,0.07751186900493146,640.0,826320.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Tata Steel,TATASTEEL.NS,High,Event watch,Metals,1.10692460409629,-8.533709236745079,-4557.000732421875,48842.999267578125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,7.966239936241005,2.1267237257309057,7319.970703125,351509.9853515625,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.6324155714779325,-1.031473155249929,-3510.0,336780.0,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.4719601512362575,0.10364842454395617,250.0,241450.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.333489674686372,0.8484726269970766,1979.9957275390625,235339.99633789065,Meaningful exposure; keep the thesis and technical structure under review.
+Pearl Global Industries,PGIL.NS,Medium,Monitor,Textiles / Apparel,4.670372946642236,2.5426680599094365,5110.0,206080.0,No urgent action; monitor with the rest of the portfolio.
+Fredun Pharmaceuticals,FREDUN.NS,Medium,Event watch,Pharma,4.4559817972088345,-3.2705604590345216,-6648.0029296875,196620.0,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Ingersoll-Rand India,INGERRAND.NS,Medium,Monitor,Industrials,3.480751315057578,2.737198359853643,4092.001953125,153587.998046875,No urgent action; monitor with the rest of the portfolio.
+Aditya Birla Lifestyle Brands,ABLBL.NS,Medium,Monitor,Consumption / Apparel,0.5286804303783385,2.8843612759480663,654.0000915527344,23328.00064086914,No urgent action; monitor with the rest of the portfolio.
+Easy Trip Planners,EASEMYTRIP.NS,Medium,Monitor,Travel,0.20362625835663428,-2.9173468873585406,-270.0004577636719,8984.999656677246,No urgent action; monitor with the rest of the portfolio.
