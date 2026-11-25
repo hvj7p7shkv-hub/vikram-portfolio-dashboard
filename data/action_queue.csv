@@ -1,8 +1,9 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.895782799616125,1.8637469586374689,15320.0,837320.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.285578984613066,3.2479858938680772,11550.0,367154.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.666318879359156,0.46846147607799704,1584.0087890625,339714.0087890625,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.472492391089322,-0.7164790174002067,-1750.0,242500.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.1748338838767625,-2.396358569978596,-5630.004882812556,229309.9975585937,Meaningful exposure; keep the thesis and technical structure under review.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Event watch,Sugar / Energy,1.3659408912947848,-3.063519312621743,-1912.898193359375,60528.30090332031,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Tata Steel,TATASTEEL.NS,Medium,Event watch,Metals,1.0657481346616677,-3.423314006782019,-1674.0005493164062,47225.999450683594,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.925284198737963,2.1897810218978186,18000.0,840000.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.28690914855315,3.4335912667538437,12210.02197265625,367815.0146484375,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.655006998177437,0.48442776608663696,1637.99560546875,339767.99560546875,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.487205912622179,-0.2865916069600849,-700.0,243550.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.160519527947994,-2.5070227838775105,-5889.9993896484375,229050.0030517578,Meaningful exposure; keep the thesis and technical structure under review.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.3692105166283366,-2.672432818107784,-1668.6990966796875,60772.5,No urgent action; monitor with the rest of the portfolio.
+Tata Steel,TATASTEEL.NS,Medium,Monitor,Metals,1.0716442383804599,-2.730059477449198,-1334.9990844726562,47565.000915527344,No urgent action; monitor with the rest of the portfolio.
+Tata Motors,TMCV.NS,Medium,Monitor,Auto,0.9965063059619365,-2.5341560840337674,-1150.0,44229.99877929688,No urgent action; monitor with the rest of the portfolio.
