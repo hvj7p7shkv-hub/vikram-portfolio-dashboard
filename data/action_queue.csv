@@ -1,9 +1,7 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.862833700771144,1.7858880778588881,14680.0,836680.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.076245133709097,0.7381786122427458,2625.0,358229.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.649471093693705,0.34602076124568004,1170.0,339300.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.557308059521068,0.9211873080859689,2250.0,246500.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.298042166277692,0.02553739591821813,59.99755859375,235000.0,Meaningful exposure; keep the thesis and technical structure under review.
-Pearl Global Industries,PGIL.NS,Medium,Event watch,Textiles / Apparel,4.508115505831085,-3.45410130746594,-7153.99658203125,199962.0068359375,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Voltas,VOLTAS.NS,Medium,Monitor,Consumer Durables,4.230204941580955,2.65900897940603,4860.003662109375,187635.00366210938,No urgent action; monitor with the rest of the portfolio.
-Easy Trip Planners,EASEMYTRIP.NS,Medium,Positive momentum,Travel,0.2100053748171621,4.194630845635494,375.0,9315.000057220459,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.930291118866908,2.1021897810219015,17280.0,839280.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.160541567541282,1.742103584543031,6195.00732421875,361800.0,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.691209027254814,0.846421315627488,2862.00439453125,340992.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.510282766584674,0.020470829068575114,50.0,244300.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.227438001288486,-1.3535404365049963,-3180.0079345702557,231759.994506836,Meaningful exposure; keep the thesis and technical structure under review.
+Pearl Global Industries,PGIL.NS,Medium,Event watch,Textiles / Apparel,4.469486740603058,-4.326078068394523,-8960.0,198156.00341796875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
