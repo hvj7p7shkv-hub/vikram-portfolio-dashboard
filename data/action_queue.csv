@@ -1,6 +1,8 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.985928737380682,2.681265206812644,22040.0,844040.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.215973735046083,2.7122811892049237,9645.00732421875,365250.0,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.656545215427749,0.6654245408570736,2250.0,340380.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.532426393250058,0.6960081883316205,1700.0,245950.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.159024301927838,-2.379329309526501,-5589.996337890653,229350.0061035156,Meaningful exposure; keep the thesis and technical structure under review.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.967733054516394,2.2773722627737136,18720.0,840720.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.258111132149597,2.9316236314783417,10425.0,366029.99267578125,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.641443483823193,0.16768828395328228,567.00439453125,338697.00439453125,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.546694703888162,0.6550665301944703,1600.0,245850.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.177817508815673,-2.3154858197309225,-5440.00244140625,229500.0,Meaningful exposure; keep the thesis and technical structure under review.
+Ingersoll-Rand India,INGERRAND.NS,Medium,Monitor,Industrials,3.4076581983944196,-2.5900295344411184,-4015.99609375,151040.0,No urgent action; monitor with the rest of the portfolio.
+Inox Wind,INOXWIND.NS,Medium,Monitor,Renewables,1.117742536537154,-2.6815687540921895,-1365.122314453125,49542.47840881348,No urgent action; monitor with the rest of the portfolio.
