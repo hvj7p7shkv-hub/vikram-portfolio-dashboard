@@ -1,11 +1,12 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.870767355493065,0.7201449828309725,6040.0,844760.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-BSE,BSE.NS,High,Core exposure,Market Infrastructure,8.034462291510371,5.856646019176215,19899.0087890625,359667.00439453125,Strong daily move; watch whether it follows through or simply retraces.
-Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,4.667251183569801,6.080541265387085,11975.9912109375,208931.9970703125,Strong daily move; watch whether it follows through or simply retraces.
-Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.4331181485875943,5.551840016621834,3374.4027099609375,64154.30090332031,Strong daily move; watch whether it follows through or simply retraces.
-Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.340295633327105,6.223465696700048,3515.25,59999.051330566406,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.397084910424077,1.869918699187001,6900.0,375900.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.5511455180643345,1.9278096800656286,4700.0,248500.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.080917630354048,-0.6247849982799814,-1430.0079345703125,227449.9969482422,Meaningful exposure; keep the thesis and technical structure under review.
-OneSource Specialty Pharma,ONESOURCE.NS,Medium,Event watch,Pharma,3.4531030232900903,-3.5442360927932404,-5679.99267578125,154580.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Easy Trip Planners,EASEMYTRIP.NS,Medium,Monitor,Travel,0.21076481949818066,3.7953798885349777,345.0000286102295,9434.999942779541,No urgent action; monitor with the rest of the portfolio.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.87718362968426,0.7201449828309725,6040.0,844760.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+BSE,BSE.NS,High,Core exposure,Market Infrastructure,8.025327967845945,5.700359026151025,19367.99560546875,359135.9912109375,Strong daily move; watch whether it follows through or simply retraces.
+Fredun Pharmaceuticals,FREDUN.NS,High,Positive momentum,Pharma,4.668838101724683,6.080541265387085,11975.9912109375,208931.9970703125,Strong daily move; watch whether it follows through or simply retraces.
+Avadh Sugar & Energy,AVADHSUGAR.NS,High,Positive momentum,Sugar / Energy,1.438566283384377,5.9170923559622945,3596.4027099609375,64376.30090332031,Strong daily move; watch whether it follows through or simply retraces.
+Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.345988093903039,6.638356342832896,3749.5960083007812,60233.39733886719,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.39658808283283,1.8292682926829285,6750.0,375750.0,Meaningful exposure; keep the thesis and technical structure under review.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.558619522567309,2.0303527481542183,4950.0,248750.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.082645199776378,-0.6247849982799814,-1430.0079345703125,227449.9969482422,Meaningful exposure; keep the thesis and technical structure under review.
+OneSource Specialty Pharma,ONESOURCE.NS,Medium,Event watch,Pharma,3.4542771173473428,-3.5442360927932404,-5679.99267578125,154580.0048828125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Tata Steel,TATASTEEL.NS,Medium,Monitor,Metals,1.0963496676190847,2.661638514217346,1271.9970703125,49061.997985839844,No urgent action; monitor with the rest of the portfolio.
+Easy Trip Planners,EASEMYTRIP.NS,Medium,Positive momentum,Travel,0.2118420683627679,4.290432860343918,390.0003433227539,9480.000257492065,Strong daily move; watch whether it follows through or simply retraces.
