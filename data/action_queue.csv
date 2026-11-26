@@ -1,12 +1,11 @@
 Display Name,Yahoo Ticker,Coordination Priority,Portfolio Bucket,Theme,Weight %,Day Change %,Day P&L,Current Value,Suggested Discussion
-Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.889690031834682,2.681265206812644,22040.0,844040.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
-Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.353761521727824,6.363203106282933,3618.8013305664062,60489.551330566406,Strong daily move; watch whether it follows through or simply retraces.
-Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.328078755744448,0.8455304401676855,3120.00732421875,372120.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
-BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.9077805268097086,3.9944917031828897,13572.00439453125,353340.0,Meaningful exposure; keep the thesis and technical structure under review.
-PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.492073756945442,0.656275635767023,1600.0,245400.0,Meaningful exposure; keep the thesis and technical structure under review.
-Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.139587223967249,0.3364160246615455,769.9890136719034,229649.9938964844,Meaningful exposure; keep the thesis and technical structure under review.
-Pearl Global Industries,PGIL.NS,Medium,Event watch,Textiles / Apparel,4.427542383291802,-4.481549799513084,-9282.0068359375,197833.99658203125,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.438263131920651,2.9213113025204906,1824.101806640625,64265.30090332031,No urgent action; monitor with the rest of the portfolio.
-Tata Motors,TMCV.NS,Medium,Event watch,Auto,0.9552940980738059,-3.4276004290688666,-1514.9993896484375,42685.00061035156,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
-Network18 Media & Investments,NETWORK18.NS,Medium,Monitor,Media,0.3296217837625802,2.7563855009032245,395.0801773071289,14728.350221633911,No urgent action; monitor with the rest of the portfolio.
-Easy Trip Planners,EASEMYTRIP.NS,Medium,Positive momentum,Travel,0.2135060502899998,4.9504982436891165,450.0002861022949,9540.000200271606,Strong daily move; watch whether it follows through or simply retraces.
+Neuland Laboratories,NEULANDLAB.NS,High,Anchor exposure,Pharma,18.913532264966797,2.8029197080291945,23040.0,845040.0,Large exposure; confirm that the thesis and risk limit are still appropriate.
+Magadh Sugar & Energy,MAGADSUGAR.NS,High,Positive momentum,Sugar / Energy,1.3582574678698156,6.708193579300437,3815.0,60685.75,Strong daily move; watch whether it follows through or simply retraces.
+Easy Trip Planners,EASEMYTRIP.NS,High,Positive momentum,Travel,0.21452972992031533,5.4455433468980186,494.99988555908203,9584.999799728394,Strong daily move; watch whether it follows through or simply retraces.
+Laurus Labs,LAURUSLABS.NS,Medium,Core exposure,Pharma,8.375724442301811,1.4146361312245892,5220.00732421875,374220.00732421875,Meaningful exposure; keep the thesis and technical structure under review.
+BSE,BSE.NS,Medium,Core exposure,Market Infrastructure,7.919470899572241,4.140179350754836,14067.00439453125,353835.0,Strong daily move; watch whether it follows through or simply retraces.
+PTC Industries,PTCIL.NS,Medium,Core exposure,Industrials,5.460044726922572,0.06152584085314938,150.0,243950.0,Meaningful exposure; keep the thesis and technical structure under review.
+Viyash Scientific,VIYASH.NS,Medium,Core exposure,Pharma,5.127898547726081,0.10048747056643492,229.99572753909092,229110.0006103516,Meaningful exposure; keep the thesis and technical structure under review.
+Pearl Global Industries,PGIL.NS,Medium,Event watch,Textiles / Apparel,4.422557968941401,-4.596457947669186,-9520.0,197596.00341796875,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
+Avadh Sugar & Energy,AVADHSUGAR.NS,Medium,Monitor,Sugar / Energy,1.4409415024360532,3.1050026767077465,1938.8009033203125,64380.0,No urgent action; monitor with the rest of the portfolio.
+Tata Motors,TMCV.NS,Medium,Event watch,Auto,0.9587252273427965,-3.0882339132317638,-1364.9993896484375,42835.00061035156,Sharp daily weakness; check whether this is event-driven or part of wider sector pressure.
